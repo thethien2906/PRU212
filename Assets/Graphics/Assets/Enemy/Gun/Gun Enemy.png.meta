@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 8b9f85e8c494c314b9af03a638c6f006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5378345316551236009
+    second: Gun Enemy_0
+  - first:
+      213: 7131338333751069664
+    second: Gun Enemy_1
+  - first:
+      213: 6752986753464452936
+    second: Gun Enemy_2
+  - first:
+      213: -6368764740928744830
+    second: Gun Enemy_3
+  - first:
+      213: 7958805025585239549
+    second: Gun Enemy_4
+  - first:
+      213: -5236040975222774267
+    second: Gun Enemy_5
+  - first:
+      213: -5606395170626085948
+    second: Gun Enemy_6
+  - first:
+      213: 4320763372206235445
+    second: Gun Enemy_7
+  - first:
+      213: -7371870241951867065
+    second: Gun Enemy_8
+  - first:
+      213: 3392193110066033524
+    second: Gun Enemy_9
+  - first:
+      213: -1035672092471002528
+    second: Gun Enemy_10
+  - first:
+      213: 5555184299431970019
+    second: Gun Enemy_11
+  - first:
+      213: 8467510676509262751
+    second: Gun Enemy_12
+  - first:
+      213: 1695906452254677334
+    second: Gun Enemy_13
+  - first:
+      213: -1530108406275248890
+    second: Gun Enemy_14
+  - first:
+      213: 7560645682955950411
+    second: Gun Enemy_15
+  - first:
+      213: -8654670752451107167
+    second: Gun Enemy_16
+  - first:
+      213: -1563764611776611655
+    second: Gun Enemy_17
+  - first:
+      213: -4132284214528946729
+    second: Gun Enemy_18
+  - first:
+      213: -9201047880368349551
+    second: Gun Enemy_19
+  - first:
+      213: 4133637514902005584
+    second: Gun Enemy_20
+  - first:
+      213: 8961503281638502554
+    second: Gun Enemy_21
+  - first:
+      213: 305716410260069193
+    second: Gun Enemy_22
+  - first:
+      213: 3881535704864849374
+    second: Gun Enemy_23
+  - first:
+      213: 7824108554250569851
+    second: Gun Enemy_24
+  - first:
+      213: -6621193888379292086
+    second: Gun Enemy_25
+  - first:
+      213: 8884451023445284786
+    second: Gun Enemy_26
+  - first:
+      213: 7226188748401311832
+    second: Gun Enemy_27
+  - first:
+      213: 4604883812464015416
+    second: Gun Enemy_28
+  - first:
+      213: -6514785849679049748
+    second: Gun Enemy_29
+  - first:
+      213: 1586062150500686106
+    second: Gun Enemy_30
+  - first:
+      213: 7056032028689707482
+    second: Gun Enemy_31
+  - first:
+      213: 8505021622897098394
+    second: Gun Enemy_32
+  - first:
+      213: 4061635946428830686
+    second: Gun Enemy_33
+  - first:
+      213: -9189374301953789188
+    second: Gun Enemy_34
+  - first:
+      213: -171632404008321869
+    second: Gun Enemy_35
+  - first:
+      213: -7374506181888415042
+    second: Gun Enemy_36
+  - first:
+      213: 7236922256686145893
+    second: Gun Enemy_37
+  - first:
+      213: 272379575370262421
+    second: Gun Enemy_38
+  - first:
+      213: 1983600436722690411
+    second: Gun Enemy_39
+  - first:
+      213: 7044512548582437529
+    second: Gun Enemy_40
+  - first:
+      213: -4011238204354147889
+    second: Gun Enemy_41
+  - first:
+      213: -679852759036107226
+    second: Gun Enemy_42
+  - first:
+      213: 6867067013507901817
+    second: Gun Enemy_43
+  - first:
+      213: 6647428254710743954
+    second: Gun Enemy_44
+  - first:
+      213: -1836960681945880881
+    second: Gun Enemy_45
+  - first:
+      213: 5528343918419430773
+    second: Gun Enemy_46
+  - first:
+      213: 5020872615864406057
+    second: Gun Enemy_47
+  - first:
+      213: -5968682332170203045
+    second: Gun Enemy_48
+  - first:
+      213: 6014533087460125542
+    second: Gun Enemy_49
+  - first:
+      213: 7577130886283792345
+    second: Gun Enemy_50
+  - first:
+      213: 571599476787179789
+    second: Gun Enemy_51
+  - first:
+      213: -2293423406157974367
+    second: Gun Enemy_52
+  - first:
+      213: 7496833993925010572
+    second: Gun Enemy_53
+  - first:
+      213: -124707662578382838
+    second: Gun Enemy_54
+  - first:
+      213: -504122394770814165
+    second: Gun Enemy_55
+  - first:
+      213: 3369895341372819964
+    second: Gun Enemy_56
+  - first:
+      213: -1150154975816756231
+    second: Gun Enemy_57
+  - first:
+      213: -6206824446187308069
+    second: Gun Enemy_58
+  - first:
+      213: -9084502334309555441
+    second: Gun Enemy_59
+  - first:
+      213: 6141163972122494219
+    second: Gun Enemy_60
+  - first:
+      213: 8537144086570714678
+    second: Gun Enemy_61
+  - first:
+      213: 7452335141856609581
+    second: Gun Enemy_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 871
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91c68d198b3aa40800000000000000
+      internalID: 5378345316551236009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 807
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcb5c5e6a97f260800000000000000
+      internalID: 7131338333751069664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 807
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ca256cad67bd50800000000000000
+      internalID: 6752986753464452936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 807
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d8e6163a9d97a0800000000000000
+      internalID: -6368764740928744830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 807
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df51a92d00b537e60800000000000000
+      internalID: 7958805025585239549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 748
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506e47a8978d557b0800000000000000
+      internalID: -5236040975222774267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 748
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdd58db451232b0800000000000000
+      internalID: -5606395170626085948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 748
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f1fd6056f66fb30800000000000000
+      internalID: 4320763372206235445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 748
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9f22a21bd1b990800000000000000
+      internalID: -7371870241951867065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 748
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473730739ad731f20800000000000000
+      internalID: 3392193110066033524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 748
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afa7818bd80a1f0800000000000000
+      internalID: -1035672092471002528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 748
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4487d00baf71d40800000000000000
+      internalID: 5555184299431970019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 749
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938925f814a28570800000000000000
+      internalID: 8467510676509262751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 676
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659deeadee1198710800000000000000
+      internalID: 1695906452254677334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 676
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60def18e286f3cae0800000000000000
+      internalID: -1530108406275248890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 676
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491e2dc03fcce860800000000000000
+      internalID: 7560645682955950411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 676
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a660381ece64e780800000000000000
+      internalID: -8654670752451107167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 676
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba7abaee546c4ae0800000000000000
+      internalID: -1563764611776611655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 676
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4c02966d27a6c0800000000000000
+      internalID: -4132284214528946729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 676
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9849b3bf4f4080800000000000000
+      internalID: -9201047880368349551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 676
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05766f93b61ad5930800000000000000
+      internalID: 4133637514902005584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 676
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907f8b21c7ad5c70800000000000000
+      internalID: 8961503281638502554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_22
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 676
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b1f83947f1e3400800000000000000
+      internalID: 305716410260069193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 676
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf677882cfdd530800000000000000
+      internalID: 3881535704864849374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_24
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 676
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784334b641d49c60800000000000000
+      internalID: 7824108554250569851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_25
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 676
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463a263d3bcc14a0800000000000000
+      internalID: -6621193888379292086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_26
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 676
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7dfcc4229eb4b70800000000000000
+      internalID: 8884451023445284786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 676
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85082647164984460800000000000000
+      internalID: 7226188748401311832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 613
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383dd10e65d7ef30800000000000000
+      internalID: 4604883812464015416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 554
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb832a59c4d695a0800000000000000
+      internalID: -6514785849679049748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 487
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1919406f13d20610800000000000000
+      internalID: 1586062150500686106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad134d1eebf0ce160800000000000000
+      internalID: 7056032028689707482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3ccfba18e70670800000000000000
+      internalID: 8505021622897098394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 460
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed319d1bf54dd5830800000000000000
+      internalID: 4061635946428830686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f0ff72c8c87080800000000000000
+      internalID: -9189374301953789188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc3327ec3d3e9df0800000000000000
+      internalID: -171632404008321869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 419
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6e9a03bd78a990800000000000000
+      internalID: -7374506181888415042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56165e81376be6460800000000000000
+      internalID: 7236922256686145893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597240ad7cfa7c300800000000000000
+      internalID: 272379575370262421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696a2f661a278b10800000000000000
+      internalID: 1983600436722690411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 356
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b90ae6d223c160800000000000000
+      internalID: 7044512548582437529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cef70b183558c0800000000000000
+      internalID: -4011238204354147889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266516848da096f0800000000000000
+      internalID: -679852759036107226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979e0f4c019bc4f50800000000000000
+      internalID: 6867067013507901817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 249
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293cdef27c8604c50800000000000000
+      internalID: 6647428254710743954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a14e0efdc186e0800000000000000
+      internalID: -1836960681945880881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_46
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc49dd08f98bc40800000000000000
+      internalID: 5528343918419430773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 186
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920951bda09bda540800000000000000
+      internalID: 5020872615864406057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 186
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5058d5da0bfa2da0800000000000000
+      internalID: -5968682332170203045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 186
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be4e70af9e77350800000000000000
+      internalID: 6014533087460125542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df069d4560672960800000000000000
+      internalID: 7577130886283792345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f2b712babee700800000000000000
+      internalID: 571599476787179789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4336c209f1c20e0800000000000000
+      internalID: -2293423406157974367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 153
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8429fb2cca1a0860800000000000000
+      internalID: 7496833993925010572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080f37aa03f44ef0800000000000000
+      internalID: -124707662578382838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 133
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bcd585a5ff009f0800000000000000
+      internalID: -504122394770814165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf945c065f544ce20800000000000000
+      internalID: 3369895341372819964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35bcda424d900f0800000000000000
+      internalID: -1150154975816756231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7bc52d0eecd9a0800000000000000
+      internalID: -6206824446187308069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a54a324d5de180800000000000000
+      internalID: -9084502334309555441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05c9c9681cc93550800000000000000
+      internalID: 6141163972122494219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636cf54a0570a7670800000000000000
+      internalID: 8537144086570714678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun Enemy_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25068dc3530c6760800000000000000
+      internalID: 7452335141856609581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7d8db7ff59b40b94c9fb3d64709bbd2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun Enemy_0: 5378345316551236009
+      Gun Enemy_1: 7131338333751069664
+      Gun Enemy_10: -1035672092471002528
+      Gun Enemy_11: 5555184299431970019
+      Gun Enemy_12: 8467510676509262751
+      Gun Enemy_13: 1695906452254677334
+      Gun Enemy_14: -1530108406275248890
+      Gun Enemy_15: 7560645682955950411
+      Gun Enemy_16: -8654670752451107167
+      Gun Enemy_17: -1563764611776611655
+      Gun Enemy_18: -4132284214528946729
+      Gun Enemy_19: -9201047880368349551
+      Gun Enemy_2: 6752986753464452936
+      Gun Enemy_20: 4133637514902005584
+      Gun Enemy_21: 8961503281638502554
+      Gun Enemy_22: 305716410260069193
+      Gun Enemy_23: 3881535704864849374
+      Gun Enemy_24: 7824108554250569851
+      Gun Enemy_25: -6621193888379292086
+      Gun Enemy_26: 8884451023445284786
+      Gun Enemy_27: 7226188748401311832
+      Gun Enemy_28: 4604883812464015416
+      Gun Enemy_29: -6514785849679049748
+      Gun Enemy_3: -6368764740928744830
+      Gun Enemy_30: 1586062150500686106
+      Gun Enemy_31: 7056032028689707482
+      Gun Enemy_32: 8505021622897098394
+      Gun Enemy_33: 4061635946428830686
+      Gun Enemy_34: -9189374301953789188
+      Gun Enemy_35: -171632404008321869
+      Gun Enemy_36: -7374506181888415042
+      Gun Enemy_37: 7236922256686145893
+      Gun Enemy_38: 272379575370262421
+      Gun Enemy_39: 1983600436722690411
+      Gun Enemy_4: 7958805025585239549
+      Gun Enemy_40: 7044512548582437529
+      Gun Enemy_41: -4011238204354147889
+      Gun Enemy_42: -679852759036107226
+      Gun Enemy_43: 6867067013507901817
+      Gun Enemy_44: 6647428254710743954
+      Gun Enemy_45: -1836960681945880881
+      Gun Enemy_46: 5528343918419430773
+      Gun Enemy_47: 5020872615864406057
+      Gun Enemy_48: -5968682332170203045
+      Gun Enemy_49: 6014533087460125542
+      Gun Enemy_5: -5236040975222774267
+      Gun Enemy_50: 7577130886283792345
+      Gun Enemy_51: 571599476787179789
+      Gun Enemy_52: -2293423406157974367
+      Gun Enemy_53: 7496833993925010572
+      Gun Enemy_54: -124707662578382838
+      Gun Enemy_55: -504122394770814165
+      Gun Enemy_56: 3369895341372819964
+      Gun Enemy_57: -1150154975816756231
+      Gun Enemy_58: -6206824446187308069
+      Gun Enemy_59: -9084502334309555441
+      Gun Enemy_6: -5606395170626085948
+      Gun Enemy_60: 6141163972122494219
+      Gun Enemy_61: 8537144086570714678
+      Gun Enemy_62: 7452335141856609581
+      Gun Enemy_7: 4320763372206235445
+      Gun Enemy_8: -7371870241951867065
+      Gun Enemy_9: 3392193110066033524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
