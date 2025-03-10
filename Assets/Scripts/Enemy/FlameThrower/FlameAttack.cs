@@ -3,7 +3,7 @@ using UnityEngine;
 public class FlameAttack : MonoBehaviour
 {
     [SerializeField] private int damagePerSecond = 1;
-    [SerializeField] private float damageInterval = 0.5f; // Time between damage ticks
+    [SerializeField] private float damageInterval = 0.5f; 
     private Animator anim;
 
     private void Awake()
