@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 686d9a3a33f139847a87dcfec333e6cb
+guid: 12461219c2bf3b14b86b492b1f716e2b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4522064208414700646
-    second: chapter1_0
+      213: -323450818233558116
+    second: 3DS - Azure Striker Gunvolt - Gun Enemy_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chapter1_0
+      name: 3DS - Azure Striker Gunvolt - Gun Enemy_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 1000
+        height: 937
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9b0fe5bf866e31c0800000000000000
-      internalID: -4522064208414700646
+      spriteID: c9b11ecc13fd28bf0800000000000000
+      internalID: -323450818233558116
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      chapter1_0: -4522064208414700646
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
