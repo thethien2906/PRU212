@@ -1,0 +1,2562 @@
+fileFormatVersion: 2
+guid: c77f62d3b81905f49929f44667793e70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2876805349548137717
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_0
+  - first:
+      213: 1326224980529376556
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_1
+  - first:
+      213: 5181911498406057739
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_2
+  - first:
+      213: -3857967916794941203
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_3
+  - first:
+      213: 6895523987680059948
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_4
+  - first:
+      213: -7532453604692017274
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_5
+  - first:
+      213: -5722479864940630739
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_6
+  - first:
+      213: -5504065379368680847
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_7
+  - first:
+      213: -2073243343015246775
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_8
+  - first:
+      213: -3728415657029378920
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_9
+  - first:
+      213: -9089706737625081765
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_10
+  - first:
+      213: 1234314480188208198
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_11
+  - first:
+      213: -3902037188067405221
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_12
+  - first:
+      213: -4118465881258330828
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_13
+  - first:
+      213: 1540029216658345046
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_14
+  - first:
+      213: -1082687436529648823
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_15
+  - first:
+      213: -7039326177088330975
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_16
+  - first:
+      213: -5960491112430245150
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_17
+  - first:
+      213: -1512666471651635248
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_18
+  - first:
+      213: 8197611938609389109
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_19
+  - first:
+      213: 7810057179970085214
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_20
+  - first:
+      213: 1853258169838745876
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_21
+  - first:
+      213: -486825244965075909
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_22
+  - first:
+      213: -8052675284520020481
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_23
+  - first:
+      213: 2693187042307098510
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_24
+  - first:
+      213: 3474836181592770886
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_25
+  - first:
+      213: 4501619321932877661
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_26
+  - first:
+      213: 3528955257721173852
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_27
+  - first:
+      213: -1778511963314095911
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_28
+  - first:
+      213: 1411502692820291154
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_29
+  - first:
+      213: 2004995311490392565
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_30
+  - first:
+      213: 6059171628535826326
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_31
+  - first:
+      213: -3745884497721334348
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_32
+  - first:
+      213: -3059037524590725687
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_33
+  - first:
+      213: 8100953547532525006
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_34
+  - first:
+      213: -906598986775703126
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_35
+  - first:
+      213: -8691077488002732692
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_36
+  - first:
+      213: 4391497329960755104
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_37
+  - first:
+      213: -898649415506572563
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_38
+  - first:
+      213: -8854494300402890263
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_39
+  - first:
+      213: 938736343283739470
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_40
+  - first:
+      213: 6258437506788895981
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_41
+  - first:
+      213: -5340666995927559932
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_42
+  - first:
+      213: 1587905235821280353
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_43
+  - first:
+      213: 3534607274405945151
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_44
+  - first:
+      213: -2745079759957911519
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_45
+  - first:
+      213: -8418373372129436468
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_46
+  - first:
+      213: 2794680777502134733
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_47
+  - first:
+      213: 504286853095358973
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_48
+  - first:
+      213: 2637686773369945910
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_49
+  - first:
+      213: -4578127976048065420
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_50
+  - first:
+      213: -2609027502820603407
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_51
+  - first:
+      213: 7700158552104079794
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_52
+  - first:
+      213: -2451482644601642416
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_53
+  - first:
+      213: 5566611023912222276
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_54
+  - first:
+      213: -4123147665407199834
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_55
+  - first:
+      213: -4038939557678196588
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_56
+  - first:
+      213: -6447246374850149524
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_57
+  - first:
+      213: 5672699408661862477
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_58
+  - first:
+      213: -1877881749697843068
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_59
+  - first:
+      213: 1878484512289110538
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_60
+  - first:
+      213: 4548864567931835742
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_61
+  - first:
+      213: -7869782476383546534
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_62
+  - first:
+      213: -7069521427307074228
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_63
+  - first:
+      213: 549696720084800940
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_64
+  - first:
+      213: 5387397871443531382
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_65
+  - first:
+      213: -8353953130911603343
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_66
+  - first:
+      213: -5087490236671104247
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_67
+  - first:
+      213: 5156716817513874673
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_68
+  - first:
+      213: 6166534963310037484
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_69
+  - first:
+      213: -3375896304290994581
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_70
+  - first:
+      213: 7358460427711113575
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_71
+  - first:
+      213: -1965495925520290106
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_72
+  - first:
+      213: -983917321263219084
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_73
+  - first:
+      213: -3158176016416171565
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_74
+  - first:
+      213: 1569336490504318858
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_75
+  - first:
+      213: 3894522433608276649
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_76
+  - first:
+      213: 5294787778088577075
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_77
+  - first:
+      213: -58635292051115394
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_78
+  - first:
+      213: -2245208661089683237
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_79
+  - first:
+      213: 1674653436811190486
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_80
+  - first:
+      213: 8519099590481291773
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_81
+  - first:
+      213: -2861765803636133315
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_82
+  - first:
+      213: -5366031903760494879
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_83
+  - first:
+      213: 6974833730563397079
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_84
+  - first:
+      213: -3902184818943968547
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_85
+  - first:
+      213: -7084953620793333353
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_86
+  - first:
+      213: 4260186150256220248
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_87
+  - first:
+      213: 132824151272554955
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_88
+  - first:
+      213: 4122267997665890426
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_89
+  - first:
+      213: 3718802493185604868
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_90
+  - first:
+      213: -8318834743996196683
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_91
+  - first:
+      213: 2984316584638154068
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_92
+  - first:
+      213: 1405619617751480462
+    second: 3DS - Azure Striker Gunvolt - Shield Enemy_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1238
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036d3cc6c88318d0800000000000000
+      internalID: -2876805349548137717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1175
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2de3b8d792b76210800000000000000
+      internalID: 1326224980529376556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1175
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0751088d09d9e740800000000000000
+      internalID: 5181911498406057739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1175
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0759cbe9eb57ac0800000000000000
+      internalID: -3857967916794941203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1175
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ead16882d1bf50800000000000000
+      internalID: 6895523987680059948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1116
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb83dea59577790800000000000000
+      internalID: -7532453604692017274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1116
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d63efb1eaa590b0800000000000000
+      internalID: -5722479864940630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1116
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172443203b1ad93b0800000000000000
+      internalID: -5504065379368680847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1116
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94402aef92c5a33e0800000000000000
+      internalID: -2073243343015246775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1116
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c52c3c6b1024cc0800000000000000
+      internalID: -3728415657029378920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1116
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d167a1efdad180800000000000000
+      internalID: -9089706737625081765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1116
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443db4ea7a212110800000000000000
+      internalID: 1234314480188208198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1116
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52d0e0f9dd29d9c0800000000000000
+      internalID: -3902037188067405221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1044
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435f7000a1548d6c0800000000000000
+      internalID: -4118465881258330828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1044
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc4a2c9684f5510800000000000000
+      internalID: 1540029216658345046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1044
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b3fd6438589f0f0800000000000000
+      internalID: -1082687436529648823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1044
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123aa8c432a4f4e90800000000000000
+      internalID: -7039326177088330975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1044
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eae8bcc9e4184da0800000000000000
+      internalID: -5960491112430245150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1044
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df8f85cbdde10be0800000000000000
+      internalID: -1512666471651635248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1044
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e505710a4c3c170800000000000000
+      internalID: 8197611938609389109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1044
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e512b9f20a5e26c60800000000000000
+      internalID: 7810057179970085214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1044
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419345a8c7818b910800000000000000
+      internalID: 1853258169838745876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1044
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b340a2ed4037e39f0800000000000000
+      internalID: -486825244965075909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1044
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5dd9e5e762f3090800000000000000
+      internalID: -8052675284520020481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1044
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87466a885f106520800000000000000
+      internalID: 2693187042307098510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1044
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6490380c819193030800000000000000
+      internalID: 3474836181592770886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1044
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f08d53ce6f87e30800000000000000
+      internalID: 4501619321932877661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1044
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b7b41c1e59f030800000000000000
+      internalID: 3528955257721173852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 977
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d871e5dac47157e0800000000000000
+      internalID: -1778511963314095911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 977
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8f0d783aa69310800000000000000
+      internalID: 1411502692820291154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 977
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f165b5ec9c23db10800000000000000
+      internalID: 2004995311490392565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 977
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c0084e70861450800000000000000
+      internalID: 6059171628535826326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 977
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b56da755e1f30cc0800000000000000
+      internalID: -3745884497721334348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 977
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fd20349d1c85d0800000000000000
+      internalID: -3059037524590725687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 977
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecddd9ea45e5c6070800000000000000
+      internalID: 8100953547532525006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 977
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1518f560d1b63f0800000000000000
+      internalID: -906598986775703126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 977
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6de33c6217136780800000000000000
+      internalID: -8691077488002732692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 977
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1360fd8bb1fc30800000000000000
+      internalID: 4391497329960755104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 977
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4e1b2e1b5783f0800000000000000
+      internalID: -898649415506572563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 977
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c3cec8548e1580800000000000000
+      internalID: -8854494300402890263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_40
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 977
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2d270bbf070d00800000000000000
+      internalID: 938736343283739470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 977
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2229f0cf6ad650800000000000000
+      internalID: 6258437506788895981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_42
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 977
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d51cc9a322e5b0800000000000000
+      internalID: -5340666995927559932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 910
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c3c1e166f590610800000000000000
+      internalID: 1587905235821280353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 910
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5a73c6927d0130800000000000000
+      internalID: 3534607274405945151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 910
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128189b908487e9d0800000000000000
+      internalID: -2745079759957911519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 910
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc1e9f350eeb2b80800000000000000
+      internalID: -8418373372129436468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 910
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc190ab3c53b8c620800000000000000
+      internalID: 2794680777502134733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 910
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df106a798369ff600800000000000000
+      internalID: 504286853095358973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 910
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f36733522fa9420800000000000000
+      internalID: 2637686773369945910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 910
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474806b9cd83770c0800000000000000
+      internalID: -4578127976048065420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 847
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f947253f4fdacbd0800000000000000
+      internalID: -2609027502820603407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 788
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1995ce7657cda60800000000000000
+      internalID: 7700158552104079794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 721
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052eb73f5859afdd0800000000000000
+      internalID: -2451482644601642416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 723
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ebf0bab33904d40800000000000000
+      internalID: 5566611023912222276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a53cee2b03a7c6c0800000000000000
+      internalID: -4123147665407199834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 694
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498515b1fddc2f7c0800000000000000
+      internalID: -4038939557678196588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 681
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c1afb497c686a0800000000000000
+      internalID: -6447246374850149524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 665
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48dbd29e0a79be40800000000000000
+      internalID: 5672699408661862477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 653
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48032138f7c60f5e0800000000000000
+      internalID: -1877881749697843068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 643
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab01716b7b11a10800000000000000
+      internalID: 1878484512289110538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 621
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5510fe3930d02f30800000000000000
+      internalID: 4548864567931835742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 604
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53909b988ae8c290800000000000000
+      internalID: -7869782476383546534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 590
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d6951c7b304ed90800000000000000
+      internalID: -7069521427307074228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51ad6214ae0a700800000000000000
+      internalID: 549696720084800940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676561702d1e3ca40800000000000000
+      internalID: 5387397871443531382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 491
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17560c973ebc01c80800000000000000
+      internalID: -8353953130911603343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 491
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b63fc959a9569b0800000000000000
+      internalID: -5087490236671104247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 491
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48233cf96509740800000000000000
+      internalID: 5156716817513874673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 491
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90f1f90eee39550800000000000000
+      internalID: 6166534963310037484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b666e2092386621d0800000000000000
+      internalID: -3375896304290994581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_71
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 422
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7696d7fa5c08e1660800000000000000
+      internalID: 7358460427711113575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea2ef8ed729b4e0800000000000000
+      internalID: -1965495925520290106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e70c9c86c6852f0800000000000000
+      internalID: -983917321263219084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91b5355a7eb24d0800000000000000
+      internalID: -3158176016416171565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 289
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f6191393767c510800000000000000
+      internalID: 1569336490504318858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad201f48f1c0630800000000000000
+      internalID: 3894522433608276649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 289
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ac026e6dda7940800000000000000
+      internalID: 5294787778088577075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fdf5338faf2ff0800000000000000
+      internalID: -58635292051115394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd87e1d4e9a67d0e0800000000000000
+      internalID: -2245208661089683237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 162
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a4079d609d3710800000000000000
+      internalID: 1674653436811190486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df920d001fbe93670800000000000000
+      internalID: 8519099590481291773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_82
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 162
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3278e3f927f848d0800000000000000
+      internalID: -2861765803636133315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee41faf9660885b0800000000000000
+      internalID: -5366031903760494879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 135
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d4add2569bc060800000000000000
+      internalID: 6974833730563397079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3ce2f497a8d9c0800000000000000
+      internalID: -3902184818943968547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ee7638303dad90800000000000000
+      internalID: -7084953620793333353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589f037bb83f1b30800000000000000
+      internalID: 4260186150256220248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18132acd2e7d100800000000000000
+      internalID: 132824151272554955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7016d537ec353930800000000000000
+      internalID: 4122267997665890426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3a2c1a27db9330800000000000000
+      internalID: 3718802493185604868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ddea10ef8d8c80800000000000000
+      internalID: -8318834743996196683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4550aa44f1c6a6920800000000000000
+      internalID: 2984316584638154068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Shield Enemy_93
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b5655893c18310800000000000000
+      internalID: 1405619617751480462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d931f833645e0a348abb71abeed7816e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Azure Striker Gunvolt - Shield Enemy_0: -2876805349548137717
+      3DS - Azure Striker Gunvolt - Shield Enemy_1: 1326224980529376556
+      3DS - Azure Striker Gunvolt - Shield Enemy_10: -9089706737625081765
+      3DS - Azure Striker Gunvolt - Shield Enemy_11: 1234314480188208198
+      3DS - Azure Striker Gunvolt - Shield Enemy_12: -3902037188067405221
+      3DS - Azure Striker Gunvolt - Shield Enemy_13: -4118465881258330828
+      3DS - Azure Striker Gunvolt - Shield Enemy_14: 1540029216658345046
+      3DS - Azure Striker Gunvolt - Shield Enemy_15: -1082687436529648823
+      3DS - Azure Striker Gunvolt - Shield Enemy_16: -7039326177088330975
+      3DS - Azure Striker Gunvolt - Shield Enemy_17: -5960491112430245150
+      3DS - Azure Striker Gunvolt - Shield Enemy_18: -1512666471651635248
+      3DS - Azure Striker Gunvolt - Shield Enemy_19: 8197611938609389109
+      3DS - Azure Striker Gunvolt - Shield Enemy_2: 5181911498406057739
+      3DS - Azure Striker Gunvolt - Shield Enemy_20: 7810057179970085214
+      3DS - Azure Striker Gunvolt - Shield Enemy_21: 1853258169838745876
+      3DS - Azure Striker Gunvolt - Shield Enemy_22: -486825244965075909
+      3DS - Azure Striker Gunvolt - Shield Enemy_23: -8052675284520020481
+      3DS - Azure Striker Gunvolt - Shield Enemy_24: 2693187042307098510
+      3DS - Azure Striker Gunvolt - Shield Enemy_25: 3474836181592770886
+      3DS - Azure Striker Gunvolt - Shield Enemy_26: 4501619321932877661
+      3DS - Azure Striker Gunvolt - Shield Enemy_27: 3528955257721173852
+      3DS - Azure Striker Gunvolt - Shield Enemy_28: -1778511963314095911
+      3DS - Azure Striker Gunvolt - Shield Enemy_29: 1411502692820291154
+      3DS - Azure Striker Gunvolt - Shield Enemy_3: -3857967916794941203
+      3DS - Azure Striker Gunvolt - Shield Enemy_30: 2004995311490392565
+      3DS - Azure Striker Gunvolt - Shield Enemy_31: 6059171628535826326
+      3DS - Azure Striker Gunvolt - Shield Enemy_32: -3745884497721334348
+      3DS - Azure Striker Gunvolt - Shield Enemy_33: -3059037524590725687
+      3DS - Azure Striker Gunvolt - Shield Enemy_34: 8100953547532525006
+      3DS - Azure Striker Gunvolt - Shield Enemy_35: -906598986775703126
+      3DS - Azure Striker Gunvolt - Shield Enemy_36: -8691077488002732692
+      3DS - Azure Striker Gunvolt - Shield Enemy_37: 4391497329960755104
+      3DS - Azure Striker Gunvolt - Shield Enemy_38: -898649415506572563
+      3DS - Azure Striker Gunvolt - Shield Enemy_39: -8854494300402890263
+      3DS - Azure Striker Gunvolt - Shield Enemy_4: 6895523987680059948
+      3DS - Azure Striker Gunvolt - Shield Enemy_40: 938736343283739470
+      3DS - Azure Striker Gunvolt - Shield Enemy_41: 6258437506788895981
+      3DS - Azure Striker Gunvolt - Shield Enemy_42: -5340666995927559932
+      3DS - Azure Striker Gunvolt - Shield Enemy_43: 1587905235821280353
+      3DS - Azure Striker Gunvolt - Shield Enemy_44: 3534607274405945151
+      3DS - Azure Striker Gunvolt - Shield Enemy_45: -2745079759957911519
+      3DS - Azure Striker Gunvolt - Shield Enemy_46: -8418373372129436468
+      3DS - Azure Striker Gunvolt - Shield Enemy_47: 2794680777502134733
+      3DS - Azure Striker Gunvolt - Shield Enemy_48: 504286853095358973
+      3DS - Azure Striker Gunvolt - Shield Enemy_49: 2637686773369945910
+      3DS - Azure Striker Gunvolt - Shield Enemy_5: -7532453604692017274
+      3DS - Azure Striker Gunvolt - Shield Enemy_50: -4578127976048065420
+      3DS - Azure Striker Gunvolt - Shield Enemy_51: -2609027502820603407
+      3DS - Azure Striker Gunvolt - Shield Enemy_52: 7700158552104079794
+      3DS - Azure Striker Gunvolt - Shield Enemy_53: -2451482644601642416
+      3DS - Azure Striker Gunvolt - Shield Enemy_54: 5566611023912222276
+      3DS - Azure Striker Gunvolt - Shield Enemy_55: -4123147665407199834
+      3DS - Azure Striker Gunvolt - Shield Enemy_56: -4038939557678196588
+      3DS - Azure Striker Gunvolt - Shield Enemy_57: -6447246374850149524
+      3DS - Azure Striker Gunvolt - Shield Enemy_58: 5672699408661862477
+      3DS - Azure Striker Gunvolt - Shield Enemy_59: -1877881749697843068
+      3DS - Azure Striker Gunvolt - Shield Enemy_6: -5722479864940630739
+      3DS - Azure Striker Gunvolt - Shield Enemy_60: 1878484512289110538
+      3DS - Azure Striker Gunvolt - Shield Enemy_61: 4548864567931835742
+      3DS - Azure Striker Gunvolt - Shield Enemy_62: -7869782476383546534
+      3DS - Azure Striker Gunvolt - Shield Enemy_63: -7069521427307074228
+      3DS - Azure Striker Gunvolt - Shield Enemy_64: 549696720084800940
+      3DS - Azure Striker Gunvolt - Shield Enemy_65: 5387397871443531382
+      3DS - Azure Striker Gunvolt - Shield Enemy_66: -8353953130911603343
+      3DS - Azure Striker Gunvolt - Shield Enemy_67: -5087490236671104247
+      3DS - Azure Striker Gunvolt - Shield Enemy_68: 5156716817513874673
+      3DS - Azure Striker Gunvolt - Shield Enemy_69: 6166534963310037484
+      3DS - Azure Striker Gunvolt - Shield Enemy_7: -5504065379368680847
+      3DS - Azure Striker Gunvolt - Shield Enemy_70: -3375896304290994581
+      3DS - Azure Striker Gunvolt - Shield Enemy_71: 7358460427711113575
+      3DS - Azure Striker Gunvolt - Shield Enemy_72: -1965495925520290106
+      3DS - Azure Striker Gunvolt - Shield Enemy_73: -983917321263219084
+      3DS - Azure Striker Gunvolt - Shield Enemy_74: -3158176016416171565
+      3DS - Azure Striker Gunvolt - Shield Enemy_75: 1569336490504318858
+      3DS - Azure Striker Gunvolt - Shield Enemy_76: 3894522433608276649
+      3DS - Azure Striker Gunvolt - Shield Enemy_77: 5294787778088577075
+      3DS - Azure Striker Gunvolt - Shield Enemy_78: -58635292051115394
+      3DS - Azure Striker Gunvolt - Shield Enemy_79: -2245208661089683237
+      3DS - Azure Striker Gunvolt - Shield Enemy_8: -2073243343015246775
+      3DS - Azure Striker Gunvolt - Shield Enemy_80: 1674653436811190486
+      3DS - Azure Striker Gunvolt - Shield Enemy_81: 8519099590481291773
+      3DS - Azure Striker Gunvolt - Shield Enemy_82: -2861765803636133315
+      3DS - Azure Striker Gunvolt - Shield Enemy_83: -5366031903760494879
+      3DS - Azure Striker Gunvolt - Shield Enemy_84: 6974833730563397079
+      3DS - Azure Striker Gunvolt - Shield Enemy_85: -3902184818943968547
+      3DS - Azure Striker Gunvolt - Shield Enemy_86: -7084953620793333353
+      3DS - Azure Striker Gunvolt - Shield Enemy_87: 4260186150256220248
+      3DS - Azure Striker Gunvolt - Shield Enemy_88: 132824151272554955
+      3DS - Azure Striker Gunvolt - Shield Enemy_89: 4122267997665890426
+      3DS - Azure Striker Gunvolt - Shield Enemy_9: -3728415657029378920
+      3DS - Azure Striker Gunvolt - Shield Enemy_90: 3718802493185604868
+      3DS - Azure Striker Gunvolt - Shield Enemy_91: -8318834743996196683
+      3DS - Azure Striker Gunvolt - Shield Enemy_92: 2984316584638154068
+      3DS - Azure Striker Gunvolt - Shield Enemy_93: 1405619617751480462
+      3DS - Azure Striker Gunvolt - Shield Enemy_94: -175025505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
