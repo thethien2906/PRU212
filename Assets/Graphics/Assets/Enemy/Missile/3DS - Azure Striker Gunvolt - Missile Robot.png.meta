@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -104,11 +104,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1000
-        height: 1372
+        y: 1285
+        width: 87
+        height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,737 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1285
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dda284d2e78524f906b046ecd48b62
+      internalID: -417568308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1285
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05bba7fe40c154f8702a0b65958128
+      internalID: -669850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1285
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966273f8df397384d8d6c8441ff68d36
+      internalID: 556063152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1187
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ef5fcb4218c64f968880963114ec9
+      internalID: -129234568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1187
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6139d26e9d14fe419b426f53cd36b80
+      internalID: 1656758911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1187
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e8d6f185bbfc4f8864a6e98368414
+      internalID: 1378410501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1187
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75407504de9724dbc7bc7799df0fe0
+      internalID: -559422561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1187
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8c288f4853e64095d1e644c92f957
+      internalID: 1447184230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1187
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e689b021c32e375429995f066d7c723b
+      internalID: -471394394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1187
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23acfe4aaa36d3e469e9844805e5f8bf
+      internalID: -234638098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1187
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab4c129375f484b88b6696661b76b9
+      internalID: 1481040343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1187
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540fc2e57b70c74684987e266f2eebd
+      internalID: -575733193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1187
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3b51e13ba1e2409f0648b6f2aabb5
+      internalID: -1959164205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1066
+        width: 93
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4017094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136aeb02033f57542a1022a167340902
+      internalID: 900536633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1066
+        width: 91
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4017094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4ad2a5be8838418d50aa8a30ccdea
+      internalID: 400079608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1066
+        width: 97
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40869564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a06d2ca241d64291077bbc61c3e87
+      internalID: -74543950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a10a55f45061499b4bbba8d1fa9ec
+      internalID: 306068586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359c3231448e9a49b983c27fe37875b
+      internalID: -1312996335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 382
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1080366dd04fbb42b62c5f48870ce7f
+      internalID: 1840409856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 382
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c0533a487252419c830252a0d6596
+      internalID: -198854034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 382
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca184c6f2bf31344bf2e1253c2c4a73
+      internalID: 730872497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 382
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20631d2229247ad4488e3a83dca3828c
+      internalID: 1745108657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 382
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1856b337af068824d94a84439386fb48
+      internalID: 1985810599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 383
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb1ba000627f14ab5ba5f9df900eea
+      internalID: 1333828492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 383
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5549fe68a1612499f403720ed77b53
+      internalID: 1628925019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_26
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 383
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef8d743de841b64cb011b60c360dedb
+      internalID: 510014300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 383
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f5e91ae7f88f47bb093ca705b0283
+      internalID: -903116993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f1c1ef6a63bf459cf51188bbd36d4
+      internalID: 1155046315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 244
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f492ad01366b5a479953f45e528448c
+      internalID: -1617946278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.44, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24357d43be8c25b49b4b107b35e10ab0
+      internalID: -1059158873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 36
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca20988f591081d4db381e49c78c2d34
+      internalID: 444812660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 71
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7887324, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c234879c7d8ad459a260425cc3306e
+      internalID: 474734513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Missile Robot_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 91
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5604396, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73819ed8fcd3314478f345aee6b5c6b5
+      internalID: -658952839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 03ff01ae05fe40a4ea9fa7db4e0b14b6
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +862,40 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       3DS - Azure Striker Gunvolt - Missile Robot_0: -624424108551242262
+      3DS - Azure Striker Gunvolt - Missile Robot_1: -417568308
+      3DS - Azure Striker Gunvolt - Missile Robot_10: -234638098
+      3DS - Azure Striker Gunvolt - Missile Robot_11: 1481040343
+      3DS - Azure Striker Gunvolt - Missile Robot_12: -575733193
+      3DS - Azure Striker Gunvolt - Missile Robot_13: -1959164205
+      3DS - Azure Striker Gunvolt - Missile Robot_14: 900536633
+      3DS - Azure Striker Gunvolt - Missile Robot_15: 400079608
+      3DS - Azure Striker Gunvolt - Missile Robot_16: -74543950
+      3DS - Azure Striker Gunvolt - Missile Robot_17: 306068586
+      3DS - Azure Striker Gunvolt - Missile Robot_18: -1312996335
+      3DS - Azure Striker Gunvolt - Missile Robot_19: 1840409856
+      3DS - Azure Striker Gunvolt - Missile Robot_2: -669850188
+      3DS - Azure Striker Gunvolt - Missile Robot_20: -198854034
+      3DS - Azure Striker Gunvolt - Missile Robot_21: 730872497
+      3DS - Azure Striker Gunvolt - Missile Robot_22: 1745108657
+      3DS - Azure Striker Gunvolt - Missile Robot_23: 1985810599
+      3DS - Azure Striker Gunvolt - Missile Robot_24: 1333828492
+      3DS - Azure Striker Gunvolt - Missile Robot_25: 1628925019
+      3DS - Azure Striker Gunvolt - Missile Robot_26: 510014300
+      3DS - Azure Striker Gunvolt - Missile Robot_27: -903116993
+      3DS - Azure Striker Gunvolt - Missile Robot_28: 1155046315
+      3DS - Azure Striker Gunvolt - Missile Robot_29: -1617946278
+      3DS - Azure Striker Gunvolt - Missile Robot_3: 556063152
+      3DS - Azure Striker Gunvolt - Missile Robot_30: -1059158873
+      3DS - Azure Striker Gunvolt - Missile Robot_31: 444812660
+      3DS - Azure Striker Gunvolt - Missile Robot_32: 474734513
+      3DS - Azure Striker Gunvolt - Missile Robot_33: -658952839
+      3DS - Azure Striker Gunvolt - Missile Robot_34: 469670945
+      3DS - Azure Striker Gunvolt - Missile Robot_4: -129234568
+      3DS - Azure Striker Gunvolt - Missile Robot_5: 1656758911
+      3DS - Azure Striker Gunvolt - Missile Robot_6: 1378410501
+      3DS - Azure Striker Gunvolt - Missile Robot_7: -559422561
+      3DS - Azure Striker Gunvolt - Missile Robot_8: 1447184230
+      3DS - Azure Striker Gunvolt - Missile Robot_9: -471394394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -284,7 +284,7 @@ TextureImporter:
         width: 106
         height: 95
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,7 +306,7 @@ TextureImporter:
         width: 110
         height: 97
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,6 +315,116 @@ TextureImporter:
       bones: []
       spriteID: dee90769c6b784a41a92be656bad9ac4
       internalID: -990843850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Viper_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5088
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e2b080e211e84e87c90640fcb08b5
+      internalID: 1814390670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Viper_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5079
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44adef5d7b18a8a4589fa10051289362
+      internalID: 1519755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Viper_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 5042
+        width: 193
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096139af7f4e1134d9c6599be5f7e69a
+      internalID: 339063408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Viper_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4635
+        width: 181
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00847452da8db46afc409cdc5dfdcb
+      internalID: 1563884852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Viper_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4822
+        width: 230
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79c75e018de0f42b8c199aa3f908ee
+      internalID: -1024947607
       vertices: []
       indices: 
       edges: []
@@ -335,6 +445,12 @@ TextureImporter:
     nameFileIdTable:
       3DS - Azure Striker Gunvolt - Viper_0: 4455865683490367844
       3DS - Azure Striker Gunvolt - Viper_1: 1838628401
+      3DS - Azure Striker Gunvolt - Viper_10: 1814390670
+      3DS - Azure Striker Gunvolt - Viper_11: 1519755631
+      3DS - Azure Striker Gunvolt - Viper_12: 339063408
+      3DS - Azure Striker Gunvolt - Viper_13: 1563884852
+      3DS - Azure Striker Gunvolt - Viper_14: -1024947607
+      3DS - Azure Striker Gunvolt - Viper_15: -825935939
       3DS - Azure Striker Gunvolt - Viper_2: -293366977
       3DS - Azure Striker Gunvolt - Viper_3: -1332284577
       3DS - Azure Striker Gunvolt - Viper_4: 543903718

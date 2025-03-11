@@ -4,7 +4,6 @@ public class Enemy_Flamethrower : Enemy
 {
     [Header("Attack Parameters")]
     [SerializeField] private GameObject fireObject; // Assign in Inspector
-    [SerializeField] private float attackCooldown = 3f;
 
     private Animator flameAnimator;
     private bool isAttacking;

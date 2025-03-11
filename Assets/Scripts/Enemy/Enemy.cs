@@ -113,7 +113,16 @@ public class Enemy : MonoBehaviour
         isGroundInfrontDetected = Physics2D.Raycast(frontCheckPos, Vector2.down, groundCheckDistance, whatIsGround);
 
         isWallDetected = Physics2D.Raycast(transform.position, Vector2.right * facingDir, wallCheckDistance, whatIsGround);
-        isPlayerDetected = Physics2D.Raycast(transform.position, Vector2.right * facingDir, playerDetectionDistance, whatIsPlayer);
+        
+        // if gameobject name = Enemy_Missile then it will detech from the left
+        if (gameObject.name == "Enemy_Missile")
+        {
+            isPlayerDetected = Physics2D.Raycast(transform.position, Vector2.left * facingDir, playerDetectionDistance, whatIsPlayer);
+        }
+        else
+        {
+            isPlayerDetected = Physics2D.Raycast(transform.position, Vector2.right * facingDir, playerDetectionDistance, whatIsPlayer);
+        }
     }
 
     protected virtual void OnDrawGizmos()
@@ -129,5 +138,12 @@ public class Enemy : MonoBehaviour
 
         Gizmos.color = Color.yellow;
         Gizmos.DrawLine(transform.position, transform.position + Vector3.right * facingDir * playerDetectionDistance);
+
+        // if gameobject name = Enemy_Missile than both will draw on the left
+        if (gameObject.name == "Enemy_Missile")
+        {
+            Gizmos.color = Color.cyan;
+            Gizmos.DrawLine(transform.position, transform.position + Vector3.left * facingDir * playerDetectionDistance);
+        }
     }
 }
