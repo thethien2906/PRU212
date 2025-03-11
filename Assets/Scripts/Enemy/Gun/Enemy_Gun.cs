@@ -4,7 +4,6 @@ public class Enemy_Gun : Enemy
 {
     [Header("Attack Parameters")]
     [SerializeField] private GameObject gunOpenFireAnimation; 
-    [SerializeField] private float attackCooldown = 3f;
     [SerializeField] private GameObject projectilePrefab; 
     [SerializeField] private Transform firePoint; 
 
