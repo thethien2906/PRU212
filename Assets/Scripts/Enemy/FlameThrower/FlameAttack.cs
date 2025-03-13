@@ -12,15 +12,16 @@ public class FlameAttack : MonoBehaviour
         gameObject.SetActive(false); // Make sure flame is off at start
     }
 
-    private void OnTriggerStay2D(Collider2D other)
+    protected virtual void OnTriggerEnter2D(Collider2D other)
     {
-        //if (other.CompareTag("Player")) // Ensure the player has the correct tag
-        //{
-        //    PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
-        //    if (playerHealth != null)
-        //    {
-        //        playerHealth.TakeDamage(damagePerSecond);
-        //    }
-        //}
+        if (other.CompareTag("Player")) 
+        {
+            Health playerHealth = other.GetComponent<Health>(); 
+
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(30); 
+            }
+        }
     }
 }

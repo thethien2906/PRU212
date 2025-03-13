@@ -14,6 +14,12 @@ public class MissileProjectile : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            Health playerHealth = collision.GetComponent<Health>();
+
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(20);
+            }
             Destroy(gameObject);
         }
     }

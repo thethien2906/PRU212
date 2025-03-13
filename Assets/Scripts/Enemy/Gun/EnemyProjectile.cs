@@ -30,7 +30,17 @@ public class EnemyProjectile : MonoBehaviour
     {
         if (((1 << collision.gameObject.layer) & destroyLayers) != 0)
         {
-            Destroy(gameObject); // Destroy projectile on impact
+            if (collision.CompareTag("Player"))
+            {
+                Health playerHealth = collision.GetComponent<Health>();
+
+                if (playerHealth != null)
+                {
+                    playerHealth.TakeDamage(20);
+                    Debug.Log("Projectile hit player! Dealing 20 damage.");
+                }
+                Destroy(gameObject);
+            }
         }
     }
 }

@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 6676918349843535714}
   - component: {fileID: 5614520169175691546}
   - component: {fileID: 6821170568403921869}
-  m_Layer: 0
+  - component: {fileID: 1131521288201597258}
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -96,8 +97,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.03848231, y: -0.17042166}
-  m_Size: {x: 1.0277574, y: 1.2748736}
+  m_Offset: {x: 0.03848231, y: -0.014068723}
+  m_Size: {x: 1.0277574, y: 1.5875795}
   m_Direction: 0
 --- !u!114 &6821170568403921869
 MonoBehaviour:
@@ -126,6 +127,20 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   deathVfx: {fileID: 4886361938313475779, guid: 00775d687c3cce642a2c2f5c56f7f3c7, type: 3}
+--- !u!114 &1131521288201597258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767072089519785676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7964bd2a2a0243418d5d36841a59068, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  healthSlider: {fileID: 0}
 --- !u!1 &8188413698411731600
 GameObject:
   m_ObjectHideFlags: 0
@@ -138,7 +153,7 @@ GameObject:
   - component: {fileID: 8282899872545719256}
   - component: {fileID: 3198554297191703730}
   - component: {fileID: 789529236416659539}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Animator
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -18,12 +18,17 @@ public class HooverProjectile : MonoBehaviour
     {
         if (((1 << collision.gameObject.layer) & whatIsPlayer) != 0)
         {
-            //// Damage the player (assuming the player has a script with a TakeDamage method)
-            //PlayerHealth player = collision.GetComponent<PlayerHealth>();
-            //if (player != null)
-            //{
-            //    player.TakeDamage(damage);
-            //}
+            if (collision.CompareTag("Player"))
+            {
+                Health playerHealth = collision.GetComponent<Health>();
+
+                if (playerHealth != null)
+                {
+                    playerHealth.TakeDamage(20);
+                    Debug.Log("Projectile hit player! Dealing 20 damage.");
+                }
+                Destroy(gameObject);
+            }
 
             Destroy(gameObject); // Destroy projectile on impact
         }
