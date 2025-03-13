@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cursorGauntlet_bronze_0: -4319127249399780554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
