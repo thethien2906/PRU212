@@ -47,6 +47,8 @@ public class Player : MonoBehaviour
     private bool facingRight = true;
     private int facingDir = 1;
 
+    private Health health;
+
     [Header("VFX")]
     [SerializeField] private GameObject deathVfx;
     private void Awake()
@@ -54,6 +56,7 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         cd = GetComponent<CapsuleCollider2D>();
         anim = GetComponentInChildren<Animator>();
+        health = GetComponent<Health>();
     }
     private void Start()
     {
@@ -286,5 +289,8 @@ public class Player : MonoBehaviour
         Gizmos.DrawLine(transform.position, new Vector2(transform.position.x, transform.position.y - groundCheckDistance));
         Gizmos.DrawLine(transform.position, new Vector2(transform.position.x + (wallCheckDistance * facingDir), transform.position.y));
     }
-
+    public void TakeDamage(int damage)
+    {
+        health.TakeDamage(damage);
+    }
 }

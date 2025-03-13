@@ -82,4 +82,16 @@ public class Enemy_Wheel : Enemy
         if (idleTimer > 0 || isAttacking) return;
         rb.linearVelocity = new Vector2(moveSpeed * facingDir, rb.linearVelocity.y);
     }
+    protected virtual void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            Health playerHealth = other.GetComponent<Health>();
+
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(30);
+            }
+        }
+    }
 }

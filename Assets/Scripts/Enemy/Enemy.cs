@@ -146,4 +146,18 @@ public class Enemy : MonoBehaviour
             Gizmos.DrawLine(transform.position, transform.position + Vector3.left * facingDir * playerDetectionDistance);
         }
     }
+
+    protected virtual void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player")) // Check if collided with Player
+        {
+            Health playerHealth = other.GetComponent<Health>(); // Get Health component
+
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(10); // Reduce Player Health by 10
+            }
+        }
+    }
+
 }

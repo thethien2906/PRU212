@@ -40,6 +40,14 @@ public class EnemyGrenade : MonoBehaviour
                 Vector2 forceDirection = obj.transform.position - transform.position;
                 objRb.AddForce(forceDirection.normalized * explosionForce, ForceMode2D.Impulse);
             }
+            if (obj.CompareTag("Player"))
+            {
+                Health playerHealth = obj.GetComponent<Health>();
+                if (playerHealth != null)
+                {
+                    playerHealth.TakeDamage(40); 
+                }
+            }
         }
 
         Destroy(gameObject, 0.5f);
