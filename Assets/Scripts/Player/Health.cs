@@ -45,7 +45,7 @@ public class Health : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("AddMana"))
+        if(collision.CompareTag("AddHealth"))
         {
             Heal(20);
         }
