@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 155360
   packageName: Pixel Adventure 1
   packageVersion: 1.0
-  assetPath: Assets/Pixel Adventure 1/Assets/Traps/Fan/On (24x8).png
+  assetPath: Assets/Graphics/Traps/Fan/On (24x8).png
   uploadId: 332803
 TextureImporter:
   internalIDToNameTable:

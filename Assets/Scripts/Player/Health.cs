@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,10 +12,19 @@ public class Health : MonoBehaviour
     public delegate void OnHealthChanged();
     public event OnHealthChanged HealthUpdated;
 
+    private Dictionary<string, Action> itemActions;
+
     private void Start()
     {
         currentHealth = maxHealth;
         UpdateHealthUI();
+        // Initialize the dictionary with item actions
+        itemActions = new Dictionary<string, Action>
+        {
+            { "addBlood", () => Heal(20) },
+            { "minusBlood", () => TakeDamage(20) }
+            // Add more items and their actions here
+        };
     }
 
     private void UpdateHealthUI()
@@ -45,9 +55,11 @@ public class Health : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("AddHealth"))
+        if (itemActions.TryGetValue(collision.tag, out Action action))
         {
-            Heal(20);
+            action.Invoke();
+            Destroy(collision.gameObject);
+            Debug.Log($"{collision.tag} action executed");
         }
     }
 }

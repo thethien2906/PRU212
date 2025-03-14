@@ -5,8 +5,7 @@ AssetOrigin:
   productId: 155360
   packageName: Pixel Adventure 1
   packageVersion: 1.0
-  assetPath: Assets/Pixel Adventure 1/Assets/Traps/Sand Mud Ice/Sand Mud Ice Sliced
-    (16x6).png
+  assetPath: Assets/Graphics/Traps/Sand Mud Ice/Sand Mud Ice Sliced (16x6).png
   uploadId: 332803
 TextureImporter:
   internalIDToNameTable:
