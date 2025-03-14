@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -41,4 +42,13 @@ public class Health : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         UpdateHealthUI();
     }
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("AddMana"))
+        {
+            Heal(20);
+        }
+    }
 }
+
