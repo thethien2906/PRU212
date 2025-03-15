@@ -6,6 +6,7 @@ TagManager:
   tags:
   - addBlood
   - AddMana
+  - minusBlood
   layers:
   - Default
   - TransparentFX
