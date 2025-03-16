@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 155360
   packageName: Pixel Adventure 1
   packageVersion: 1.0
-  assetPath: Assets/Pixel Adventure 1/Assets/Traps/Blocks/HitSide (22x22).png
+  assetPath: Assets/Graphics/Traps/Blocks/HitSide (22x22).png
   uploadId: 332803
 TextureImporter:
   internalIDToNameTable:

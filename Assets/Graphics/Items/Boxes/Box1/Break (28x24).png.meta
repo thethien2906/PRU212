@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 155360
   packageName: Pixel Adventure 1
   packageVersion: 1.0
-  assetPath: Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Break (28x24).png
+  assetPath: Assets/Graphics/Items/Boxes/Box1/Break (28x24).png
   uploadId: 332803
 TextureImporter:
   internalIDToNameTable:
