@@ -1,25 +1,70 @@
 fileFormatVersion: 2
-guid: abbcb51ee7eb885438d00132cbb3a1a8
+guid: 77c5a2dfc56f981428649db4e5b58a25
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9101230857065804138
-    second: Double Jump (32x32)_0
+      213: -5757594031790019797
+    second: attack2_WithVFX_0
   - first:
-      213: -6204479477933590408
-    second: Double Jump (32x32)_1
+      213: -8006793700295036451
+    second: attack2_WithVFX_1
   - first:
-      213: 7040038629683462113
-    second: Double Jump (32x32)_2
+      213: -3334630723598926280
+    second: attack2_WithVFX_2
   - first:
-      213: 781615245368611544
-    second: Double Jump (32x32)_3
+      213: 4172636778491726190
+    second: attack2_WithVFX_3
   - first:
-      213: -3939753913355333839
-    second: Double Jump (32x32)_4
+      213: 1104861716261909476
+    second: attack2_WithVFX_4
   - first:
-      213: 6301718139250434432
-    second: Double Jump (32x32)_5
+      213: -2703164187576867462
+    second: attack2_WithVFX_5
+  - first:
+      213: -1906263048017548903
+    second: attack2_WithVFX_6
+  - first:
+      213: -314553960979831990
+    second: attack2_WithVFX_7
+  - first:
+      213: -5007845737572799422
+    second: attack2_WithVFX_8
+  - first:
+      213: 807881088967287315
+    second: attack2_WithVFX_9
+  - first:
+      213: 34699859555971927
+    second: attack2_WithVFX_10
+  - first:
+      213: 4955107572242182133
+    second: attack2_WithVFX_11
+  - first:
+      213: -1596961548672843301
+    second: attack2_WithVFX_12
+  - first:
+      213: -8845109144828923048
+    second: attack2_WithVFX_13
+  - first:
+      213: -7260512971668106469
+    second: attack2_WithVFX_14
+  - first:
+      213: 8242342973169571305
+    second: attack2_WithVFX_15
+  - first:
+      213: 2125830094880160656
+    second: attack2_WithVFX_16
+  - first:
+      213: -875170664682454617
+    second: attack2_WithVFX_17
+  - first:
+      213: 5054223700084871513
+    second: attack2_WithVFX_18
+  - first:
+      213: -1565607347478476792
+    second: attack2_WithVFX_19
+  - first:
+      213: -2456375270902496631
+    second: attack2_WithVFX_20
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +97,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +111,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +135,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,133 +160,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Double Jump (32x32)_0
+      name: attack2_WithVFX_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 27
-        height: 24
+        x: 575
+        y: 51
+        width: 96
+        height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69ec4c181cee1b180800000000000000
-      internalID: -9101230857065804138
+      spriteID: b2b2f3eabbae810b0800000000000000
+      internalID: -5757594031790019797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_1
+      name: attack2_WithVFX_2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 824
+        y: 52
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 878319d99c245e9a0800000000000000
-      internalID: -6204479477933590408
+      spriteID: 83e38c6460309b1d0800000000000000
+      internalID: -3334630723598926280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_2
+      name: attack2_WithVFX_3
       rect:
         serializedVersion: 2
-        x: 68
-        y: 1
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1070
+        y: 52
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ef7f4f75dd33b160800000000000000
-      internalID: 7040038629683462113
+      spriteID: e69cabeda0f28e930800000000000000
+      internalID: 4172636778491726190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_3
+      name: attack2_WithVFX_13
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1311
+        y: 52
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d2d93bacead8da00800000000000000
-      internalID: 781615245368611544
+      spriteID: 853b9ee981cdf3580800000000000000
+      internalID: -8845109144828923048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_4
+      name: attack2_WithVFX_20
       rect:
         serializedVersion: 2
-        x: 129
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1551
+        y: 56
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.35416666, y: 0.4408602}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13f000480be2359c0800000000000000
-      internalID: -3939753913355333839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Double Jump (32x32)_5
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08168ac7243347750800000000000000
-      internalID: 6301718139250434432
+      spriteID: 9828dce94b339edd0800000000000000
+      internalID: -2456375270902496631
       vertices: []
       indices: 
       edges: []
@@ -250,7 +273,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4e73dfee69683214c9c52badb7022eb0
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +283,27 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Double Jump (32x32)_0: -9101230857065804138
-      Double Jump (32x32)_1: -6204479477933590408
-      Double Jump (32x32)_2: 7040038629683462113
-      Double Jump (32x32)_3: 781615245368611544
-      Double Jump (32x32)_4: -3939753913355333839
-      Double Jump (32x32)_5: 6301718139250434432
+      attack2_WithVFX_0: -5757594031790019797
+      attack2_WithVFX_1: -8006793700295036451
+      attack2_WithVFX_10: 34699859555971927
+      attack2_WithVFX_11: 4955107572242182133
+      attack2_WithVFX_12: -1596961548672843301
+      attack2_WithVFX_13: -8845109144828923048
+      attack2_WithVFX_14: -7260512971668106469
+      attack2_WithVFX_15: 8242342973169571305
+      attack2_WithVFX_16: 2125830094880160656
+      attack2_WithVFX_17: -875170664682454617
+      attack2_WithVFX_18: 5054223700084871513
+      attack2_WithVFX_19: -1565607347478476792
+      attack2_WithVFX_2: -3334630723598926280
+      attack2_WithVFX_20: -2456375270902496631
+      attack2_WithVFX_3: 4172636778491726190
+      attack2_WithVFX_4: 1104861716261909476
+      attack2_WithVFX_5: -2703164187576867462
+      attack2_WithVFX_6: -1906263048017548903
+      attack2_WithVFX_7: -314553960979831990
+      attack2_WithVFX_8: -5007845737572799422
+      attack2_WithVFX_9: 807881088967287315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

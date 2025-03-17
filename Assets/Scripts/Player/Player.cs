@@ -38,6 +38,28 @@ public class Player : MonoBehaviour
     [SerializeField] private float wallCheckDistance;
     [SerializeField] private LayerMask groundLayer;
 
+
+    [Header("Combo Attack")]
+    [SerializeField] private float comboResetTime = 3f;
+    [SerializeField] private float comboInputBufferTime = 0.5f; // Time window to buffer combo inputs
+    private int comboStep = 0;
+    private float lastComboTime;
+    private bool isAttacking;
+    private bool canQueueNextAttack = false;
+    private int bufferedAttacks = 0; // Track how many attacks are buffered
+    private float lastBufferTime;    // Track when the last buffer input was received
+    private bool isEndingAttack = false;
+
+    [Header("Special Attack")]
+    [SerializeField] private float specialDashDistance = 5f;
+    [SerializeField] private float specialDashDuration = 0.1f; // Very fast, but still smooth
+    [SerializeField] private GameObject specialAttackVFX;
+    private bool isSpecialAttacking;
+    [Header("Special Attack Cooldown")]
+    [SerializeField] private float specialAttackCooldown = 1f;
+    private float lastSpecialAttackTime = -Mathf.Infinity;
+
+
     private bool isGrounded;
     private bool isAirborne;
     private bool isWallDetected;
@@ -51,6 +73,12 @@ public class Player : MonoBehaviour
 
     [Header("VFX")]
     [SerializeField] private GameObject deathVfx;
+    [SerializeField] private GameObject attack1VFX;
+    [SerializeField] private GameObject attack2VFX;
+    [SerializeField] private GameObject attack3VFX;
+    [SerializeField] private float vfxDuration = 0.5f;
+    [SerializeField] private float vfxSpecialDuration = 2f;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -65,28 +93,41 @@ public class Player : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            Knockback();
-        }
-        if (canBeControlled == false)
-        {
+        if (!canBeControlled)
             return;
-        }
+
         updateAirborneStatus();
+
         if (isKnockback)
-        {
             return;
+
+        HandleComboAttack();
+        HandleSpecialAttack();
+
+        if (!isAttacking && !isEndingAttack && !isSpecialAttacking) // Block other movement inputs while attacking
+        {
+            handleInput();
+            HandleWallSlide();
+            HandleMovement();
+            HandleFlip();
         }
-        handleInput();
-        HandleWallSlide();
-        HandleMovement();
-        HandleFlip();
+        else
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // freeze horizontal movement during attack
+        }
+
         HandleCollision();
         HandleAnimations();
-
     }
-    
+
+    private void HandleSpecialAttack()
+    {
+        if (Input.GetKeyDown(KeyCode.K) && !isSpecialAttacking && !isAttacking && !isEndingAttack && Time.time > lastSpecialAttackTime + specialAttackCooldown)
+        {
+            TriggerSpecialAttack();
+        }
+    }
+
 
     private void updateAirborneStatus()
     {
@@ -284,6 +325,7 @@ public class Player : MonoBehaviour
         transform.Rotate(0f, 180f, 0f);
         facingRight = !facingRight;
     }
+
     private void OnDrawGizmos()
     {
         Gizmos.DrawLine(transform.position, new Vector2(transform.position.x, transform.position.y - groundCheckDistance));
@@ -292,5 +334,184 @@ public class Player : MonoBehaviour
     public void TakeDamage(int damage)
     {
         health.TakeDamage(damage);
+    }
+
+    private void HandleComboAttack()
+{
+    // Check if combo has timed out
+    if (Time.time > lastComboTime + comboResetTime && comboStep > 0)
+    {
+        ResetCombo();
+    }
+
+    // Clean up expired buffers
+    if (bufferedAttacks > 0 && Time.time > lastBufferTime + comboInputBufferTime)
+    {
+        bufferedAttacks = 0;
+    }
+
+    if (Input.GetKeyDown(KeyCode.J))
+    {
+        lastBufferTime = Time.time;
+        
+        if (!isAttacking)
+        {
+            // Start the first attack
+            bufferedAttacks = Mathf.Min(bufferedAttacks + 1, 3); // Limit to max 3 attacks
+            StartCombo();
+        }
+        else
+        {
+            // Buffer additional attacks (up to 3 total)
+            bufferedAttacks = Mathf.Min(bufferedAttacks + 1, 3 - comboStep + 1);
+        }
+    }
+}
+
+    private void StartCombo()
+    {
+        comboStep = 1;
+        lastComboTime = Time.time;
+        anim.SetTrigger("attack1");
+        isAttacking = true;
+    }
+
+    private void ResetCombo()
+    {
+        comboStep = 0;
+        isAttacking = false;
+        canQueueNextAttack = false;
+    }
+
+    public void EnableComboWindow()
+    {
+        canQueueNextAttack = true;
+    }
+
+    public void ComboAttackEnded()
+    {
+        canQueueNextAttack = false;
+
+        // Check if we have buffered attacks
+        if (bufferedAttacks > 0)
+        {
+            bufferedAttacks--;
+            comboStep++;
+            lastComboTime = Time.time;
+
+            if (comboStep == 2)
+            {
+                anim.SetTrigger("attack2");
+            }
+            else if (comboStep == 3)
+            {
+                anim.SetTrigger("attack3");
+            }
+            else
+            {
+                // If we've completed the full combo
+                anim.SetTrigger("endingAttack");
+                isAttacking = false;
+                isEndingAttack = true;
+                comboStep = 0;
+            }
+        }
+        else
+        {
+            // No more buffered attacks, end the combo
+            anim.SetTrigger("endingAttack");
+            isAttacking = false;
+            isEndingAttack = true;
+            comboStep = 0;
+        }
+    }
+
+    public void Normal()
+    {
+        anim.SetTrigger("Normal");
+    }
+    public void EndingAnimationFinished()
+    {
+        isEndingAttack = false;
+    }
+
+    public void ActivateAttackVFX(int attackNumber)
+    {
+        GameObject vfx = null;
+
+        switch (attackNumber)
+        {
+            case 1:
+                vfx = attack1VFX;
+                break;
+            case 2:
+                vfx = attack2VFX;
+                break;
+            case 3:
+                vfx = attack3VFX;
+                break;
+        }
+
+        if (vfx != null)
+        {
+            vfx.SetActive(true);
+            StartCoroutine(DeactivateVFX(vfx));
+        }
+    }
+
+    private IEnumerator DeactivateVFX(GameObject vfx)
+    {
+        yield return new WaitForSeconds(vfxDuration);
+        vfx.SetActive(false);
+    }
+
+
+
+    private void TriggerSpecialAttack()
+    {
+        isSpecialAttacking = true;
+        anim.SetTrigger("special");
+        rb.linearVelocity = Vector2.zero; // Freeze current motion
+    }
+    public void PerformSpecialDash()
+    {
+        StartCoroutine(SpecialDashRoutine());
+    }
+
+    private IEnumerator SpecialDashRoutine()
+    {
+        float elapsed = 0f;
+        Vector2 startPos = rb.position;
+        Vector2 endPos = startPos + new Vector2(facingDir * specialDashDistance, 0);
+
+        while (elapsed < specialDashDuration)
+        {
+            rb.MovePosition(Vector2.Lerp(startPos, endPos, elapsed / specialDashDuration));
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        rb.MovePosition(endPos); // Ensure perfect placement
+    }
+    public void EndSpecialAttack()
+    {
+        anim.SetTrigger("endingAttack");
+        isSpecialAttacking = false;
+        lastSpecialAttackTime = Time.time;
+        
+    }
+
+    public void ActivateSpecialVFX()
+    {
+        if (specialAttackVFX != null)
+        {
+            specialAttackVFX.SetActive(true);
+            StartCoroutine(DeactivateSpecialVFX(specialAttackVFX));
+        }
+    }
+    private IEnumerator DeactivateSpecialVFX(GameObject vfx)
+    {
+        yield return new WaitForSeconds(vfxSpecialDuration);
+        vfx.SetActive(false);
     }
 }
