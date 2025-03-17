@@ -76,4 +76,8 @@ public class Enemy_Shield : Enemy
         if (idleTimer > 0 || isAttacking) return;
         rb.linearVelocity = new Vector2(moveSpeed * facingDir, rb.linearVelocity.y);
     }
+    private void hideSprite()
+    {
+        sr.enabled = false;
+    }
 }

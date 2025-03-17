@@ -167,6 +167,7 @@ GameObject:
   - component: {fileID: 5254505201708163227}
   - component: {fileID: 8395763323288881683}
   - component: {fileID: 1196572713999887163}
+  - component: {fileID: 3729460978806139442}
   m_Layer: 6
   m_Name: Enemy_Hoover
   m_TagString: Untagged
@@ -378,3 +379,17 @@ MonoBehaviour:
   projectilePrefab: {fileID: 8655267318238497073, guid: 2b1592828b8943f449159b90be0233a6, type: 3}
   firePoint: {fileID: 588095422699125992}
   projectileSpeed: 2
+--- !u!114 &3729460978806139442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6962742980612553594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f31de417467f684e81d1dc8d294a1c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flashMaterial: {fileID: 2100000, guid: c096072779f8f72458bace857e4250a9, type: 2}
+  duration: 0.1

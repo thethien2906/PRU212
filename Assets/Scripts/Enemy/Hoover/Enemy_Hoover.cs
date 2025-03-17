@@ -167,4 +167,8 @@ public class Enemy_Hoover : Enemy
         Gizmos.DrawWireSphere(originalPosition + new Vector3(-patrolDistance, 0, 0), 0.2f);
         Gizmos.DrawWireSphere(originalPosition + new Vector3(patrolDistance, 0, 0), 0.2f);
     }
+    private void hideSprite()
+    {
+        sr.enabled = false;
+    }
 }

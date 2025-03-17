@@ -71,4 +71,8 @@ public class Enemy_Flamethrower : Enemy
         if (idleTimer > 0 || isAttacking) return;
         rb.linearVelocity = new Vector2(moveSpeed * facingDir, rb.linearVelocity.y);
     }
+    private void hideSprite()
+    {
+        sr.enabled = false;
+    }
 }

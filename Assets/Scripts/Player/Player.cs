@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using UnityEngine;
+using static UnityEngine.Rendering.DebugUI;
 
 public class Player : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class Player : MonoBehaviour
     private CapsuleCollider2D cd;
 
     private bool canBeControlled;
+    private int originalLayer;
     [Header("Movement")]
     [SerializeField] private float speed;
     [SerializeField] private float jumpForce;
@@ -70,6 +72,7 @@ public class Player : MonoBehaviour
     private int facingDir = 1;
 
     private Health health;
+    private Mana mana;
 
     [Header("VFX")]
     [SerializeField] private GameObject deathVfx;
@@ -85,6 +88,7 @@ public class Player : MonoBehaviour
         cd = GetComponent<CapsuleCollider2D>();
         anim = GetComponentInChildren<Animator>();
         health = GetComponent<Health>();
+        mana = GetComponent<Mana>();
     }
     private void Start()
     {
@@ -124,7 +128,15 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.K) && !isSpecialAttacking && !isAttacking && !isEndingAttack && Time.time > lastSpecialAttackTime + specialAttackCooldown)
         {
-            TriggerSpecialAttack();
+            if (mana.HasEnoughMana(100))
+            {
+                mana.ConsumeMana(100); 
+                TriggerSpecialAttack();
+            }
+            else
+            {
+                Debug.Log("Not enough mana!");
+            }
         }
     }
 
@@ -455,14 +467,19 @@ public class Player : MonoBehaviour
         if (vfx != null)
         {
             vfx.SetActive(true);
-            StartCoroutine(DeactivateVFX(vfx));
+            Collider2D hitbox = vfx.GetComponent<Collider2D>();
+            if (hitbox != null) hitbox.enabled = true;
+
+            StartCoroutine(DeactivateVFX(vfx, hitbox));
         }
     }
 
-    private IEnumerator DeactivateVFX(GameObject vfx)
+    private IEnumerator DeactivateVFX(GameObject vfx, Collider2D hitbox)
     {
         yield return new WaitForSeconds(vfxDuration);
         vfx.SetActive(false);
+        if (hitbox != null) hitbox.enabled = false;
+
     }
 
 
@@ -472,6 +489,8 @@ public class Player : MonoBehaviour
         isSpecialAttacking = true;
         anim.SetTrigger("special");
         rb.linearVelocity = Vector2.zero; // Freeze current motion
+        originalLayer = gameObject.layer;
+        gameObject.layer = LayerMask.NameToLayer("SpecialAttack");
     }
     public void PerformSpecialDash()
     {
@@ -498,7 +517,8 @@ public class Player : MonoBehaviour
         anim.SetTrigger("endingAttack");
         isSpecialAttacking = false;
         lastSpecialAttackTime = Time.time;
-        
+        gameObject.layer = originalLayer;
+
     }
 
     public void ActivateSpecialVFX()

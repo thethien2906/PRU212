@@ -2,11 +2,12 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    private SpriteRenderer sr => GetComponent<SpriteRenderer>();
+    protected SpriteRenderer sr => GetComponent<SpriteRenderer>();
     protected Transform player;
     protected Animator anim;
     protected Rigidbody2D rb;
     protected Collider2D[] colliders;
+    private Flash flashEffect;
 
     [Header("General info")]
     [SerializeField] protected float moveSpeed = 2f;
@@ -15,7 +16,7 @@ public class Enemy : MonoBehaviour
     protected bool canMove = true;
 
     [Header("Health System")]
-    [SerializeField] protected int health = 3; // Default value, can be overridden by subclasses
+    [SerializeField] protected int health = 3;
 
     [Header("Death details")]
     [SerializeField] protected float deathImpactSpeed = 5;
@@ -43,6 +44,7 @@ public class Enemy : MonoBehaviour
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         colliders = GetComponentsInChildren<Collider2D>();
+        flashEffect = GetComponent<Flash>(); // Add this line to get Flash component
     }
 
     protected virtual void Start()
@@ -62,15 +64,18 @@ public class Enemy : MonoBehaviour
         HandleAnimator();
 
         idleTimer -= Time.deltaTime;
-
     }
 
-    // New Method: Handles damage when hit by player
     public void TakeDamage()
     {
         if (isDead) return;
 
         health--;
+
+        if (flashEffect != null)
+        {
+            flashEffect.FlashSprite(); // Trigger flash effect when taking damage
+        }
 
         if (health <= 0)
         {
@@ -78,14 +83,12 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    // Modified Die() Method
     public virtual void Die()
     {
         anim.SetTrigger("isDead");
         isDead = true;
-        Destroy(gameObject, 10);
+        Destroy(gameObject, 1f);
     }
-
 
     protected virtual void HandleFlip(float xValue)
     {
@@ -113,8 +116,7 @@ public class Enemy : MonoBehaviour
         isGroundInfrontDetected = Physics2D.Raycast(frontCheckPos, Vector2.down, groundCheckDistance, whatIsGround);
 
         isWallDetected = Physics2D.Raycast(transform.position, Vector2.right * facingDir, wallCheckDistance, whatIsGround);
-        
-        // if gameobject name = Enemy_Missile then it will detech from the left
+
         if (gameObject.name == "Enemy_Missile")
         {
             isPlayerDetected = Physics2D.Raycast(transform.position, Vector2.left * facingDir, playerDetectionDistance, whatIsPlayer);
@@ -139,7 +141,6 @@ public class Enemy : MonoBehaviour
         Gizmos.color = Color.yellow;
         Gizmos.DrawLine(transform.position, transform.position + Vector3.right * facingDir * playerDetectionDistance);
 
-        // if gameobject name = Enemy_Missile than both will draw on the left
         if (gameObject.name == "Enemy_Missile")
         {
             Gizmos.color = Color.cyan;
@@ -149,15 +150,22 @@ public class Enemy : MonoBehaviour
 
     protected virtual void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) // Check if collided with Player
+        if (other.CompareTag("Player"))
         {
-            Health playerHealth = other.GetComponent<Health>(); // Get Health component
+            Health playerHealth = other.GetComponent<Health>();
 
             if (playerHealth != null)
             {
-                playerHealth.TakeDamage(10); // Reduce Player Health by 10
+                playerHealth.TakeDamage(10);
             }
         }
+        else if (other.CompareTag("PlayerAttack"))
+        {
+            TakeDamage();
+        }
+        else if (other.CompareTag("SpecialAttack"))
+        {
+            Die();
+        }
     }
-
 }
