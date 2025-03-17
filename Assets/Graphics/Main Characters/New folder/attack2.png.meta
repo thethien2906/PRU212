@@ -1,25 +1,58 @@
 fileFormatVersion: 2
-guid: abbcb51ee7eb885438d00132cbb3a1a8
+guid: e41747bbf99dab54185b9988e593d77f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9101230857065804138
-    second: Double Jump (32x32)_0
+      213: 8960278200517875464
+    second: attack2_0
   - first:
-      213: -6204479477933590408
-    second: Double Jump (32x32)_1
+      213: -2465810860969379800
+    second: attack2_1
   - first:
-      213: 7040038629683462113
-    second: Double Jump (32x32)_2
+      213: 5002756131240677261
+    second: attack2_2
   - first:
-      213: 781615245368611544
-    second: Double Jump (32x32)_3
+      213: -3764604929125962900
+    second: attack2_3
   - first:
-      213: -3939753913355333839
-    second: Double Jump (32x32)_4
+      213: 5997235080567257955
+    second: attack2_4
   - first:
-      213: 6301718139250434432
-    second: Double Jump (32x32)_5
+      213: 1118178883266758183
+    second: attack2_5
+  - first:
+      213: 4375527575771685114
+    second: attack2_6
+  - first:
+      213: -47836001822693131
+    second: attack2_7
+  - first:
+      213: -5006914002284409324
+    second: attack2_8
+  - first:
+      213: 4818371918333672716
+    second: attack2_9
+  - first:
+      213: 7349703736009592938
+    second: attack2_10
+  - first:
+      213: 7897007326269470006
+    second: attack2_11
+  - first:
+      213: 3546899277706344861
+    second: attack2_12
+  - first:
+      213: 3404559316335041068
+    second: attack2_13
+  - first:
+      213: -3085586742092536919
+    second: attack2_14
+  - first:
+      213: 529350200360652149
+    second: attack2_15
+  - first:
+      213: -6407345795641083186
+    second: attack2_16
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +85,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +123,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,133 +148,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Double Jump (32x32)_0
+      name: 3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 575
+        y: 51
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61538464}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69ec4c181cee1b180800000000000000
-      internalID: -9101230857065804138
+      spriteID: 8075b8ebc8d495c70800000000000000
+      internalID: 8960278200517875464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_1
+      name: 4
       rect:
         serializedVersion: 2
-        x: 36
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 825
+        y: 53
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5934066}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 878319d99c245e9a0800000000000000
-      internalID: -6204479477933590408
+      spriteID: 828be9c161ea7cdd0800000000000000
+      internalID: -2465810860969379800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_2
+      name: 5
       rect:
         serializedVersion: 2
-        x: 68
-        y: 1
-        width: 24
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1065
+        y: 56
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3904762, y: 0.5604396}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ef7f4f75dd33b160800000000000000
-      internalID: 7040038629683462113
+      spriteID: d8f0284123c5d6540800000000000000
+      internalID: 5002756131240677261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_3
+      name: 1
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1
-        width: 24
-        height: 27
+        x: 93
+        y: 60
+        width: 105
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d2d93bacead8da00800000000000000
-      internalID: 781615245368611544
+      spriteID: 36bf8b3f7857a3350800000000000000
+      internalID: 5997235080567257955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_4
+      name: 2
       rect:
         serializedVersion: 2
-        x: 129
-        y: 4
-        width: 27
-        height: 24
+        x: 336
+        y: 61
+        width: 105
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13f000480be2359c0800000000000000
-      internalID: -3939753913355333839
+      spriteID: 726457c15c1948f00800000000000000
+      internalID: 1118178883266758183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Double Jump (32x32)_5
+      name: 6
       rect:
         serializedVersion: 2
-        x: 161
-        y: 4
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1305
+        y: 56
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3904762, y: 0.5604396}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08168ac7243347750800000000000000
-      internalID: 6301718139250434432
+      spriteID: a6096358b946ff560800000000000000
+      internalID: 7349703736009592938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 56
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3904762, y: 0.5604396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a95eaf8ac6f3f20800000000000000
+      internalID: 3404559316335041068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 62
+        width: 105
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d474ed331a85700800000000000000
+      internalID: 529350200360652149
       vertices: []
       indices: 
       edges: []
@@ -250,7 +327,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 84e60a2f7d2091c4b9a650e39efe36d1
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +337,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Double Jump (32x32)_0: -9101230857065804138
-      Double Jump (32x32)_1: -6204479477933590408
-      Double Jump (32x32)_2: 7040038629683462113
-      Double Jump (32x32)_3: 781615245368611544
-      Double Jump (32x32)_4: -3939753913355333839
-      Double Jump (32x32)_5: 6301718139250434432
+      1: 5997235080567257955
+      2: 1118178883266758183
+      3: 8960278200517875464
+      4: -2465810860969379800
+      5: 5002756131240677261
+      6: 7349703736009592938
+      7: 3404559316335041068
+      8: 529350200360652149
+      attack2_11: 7897007326269470006
+      attack2_12: 3546899277706344861
+      attack2_14: -3085586742092536919
+      attack2_16: -6407345795641083186
+      attack2_3: -3764604929125962900
+      attack2_6: 4375527575771685114
+      attack2_7: -47836001822693131
+      attack2_8: -5006914002284409324
+      attack2_9: 4818371918333672716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
