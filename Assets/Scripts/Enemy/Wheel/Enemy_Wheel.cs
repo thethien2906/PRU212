@@ -93,5 +93,17 @@ public class Enemy_Wheel : Enemy
                 playerHealth.TakeDamage(30);
             }
         }
+        else if (other.CompareTag("PlayerAttack")) // Take damage from normal attacks
+        {
+            TakeDamage();
+        }
+        else if (other.CompareTag("SpecialAttack")) // Die instantly if hit by special attack
+        {
+            Die();
+        }
+    }
+    private void hideSprite()
+    {
+        sr.enabled = false;
     }
 }

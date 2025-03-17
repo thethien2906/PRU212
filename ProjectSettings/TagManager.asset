@@ -7,6 +7,9 @@ TagManager:
   - addBlood
   - AddMana
   - minusBlood
+  - PlayerAttack
+  - SpecialAttack
+  - Invincible
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - UI
   - Enemy
   - Player
-  - 
+  - SpecialAttack
   - 
   - 
   - 

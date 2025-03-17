@@ -111,4 +111,8 @@ public class Enemy_Missile : Enemy
             missile.transform.rotation = Quaternion.Euler(0, 0, angle);
         }
     }
+    private void hideSprite()
+    {
+        sr.enabled = false;
+    }
 }
