@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-public class SpiderHealth : MonoBehaviour
+public class MantisHealth : MonoBehaviour
 {
     [SerializeField] private int maxHealth = 100;
     [SerializeField] private int currentHealth;
@@ -16,7 +16,10 @@ public class SpiderHealth : MonoBehaviour
     private Flash flashEffect;
 
     private bool isHalfHealthTriggered = false;
-
+    private void Awake()
+    {
+        flashEffect = GetComponent<Flash>();
+    }
     void Start()
     {
         currentHealth = maxHealth;
@@ -43,6 +46,12 @@ public class SpiderHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        if (flashEffect != null)
+        {
+            Debug.Log("Flashed");
+            flashEffect.FlashSprite();
+        }
+        onDeath.Invoke();
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         UpdateHealthUI();
@@ -76,7 +85,7 @@ public class SpiderHealth : MonoBehaviour
         if (animator != null)
         {
             animator.SetTrigger("isDead");
-            StartCoroutine(DestroyAfterAnimation(1.5f)); // Adjust time based on death animation length
+            StartCoroutine(DestroyAfterAnimation(2f)); // Adjust time based on death animation length
         }
         else
         {

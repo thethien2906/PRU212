@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cb219adceb931c242823049cbd14a9fd
+guid: cce422c4927b8714d976d1199cf403b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6728867449572765049
-    second: 3DS - Azure Striker Gunvolt - Big Robot_0
+      213: -3291920497528892711
+    second: 3DS - Azure Striker Gunvolt - Mantis1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3DS - Azure Striker Gunvolt - Big Robot_0
+      name: 3DS - Azure Striker Gunvolt - Mantis1_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1141
-        width: 54
-        height: 45
+        x: 0
+        y: 0
+        width: 1000
+        height: 10723
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,74 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 782d687a4b24e92a0800000000000000
-      internalID: -6728867449572765049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3DS - Azure Striker Gunvolt - Big Robot_1
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 1141
-        width: 54
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7ced171e93752847ac5bdeb7d04d23b
-      internalID: -1685085852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3DS - Azure Striker Gunvolt - Big Robot_2
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 1141
-        width: 56
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6731a6ea3a5e0b649a597c2200cb534e
-      internalID: -477752240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 3DS - Azure Striker Gunvolt - Big Robot_3
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 1141
-        width: 54
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbceccd54db339645855c2c970c5ef9f
-      internalID: -66772642
+      spriteID: 9d296f3bfbfb052d0800000000000000
+      internalID: -3291920497528892711
       vertices: []
       indices: 
       edges: []
@@ -191,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: cbf1fff14ffe0664c8d3782b747ae02f
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -200,11 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      3DS - Azure Striker Gunvolt - Big Robot_0: -6728867449572765049
-      3DS - Azure Striker Gunvolt - Big Robot_1: -1685085852
-      3DS - Azure Striker Gunvolt - Big Robot_2: -477752240
-      3DS - Azure Striker Gunvolt - Big Robot_3: -66772642
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

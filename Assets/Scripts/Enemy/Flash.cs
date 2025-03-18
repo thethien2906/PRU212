@@ -49,7 +49,6 @@ public class Flash : MonoBehaviour
 
     public void FlashSprite()
     {
-        Debug.Log("Flash");
         // If the flashRoutine is not null, then it is currently running.
         if (flashRoutine != null)
         {
