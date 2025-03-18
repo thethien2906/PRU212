@@ -22,6 +22,19 @@ public class EnemyGrenade : MonoBehaviour
         float radianAngle = angle * Mathf.Deg2Rad;
         Vector2 throwVelocity = new Vector2(Mathf.Cos(radianAngle) * force * direction, Mathf.Sin(radianAngle) * force);
         rb.linearVelocity = throwVelocity;
+
+        // Ignore collision between grenade and boss
+        Collider2D grenadeCollider = GetComponent<Collider2D>();
+        GameObject boss = GameObject.FindGameObjectWithTag("Boss"); // Make sure your boss has this tag
+        if (boss != null)
+        {
+            Collider2D bossCollider = boss.GetComponent<Collider2D>();
+            if (bossCollider != null && grenadeCollider != null)
+            {
+                Physics2D.IgnoreCollision(grenadeCollider, bossCollider);
+            }
+        }
+
         Invoke(nameof(Explode), explosionDelay);
     }
 
@@ -34,18 +47,22 @@ public class EnemyGrenade : MonoBehaviour
         Collider2D[] hitObjects = Physics2D.OverlapCircleAll(transform.position, explosionRadius, damageableLayers);
         foreach (Collider2D obj in hitObjects)
         {
+            // Skip affecting the boss
+            if (obj.CompareTag("Boss")) continue;
+
             Rigidbody2D objRb = obj.GetComponent<Rigidbody2D>();
             if (objRb != null)
             {
                 Vector2 forceDirection = obj.transform.position - transform.position;
                 objRb.AddForce(forceDirection.normalized * explosionForce, ForceMode2D.Impulse);
             }
+
             if (obj.CompareTag("Player"))
             {
                 Health playerHealth = obj.GetComponent<Health>();
                 if (playerHealth != null)
                 {
-                    playerHealth.TakeDamage(40); 
+                    playerHealth.TakeDamage(40);
                 }
             }
         }

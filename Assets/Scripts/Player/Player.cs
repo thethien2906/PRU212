@@ -82,6 +82,13 @@ public class Player : MonoBehaviour
     [SerializeField] private float vfxDuration = 0.5f;
     [SerializeField] private float vfxSpecialDuration = 2f;
 
+
+    [Header("Special Attack Collision")]
+    [SerializeField] private LayerMask originalCollisionMask; // Store the original collision mask
+    [SerializeField]
+    private LayerMask specialAttackCollisionMask;
+
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -94,6 +101,8 @@ public class Player : MonoBehaviour
     {
         defaultGravityScale = rb.gravityScale;
         respawnFinished(false);
+
+        originalCollisionMask = Physics2D.GetLayerCollisionMask(gameObject.layer);
     }
     private void Update()
     {
@@ -491,6 +500,7 @@ public class Player : MonoBehaviour
         rb.linearVelocity = Vector2.zero; // Freeze current motion
         originalLayer = gameObject.layer;
         gameObject.layer = LayerMask.NameToLayer("SpecialAttack");
+        Physics2D.SetLayerCollisionMask(gameObject.layer, specialAttackCollisionMask);
     }
     public void PerformSpecialDash()
     {
@@ -503,22 +513,59 @@ public class Player : MonoBehaviour
         Vector2 startPos = rb.position;
         Vector2 endPos = startPos + new Vector2(facingDir * specialDashDistance, 0);
 
-        while (elapsed < specialDashDuration)
+        RaycastHit2D hit;
+        float dashDistanceTraveled = 0f;
+        float stepSize = 0.5f; // Check for collision every 0.5 units
+
+        while (elapsed < specialDashDuration && dashDistanceTraveled < specialDashDistance)
         {
-            rb.MovePosition(Vector2.Lerp(startPos, endPos, elapsed / specialDashDuration));
+            // Calculate the next position
+            float currentProgress = elapsed / specialDashDuration;
+            Vector2 nextPos = Vector2.Lerp(startPos, endPos, currentProgress);
+
+            // Check for collision with boss
+            hit = Physics2D.Raycast(rb.position, new Vector2(facingDir, 0),
+                                   stepSize, LayerMask.GetMask("Boss"));
+
+            if (hit.collider != null && hit.collider.CompareTag("Boss"))
+            {
+                // Stop at the boss's position
+                rb.MovePosition(hit.point);
+                // Trigger any boss hit effects here
+                break;
+            }
+
+            // Move to next position if no collision
+            rb.MovePosition(nextPos);
+            dashDistanceTraveled = Vector2.Distance(startPos, nextPos);
             elapsed += Time.deltaTime;
             yield return null;
         }
 
-        rb.MovePosition(endPos); // Ensure perfect placement
+        // Only move to end position if we didn't hit anything
+        if (dashDistanceTraveled >= specialDashDistance)
+        {
+            rb.MovePosition(endPos);
+        }
     }
     public void EndSpecialAttack()
     {
         anim.SetTrigger("endingAttack");
         isSpecialAttacking = false;
         lastSpecialAttackTime = Time.time;
-        gameObject.layer = originalLayer;
 
+        // Start coroutine to delay both layer and collision mask reset
+        StartCoroutine(DelayedSpecialAttackReset());
+    }
+
+    private IEnumerator DelayedSpecialAttackReset()
+    {
+        // Wait for 2 seconds before resetting anything
+        yield return new WaitForSeconds(2f);
+
+        // Reset layer and collision mask after the delay
+        gameObject.layer = originalLayer;
+        Physics2D.SetLayerCollisionMask(gameObject.layer, originalCollisionMask);
     }
 
     public void ActivateSpecialVFX()

@@ -10,6 +10,7 @@ TagManager:
   - PlayerAttack
   - SpecialAttack
   - Invincible
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Enemy
   - Player
   - SpecialAttack
-  - 
+  - Boss
   - 
   - 
   - 
