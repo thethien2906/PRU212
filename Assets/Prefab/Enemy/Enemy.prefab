@@ -136,9 +136,10 @@ GameObject:
   - component: {fileID: 1922847284710095130}
   - component: {fileID: 6909818441403961322}
   - component: {fileID: 6811623285651209578}
+  - component: {fileID: -7500604279276795801}
   m_Layer: 6
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -264,6 +265,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   groundCheck: {fileID: 6327892623993633005}
+  fireObject: {fileID: 0}
 --- !u!61 &6909818441403961322
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -337,3 +339,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &-7500604279276795801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3831545090300471206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b473afcb7a93ca9418aac23395832242, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  room: {fileID: 0}
