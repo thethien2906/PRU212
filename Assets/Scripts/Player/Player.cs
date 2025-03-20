@@ -11,12 +11,27 @@ public class Player : MonoBehaviour
 
     private bool canBeControlled;
     private int originalLayer;
+    // Dust Effect
+    public ParticleSystem dust;
+    private bool isSliding = false;
+    private float dustInterval = 0.1f; // Time between dust effects
+    private float lastDustTime = 0f;
     [Header("Movement")]
     [SerializeField] private float speed;
     [SerializeField] private float jumpForce;
     [SerializeField] private float doubleJumpForce;
     private float defaultGravityScale;
     private bool canDoubleJump;
+
+    [Header("Dash")]
+    [SerializeField] private float dashSpeed = 5f;
+    [SerializeField] private float dashCooldown = 2f;
+    [SerializeField] private float doubleTapTimeWindow = 0.25f;
+    private float lastDashTime = -Mathf.Infinity;
+    private float lastLeftTapTime = -Mathf.Infinity;
+    private float lastRightTapTime = -Mathf.Infinity;
+    private bool isDashing = false;
+    private float dashDuration = 0.2f;
 
     [Header("Buffer && Coyote Jump")]
     [SerializeField] private float bufferJumpWindow = .25f;
@@ -122,6 +137,7 @@ public class Player : MonoBehaviour
             handleInput();
             HandleWallSlide();
             HandleMovement();
+            HandleDash(); // Add this line here
             HandleFlip();
         }
         else
@@ -131,6 +147,11 @@ public class Player : MonoBehaviour
 
         HandleCollision();
         HandleAnimations();
+        if (isDashing)
+        {
+            Shadows.me.Sombras_skill();
+        }
+
     }
 
     private void HandleSpecialAttack()
@@ -232,16 +253,22 @@ public class Player : MonoBehaviour
     }
     private void jump()
     {
+        // add dust
+        CreateDust();
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
     private void DoubleJump()
     {
+        // add dust
+        CreateDust();
         isWallJumping = false;
         canDoubleJump = false;
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, doubleJumpForce);
     }
     private void WallJump()
     {
+        // add dust
+        CreateDust();
         canDoubleJump = true;
         rb.linearVelocity = new Vector2(-facingDir * wallJumpForce.x, wallJumpForce.y);
         Flip();
@@ -250,22 +277,40 @@ public class Player : MonoBehaviour
     }
     private IEnumerator WallJumpRoutine()
     {
+
         isWallJumping = true;
         yield return new WaitForSeconds(wallJumpDuration);
         isWallJumping = false;
     }
 
+
     private void HandleWallSlide()
     {
         bool canSlide = isWallDetected && !isGrounded && rb.linearVelocity.y < 0;
         float yModifer = yInput < 0 ? 1 : .5f;
-        if (canSlide == false)
+
+        if (canSlide)
         {
-            return;
+            // Check if we just started sliding
+            if (!isSliding)
+            {
+                isSliding = true;
+                CreateDust(); // Initial dust effect
+            }
+
+            // Create dust at intervals while sliding
+            if (Time.time > lastDustTime + dustInterval)
+            {
+                CreateDust();
+                lastDustTime = Time.time;
+            }
+
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * yModifer);
         }
-
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * yModifer);
-
+        else
+        {
+            isSliding = false;
+        }
     }
 
     private IEnumerator KnockbackRoutine()
@@ -283,6 +328,7 @@ public class Player : MonoBehaviour
         }
         StartCoroutine(KnockbackRoutine());
         anim.SetTrigger("knockback");
+   
         rb.linearVelocity = new Vector2(knockbackForce.x * -facingDir, knockbackForce.y);
     }
 
@@ -328,6 +374,10 @@ public class Player : MonoBehaviour
         if (isWallJumping)
         {
             return;
+        }
+        if (isDashing)
+        {
+            return; // Don't change velocity while dashing
         }
         rb.linearVelocity = new Vector2(xInput * speed, rb.linearVelocity.y);
     }
@@ -580,5 +630,78 @@ public class Player : MonoBehaviour
     {
         yield return new WaitForSeconds(vfxSpecialDuration);
         vfx.SetActive(false);
+    }
+
+    // Dash double click left or right 
+    private void HandleDash()
+    {
+        // Check if player is currently dashing
+        if (isDashing)
+            return;
+
+        // Handle double-tap detection for dash
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        {
+            // Check if this is a double-tap (within the time window)
+            if (Time.time - lastRightTapTime < doubleTapTimeWindow)
+            {
+                // Check if dash cooldown has passed
+                if (Time.time - lastDashTime > dashCooldown)
+                {
+                    // Perform dash to the right
+                    StartCoroutine(DashRoutine(1));
+
+                }
+            }
+            // Update the last tap time
+            lastRightTapTime = Time.time;
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        {
+            // Check if this is a double-tap (within the time window)
+            if (Time.time - lastLeftTapTime < doubleTapTimeWindow)
+            {
+                // Check if dash cooldown has passed
+                if (Time.time - lastDashTime > dashCooldown)
+                {
+                    // Perform dash to the left
+                    StartCoroutine(DashRoutine(-1));
+                }
+            }
+            // Update the last tap time
+            lastLeftTapTime = Time.time;
+        }
+    }
+
+    private IEnumerator DashRoutine(int direction)
+    {
+        // Store the original gravity
+        float originalGravity = rb.gravityScale;
+
+        // Set dash state and update last dash time
+        isDashing = true;
+        lastDashTime = Time.time;
+
+        // Reduce gravity during dash
+        rb.gravityScale = originalGravity * 0.5f;
+
+        // Set dash velocity
+        rb.linearVelocity = new Vector2(direction * dashSpeed, 0);
+
+        // Trigger dash animation
+        anim.SetTrigger("dash");
+
+        // Wait for dash duration
+        yield return new WaitForSeconds(dashDuration);
+
+        // Restore original gravity
+        rb.gravityScale = originalGravity;
+
+        // End dash state
+        isDashing = false;
+    }
+    // create dust
+    void CreateDust() { 
+        dust.Play();
     }
 }
