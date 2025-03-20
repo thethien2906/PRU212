@@ -11,6 +11,7 @@ TagManager:
   - SpecialAttack
   - Invincible
   - Boss
+  - Enemy
   layers:
   - Default
   - TransparentFX
