@@ -18,6 +18,16 @@ public class Player : MonoBehaviour
     private float defaultGravityScale;
     private bool canDoubleJump;
 
+    [Header("Dash")]
+    [SerializeField] private float dashSpeed = 5f;
+    [SerializeField] private float dashCooldown = 2f;
+    [SerializeField] private float doubleTapTimeWindow = 0.25f;
+    private float lastDashTime = -Mathf.Infinity;
+    private float lastLeftTapTime = -Mathf.Infinity;
+    private float lastRightTapTime = -Mathf.Infinity;
+    private bool isDashing = false;
+    private float dashDuration = 0.2f;
+
     [Header("Buffer && Coyote Jump")]
     [SerializeField] private float bufferJumpWindow = .25f;
     private float bufferJumpPressed = -1;
@@ -122,6 +132,7 @@ public class Player : MonoBehaviour
             handleInput();
             HandleWallSlide();
             HandleMovement();
+            HandleDash(); // Add this line here
             HandleFlip();
         }
         else
@@ -131,6 +142,11 @@ public class Player : MonoBehaviour
 
         HandleCollision();
         HandleAnimations();
+        if (isDashing)
+        {
+            Shadows.me.Sombras_skill();
+        }
+
     }
 
     private void HandleSpecialAttack()
@@ -328,6 +344,10 @@ public class Player : MonoBehaviour
         if (isWallJumping)
         {
             return;
+        }
+        if (isDashing)
+        {
+            return; // Don't change velocity while dashing
         }
         rb.linearVelocity = new Vector2(xInput * speed, rb.linearVelocity.y);
     }
@@ -580,5 +600,74 @@ public class Player : MonoBehaviour
     {
         yield return new WaitForSeconds(vfxSpecialDuration);
         vfx.SetActive(false);
+    }
+
+    // Dash double click left or right 
+    private void HandleDash()
+    {
+        // Check if player is currently dashing
+        if (isDashing)
+            return;
+
+        // Handle double-tap detection for dash
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        {
+            // Check if this is a double-tap (within the time window)
+            if (Time.time - lastRightTapTime < doubleTapTimeWindow)
+            {
+                // Check if dash cooldown has passed
+                if (Time.time - lastDashTime > dashCooldown)
+                {
+                    // Perform dash to the right
+                    StartCoroutine(DashRoutine(1));
+
+                }
+            }
+            // Update the last tap time
+            lastRightTapTime = Time.time;
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        {
+            // Check if this is a double-tap (within the time window)
+            if (Time.time - lastLeftTapTime < doubleTapTimeWindow)
+            {
+                // Check if dash cooldown has passed
+                if (Time.time - lastDashTime > dashCooldown)
+                {
+                    // Perform dash to the left
+                    StartCoroutine(DashRoutine(-1));
+                }
+            }
+            // Update the last tap time
+            lastLeftTapTime = Time.time;
+        }
+    }
+
+    private IEnumerator DashRoutine(int direction)
+    {
+        // Store the original gravity
+        float originalGravity = rb.gravityScale;
+
+        // Set dash state and update last dash time
+        isDashing = true;
+        lastDashTime = Time.time;
+
+        // Reduce gravity during dash
+        rb.gravityScale = originalGravity * 0.5f;
+
+        // Set dash velocity
+        rb.linearVelocity = new Vector2(direction * dashSpeed, 0);
+
+        // Trigger dash animation
+        anim.SetTrigger("dash");
+
+        // Wait for dash duration
+        yield return new WaitForSeconds(dashDuration);
+
+        // Restore original gravity
+        rb.gravityScale = originalGravity;
+
+        // End dash state
+        isDashing = false;
     }
 }
