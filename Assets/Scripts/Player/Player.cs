@@ -11,6 +11,11 @@ public class Player : MonoBehaviour
 
     private bool canBeControlled;
     private int originalLayer;
+    // Dust Effect
+    public ParticleSystem dust;
+    private bool isSliding = false;
+    private float dustInterval = 0.1f; // Time between dust effects
+    private float lastDustTime = 0f;
     [Header("Movement")]
     [SerializeField] private float speed;
     [SerializeField] private float jumpForce;
@@ -248,16 +253,22 @@ public class Player : MonoBehaviour
     }
     private void jump()
     {
+        // add dust
+        CreateDust();
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
     private void DoubleJump()
     {
+        // add dust
+        CreateDust();
         isWallJumping = false;
         canDoubleJump = false;
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, doubleJumpForce);
     }
     private void WallJump()
     {
+        // add dust
+        CreateDust();
         canDoubleJump = true;
         rb.linearVelocity = new Vector2(-facingDir * wallJumpForce.x, wallJumpForce.y);
         Flip();
@@ -266,22 +277,40 @@ public class Player : MonoBehaviour
     }
     private IEnumerator WallJumpRoutine()
     {
+
         isWallJumping = true;
         yield return new WaitForSeconds(wallJumpDuration);
         isWallJumping = false;
     }
 
+
     private void HandleWallSlide()
     {
         bool canSlide = isWallDetected && !isGrounded && rb.linearVelocity.y < 0;
         float yModifer = yInput < 0 ? 1 : .5f;
-        if (canSlide == false)
+
+        if (canSlide)
         {
-            return;
+            // Check if we just started sliding
+            if (!isSliding)
+            {
+                isSliding = true;
+                CreateDust(); // Initial dust effect
+            }
+
+            // Create dust at intervals while sliding
+            if (Time.time > lastDustTime + dustInterval)
+            {
+                CreateDust();
+                lastDustTime = Time.time;
+            }
+
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * yModifer);
         }
-
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * yModifer);
-
+        else
+        {
+            isSliding = false;
+        }
     }
 
     private IEnumerator KnockbackRoutine()
@@ -299,6 +328,7 @@ public class Player : MonoBehaviour
         }
         StartCoroutine(KnockbackRoutine());
         anim.SetTrigger("knockback");
+   
         rb.linearVelocity = new Vector2(knockbackForce.x * -facingDir, knockbackForce.y);
     }
 
@@ -669,5 +699,9 @@ public class Player : MonoBehaviour
 
         // End dash state
         isDashing = false;
+    }
+    // create dust
+    void CreateDust() { 
+        dust.Play();
     }
 }
