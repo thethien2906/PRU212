@@ -100,7 +100,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6327892623993633005}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 6101068662665676688}
   - component: {fileID: 2089993352551355555}
   - component: {fileID: 2065213265054168263}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: FlameAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -309,9 +309,9 @@ GameObject:
   - component: {fileID: 6909818441403961322}
   - component: {fileID: 6811623285651209578}
   - component: {fileID: 7759807687881592871}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Enemy_Flamethrower
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

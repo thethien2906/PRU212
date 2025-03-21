@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: db42498ae088163448a0ea517a553ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -822793765312193155
+    second: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+      a 2D platformer game, designed in 32x32 resolution. The tileset should include
+      modular terrain elements such as me_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_0"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 792
+        width: 87
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d19270e69d494f0800000000000000
+      internalID: -822793765312193155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_1"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 791
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc54c3f28e99349bb81d4318946d51
+      internalID: -408541618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_2"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 722
+        width: 304
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d2e66e91619649a9f3137c0e3ef3f
+      internalID: 1383328802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_3"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 618
+        width: 334
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca9240b4d6b8e44b9476e7765d2a2c
+      internalID: 116007854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_4"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 286
+        width: 177
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c83891f9a37f34d81379a9fd40d80f
+      internalID: -180945866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_5"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 88
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420cb8b8b79c47459a3facd4b806eff
+      internalID: 371247802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_6"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 176
+        width: 74
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01eeb3fa7d3e6f4d977a2ba25af12af
+      internalID: 94910666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_7"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 179
+        width: 65
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef3931b04056e48ae13742272f528f
+      internalID: -1771479017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_8"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 431
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e73f569289a54ab889aa517e61bdc
+      internalID: 281641148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_9"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 832
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5704907150a024468f7ac6c004ab229
+      internalID: 1668753014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_10"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 698
+        width: 82
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb1e39d359866438f830dfcc2b4729
+      internalID: 462787396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_11"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 487
+        width: 87
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4ac81a6b41de4eadd9cedbdc2e94a
+      internalID: -416436423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for
+        a 2D platformer game, designed in 32x32 resolution. The tileset should include
+        modular terrain elements such as me_12"
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 495
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1e55a4ab39614fa44a4d0b86e56a4
+      internalID: 1692339746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1657ee4bceac578408b553e01a03674a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_0": -822793765312193155
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_1": -408541618
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_10": 462787396
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_11": -416436423
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_12": 1692339746
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_2": 1383328802
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_3": 116007854
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_4": -180945866
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_5": 371247802
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_6": 94910666
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_7": -1771479017
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_8": 281641148
+      "DALL\xB7E 2025-03-20 00.48.05 - A dark-themed pixel art tileset for a 2D platformer game, designed in 32x32 resolution. The tileset should include modular terrain elements such as me_9": 1668753014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
