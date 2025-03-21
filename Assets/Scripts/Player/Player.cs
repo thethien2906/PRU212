@@ -196,8 +196,10 @@ public class Player : MonoBehaviour
     {
         isAirborne = false;
         canDoubleJump = true;
+        CreateDust(); // Dust when landing
         AttemptBufferJump();
     }
+
 
     private void handleInput()
     {
@@ -253,14 +255,16 @@ public class Player : MonoBehaviour
     }
     private void jump()
     {
-        // add dust
-        CreateDust();
+        if (isGrounded) // Dust only when jumping off the ground
+        {
+            CreateDust();
+        }
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
+
     private void DoubleJump()
     {
-        // add dust
-        CreateDust();
+        // No dust here or create a different effect if you want
         isWallJumping = false;
         canDoubleJump = false;
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, doubleJumpForce);
@@ -704,4 +708,5 @@ public class Player : MonoBehaviour
     void CreateDust() { 
         dust.Play();
     }
+
 }

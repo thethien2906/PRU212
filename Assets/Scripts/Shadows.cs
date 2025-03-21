@@ -1,4 +1,3 @@
-
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,9 +10,18 @@ public class Shadows : MonoBehaviour
     public float speed;
     public Color _color;
 
+    // Reference to the child GameObject that has the SpriteRenderer
+    [SerializeField] private GameObject spriteChild;
+
     void Awake()
     {
         me = this;
+        // If no sprite child is manually assigned, try to find it
+        if (spriteChild == null)
+        {
+            // Try to find child with SpriteRenderer
+            spriteChild = GetComponentInChildren<SpriteRenderer>().gameObject;
+        }
     }
 
     public GameObject GetShadows()
@@ -25,21 +33,32 @@ public class Shadows : MonoBehaviour
                 pool[i].SetActive(true);
                 pool[i].transform.position = transform.position;
                 pool[i].transform.rotation = transform.rotation;
-                pool[i].GetComponent<SpriteRenderer>().sprite = GetComponent<SpriteRenderer>().sprite;
+
+                // Get the sprite from the child GameObject
+                Sprite playerSpriter = spriteChild.GetComponent<SpriteRenderer>().sprite;
+                // Apply to shadow
+                pool[i].GetComponent<SpriteRenderer>().sprite = playerSpriter;
                 pool[i].GetComponent<Solid>()._color = _color;
                 return pool[i];
             }
-
         }
-        GameObject obj = Instantiate(Sombra,transform.position,transform.rotation);
-        obj.GetComponent<SpriteRenderer>().sprite= GetComponent<SpriteRenderer>().sprite;
+
+        GameObject obj = Instantiate(Sombra, transform.position, transform.rotation);
+
+        // Get the sprite from the child GameObject
+        Sprite playerSprite = spriteChild.GetComponent<SpriteRenderer>().sprite;
+        // Apply to new shadow
+        obj.GetComponent<SpriteRenderer>().sprite = playerSprite;
         obj.GetComponent<Solid>()._color = _color;
         pool.Add(obj);
         return obj;
     }
-    public void Sombras_skill() {
+
+    public void Sombras_skill()
+    {
         cronometro += speed * Time.deltaTime;
-        if (cronometro > 1) {
+        if (cronometro > 1)
+        {
             GetShadows();
             cronometro = 0;
         }
