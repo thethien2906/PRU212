@@ -1,0 +1,4742 @@
+fileFormatVersion: 2
+guid: db277dbccd7493241afdef07ba359593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7431347019921468282
+    second: PlayStation - Mega Man X4 - Items (1)_0
+  - first:
+      213: 4740380337113091453
+    second: PlayStation - Mega Man X4 - Items (1)_1
+  - first:
+      213: 3058918308622294812
+    second: PlayStation - Mega Man X4 - Items (1)_2
+  - first:
+      213: 6393128425614775436
+    second: PlayStation - Mega Man X4 - Items (1)_3
+  - first:
+      213: -7432713479861978525
+    second: PlayStation - Mega Man X4 - Items (1)_4
+  - first:
+      213: -4805050256438993643
+    second: PlayStation - Mega Man X4 - Items (1)_5
+  - first:
+      213: -7882789896687448625
+    second: PlayStation - Mega Man X4 - Items (1)_6
+  - first:
+      213: 4726776480284533835
+    second: PlayStation - Mega Man X4 - Items (1)_7
+  - first:
+      213: 7958744647330169475
+    second: PlayStation - Mega Man X4 - Items (1)_8
+  - first:
+      213: 7843820363623091573
+    second: PlayStation - Mega Man X4 - Items (1)_9
+  - first:
+      213: -4659787852924375506
+    second: PlayStation - Mega Man X4 - Items (1)_10
+  - first:
+      213: -7114153655845157743
+    second: PlayStation - Mega Man X4 - Items (1)_11
+  - first:
+      213: 6317123752731157331
+    second: PlayStation - Mega Man X4 - Items (1)_12
+  - first:
+      213: 8377367937760455262
+    second: PlayStation - Mega Man X4 - Items (1)_13
+  - first:
+      213: 269456878194355902
+    second: PlayStation - Mega Man X4 - Items (1)_14
+  - first:
+      213: -4730771904865724740
+    second: PlayStation - Mega Man X4 - Items (1)_15
+  - first:
+      213: 5803520176124957120
+    second: PlayStation - Mega Man X4 - Items (1)_16
+  - first:
+      213: 5436142471300961558
+    second: PlayStation - Mega Man X4 - Items (1)_17
+  - first:
+      213: -1006052910596457958
+    second: PlayStation - Mega Man X4 - Items (1)_18
+  - first:
+      213: -8833750704834024032
+    second: PlayStation - Mega Man X4 - Items (1)_19
+  - first:
+      213: -5350930535644487153
+    second: PlayStation - Mega Man X4 - Items (1)_20
+  - first:
+      213: 4773570007328883259
+    second: PlayStation - Mega Man X4 - Items (1)_21
+  - first:
+      213: 6675284571721660403
+    second: PlayStation - Mega Man X4 - Items (1)_22
+  - first:
+      213: 5879483354802806342
+    second: PlayStation - Mega Man X4 - Items (1)_23
+  - first:
+      213: -6094415437151472456
+    second: PlayStation - Mega Man X4 - Items (1)_24
+  - first:
+      213: -2170221823728363096
+    second: PlayStation - Mega Man X4 - Items (1)_25
+  - first:
+      213: -4613043095274540381
+    second: PlayStation - Mega Man X4 - Items (1)_26
+  - first:
+      213: 162521822213144971
+    second: PlayStation - Mega Man X4 - Items (1)_27
+  - first:
+      213: 4742447844830270221
+    second: PlayStation - Mega Man X4 - Items (1)_28
+  - first:
+      213: -4275276688946317054
+    second: PlayStation - Mega Man X4 - Items (1)_29
+  - first:
+      213: -6159267946073766733
+    second: PlayStation - Mega Man X4 - Items (1)_30
+  - first:
+      213: -9051153272042829512
+    second: PlayStation - Mega Man X4 - Items (1)_31
+  - first:
+      213: -8799229931757647799
+    second: PlayStation - Mega Man X4 - Items (1)_32
+  - first:
+      213: 7840127427479096538
+    second: PlayStation - Mega Man X4 - Items (1)_33
+  - first:
+      213: -3523216569678120274
+    second: PlayStation - Mega Man X4 - Items (1)_34
+  - first:
+      213: 331042390135997704
+    second: PlayStation - Mega Man X4 - Items (1)_35
+  - first:
+      213: -8948576938417800147
+    second: PlayStation - Mega Man X4 - Items (1)_36
+  - first:
+      213: -535954762203957878
+    second: PlayStation - Mega Man X4 - Items (1)_37
+  - first:
+      213: -8547239904386258012
+    second: PlayStation - Mega Man X4 - Items (1)_38
+  - first:
+      213: 4379401277479618542
+    second: PlayStation - Mega Man X4 - Items (1)_39
+  - first:
+      213: 8319145050705580192
+    second: PlayStation - Mega Man X4 - Items (1)_40
+  - first:
+      213: -53701049962954093
+    second: PlayStation - Mega Man X4 - Items (1)_41
+  - first:
+      213: -2152146014415889312
+    second: PlayStation - Mega Man X4 - Items (1)_42
+  - first:
+      213: 9148131817123677297
+    second: PlayStation - Mega Man X4 - Items (1)_43
+  - first:
+      213: 1820009321625053953
+    second: PlayStation - Mega Man X4 - Items (1)_44
+  - first:
+      213: -3526218350527913831
+    second: PlayStation - Mega Man X4 - Items (1)_45
+  - first:
+      213: 5489193081858569506
+    second: PlayStation - Mega Man X4 - Items (1)_46
+  - first:
+      213: 1977304528870157387
+    second: PlayStation - Mega Man X4 - Items (1)_47
+  - first:
+      213: 8123092412774373561
+    second: PlayStation - Mega Man X4 - Items (1)_48
+  - first:
+      213: -7048654847976002692
+    second: PlayStation - Mega Man X4 - Items (1)_49
+  - first:
+      213: 463068698477232094
+    second: PlayStation - Mega Man X4 - Items (1)_50
+  - first:
+      213: -7853142716556349848
+    second: PlayStation - Mega Man X4 - Items (1)_51
+  - first:
+      213: -1824047965428025895
+    second: PlayStation - Mega Man X4 - Items (1)_52
+  - first:
+      213: 1769830510655190299
+    second: PlayStation - Mega Man X4 - Items (1)_53
+  - first:
+      213: -3048342494473202774
+    second: PlayStation - Mega Man X4 - Items (1)_54
+  - first:
+      213: 2523872824247379212
+    second: PlayStation - Mega Man X4 - Items (1)_55
+  - first:
+      213: 1000253254494188243
+    second: PlayStation - Mega Man X4 - Items (1)_56
+  - first:
+      213: 1440374235377235636
+    second: PlayStation - Mega Man X4 - Items (1)_57
+  - first:
+      213: 7161445762031494697
+    second: PlayStation - Mega Man X4 - Items (1)_58
+  - first:
+      213: -6010085095606042074
+    second: PlayStation - Mega Man X4 - Items (1)_59
+  - first:
+      213: 1027881128457145688
+    second: PlayStation - Mega Man X4 - Items (1)_60
+  - first:
+      213: 3137339685176264460
+    second: PlayStation - Mega Man X4 - Items (1)_61
+  - first:
+      213: 1361545829427726448
+    second: PlayStation - Mega Man X4 - Items (1)_62
+  - first:
+      213: -2915776536794787826
+    second: PlayStation - Mega Man X4 - Items (1)_63
+  - first:
+      213: -7437116925068980654
+    second: PlayStation - Mega Man X4 - Items (1)_64
+  - first:
+      213: -7824607355385621841
+    second: PlayStation - Mega Man X4 - Items (1)_65
+  - first:
+      213: 3131825512015254129
+    second: PlayStation - Mega Man X4 - Items (1)_66
+  - first:
+      213: -7031118439383633681
+    second: PlayStation - Mega Man X4 - Items (1)_67
+  - first:
+      213: 5773364125379270551
+    second: PlayStation - Mega Man X4 - Items (1)_68
+  - first:
+      213: -6268924721631782436
+    second: PlayStation - Mega Man X4 - Items (1)_69
+  - first:
+      213: 2771623626100451073
+    second: PlayStation - Mega Man X4 - Items (1)_70
+  - first:
+      213: 3768280438481145502
+    second: PlayStation - Mega Man X4 - Items (1)_71
+  - first:
+      213: 4316626367802806256
+    second: PlayStation - Mega Man X4 - Items (1)_72
+  - first:
+      213: 5927739147847015124
+    second: PlayStation - Mega Man X4 - Items (1)_73
+  - first:
+      213: -2189736882395524437
+    second: PlayStation - Mega Man X4 - Items (1)_74
+  - first:
+      213: 7882887337587472442
+    second: PlayStation - Mega Man X4 - Items (1)_75
+  - first:
+      213: 2788332293012237792
+    second: PlayStation - Mega Man X4 - Items (1)_76
+  - first:
+      213: -2736317701757870136
+    second: PlayStation - Mega Man X4 - Items (1)_77
+  - first:
+      213: 8672398600450213110
+    second: PlayStation - Mega Man X4 - Items (1)_78
+  - first:
+      213: -1709466713998907699
+    second: PlayStation - Mega Man X4 - Items (1)_79
+  - first:
+      213: -3796110258366309431
+    second: PlayStation - Mega Man X4 - Items (1)_80
+  - first:
+      213: -6501809522328883316
+    second: PlayStation - Mega Man X4 - Items (1)_81
+  - first:
+      213: 506492768256116049
+    second: PlayStation - Mega Man X4 - Items (1)_82
+  - first:
+      213: -2529435171562882047
+    second: PlayStation - Mega Man X4 - Items (1)_83
+  - first:
+      213: 8921940435201268268
+    second: PlayStation - Mega Man X4 - Items (1)_84
+  - first:
+      213: -5578023576074725129
+    second: PlayStation - Mega Man X4 - Items (1)_85
+  - first:
+      213: -5848937719664425985
+    second: PlayStation - Mega Man X4 - Items (1)_86
+  - first:
+      213: 8631603958959779828
+    second: PlayStation - Mega Man X4 - Items (1)_87
+  - first:
+      213: 7828369009873612382
+    second: PlayStation - Mega Man X4 - Items (1)_88
+  - first:
+      213: -5111426448465738754
+    second: PlayStation - Mega Man X4 - Items (1)_89
+  - first:
+      213: -4412165274891543627
+    second: PlayStation - Mega Man X4 - Items (1)_90
+  - first:
+      213: -5516963814152029770
+    second: PlayStation - Mega Man X4 - Items (1)_91
+  - first:
+      213: 7512547971172049284
+    second: PlayStation - Mega Man X4 - Items (1)_92
+  - first:
+      213: -805187379422659771
+    second: PlayStation - Mega Man X4 - Items (1)_93
+  - first:
+      213: -7965309373951661116
+    second: PlayStation - Mega Man X4 - Items (1)_94
+  - first:
+      213: 6058313295087745655
+    second: PlayStation - Mega Man X4 - Items (1)_95
+  - first:
+      213: 5202086301116962093
+    second: PlayStation - Mega Man X4 - Items (1)_96
+  - first:
+      213: 1560134971505069724
+    second: PlayStation - Mega Man X4 - Items (1)_97
+  - first:
+      213: -6362017343324139240
+    second: PlayStation - Mega Man X4 - Items (1)_98
+  - first:
+      213: 4037038727689977921
+    second: PlayStation - Mega Man X4 - Items (1)_99
+  - first:
+      213: 7896694718692739056
+    second: PlayStation - Mega Man X4 - Items (1)_100
+  - first:
+      213: 5648158092804126413
+    second: PlayStation - Mega Man X4 - Items (1)_101
+  - first:
+      213: -7760861493308772333
+    second: PlayStation - Mega Man X4 - Items (1)_102
+  - first:
+      213: -8396833896644089998
+    second: PlayStation - Mega Man X4 - Items (1)_103
+  - first:
+      213: -3064008759349323387
+    second: PlayStation - Mega Man X4 - Items (1)_104
+  - first:
+      213: 3577865082242982612
+    second: PlayStation - Mega Man X4 - Items (1)_105
+  - first:
+      213: 7289208508057785758
+    second: PlayStation - Mega Man X4 - Items (1)_106
+  - first:
+      213: 4565004922362405853
+    second: PlayStation - Mega Man X4 - Items (1)_107
+  - first:
+      213: 7409620029180311519
+    second: PlayStation - Mega Man X4 - Items (1)_108
+  - first:
+      213: 7378948906601608661
+    second: PlayStation - Mega Man X4 - Items (1)_109
+  - first:
+      213: 6142186895455300111
+    second: PlayStation - Mega Man X4 - Items (1)_110
+  - first:
+      213: 1612286056563318911
+    second: PlayStation - Mega Man X4 - Items (1)_111
+  - first:
+      213: 5724689745208158997
+    second: PlayStation - Mega Man X4 - Items (1)_112
+  - first:
+      213: -4591349071576254162
+    second: PlayStation - Mega Man X4 - Items (1)_113
+  - first:
+      213: -8667860414940579422
+    second: PlayStation - Mega Man X4 - Items (1)_114
+  - first:
+      213: 8773195009918176222
+    second: PlayStation - Mega Man X4 - Items (1)_115
+  - first:
+      213: 7219437974112229821
+    second: PlayStation - Mega Man X4 - Items (1)_116
+  - first:
+      213: -27832333164846342
+    second: PlayStation - Mega Man X4 - Items (1)_117
+  - first:
+      213: 4797662006211734408
+    second: PlayStation - Mega Man X4 - Items (1)_118
+  - first:
+      213: 7167207586883069170
+    second: PlayStation - Mega Man X4 - Items (1)_119
+  - first:
+      213: -5593854814602530621
+    second: PlayStation - Mega Man X4 - Items (1)_120
+  - first:
+      213: -6012937224706448094
+    second: PlayStation - Mega Man X4 - Items (1)_121
+  - first:
+      213: -6798720584399595164
+    second: PlayStation - Mega Man X4 - Items (1)_122
+  - first:
+      213: 7452374587610324102
+    second: PlayStation - Mega Man X4 - Items (1)_123
+  - first:
+      213: 5162436848710102419
+    second: PlayStation - Mega Man X4 - Items (1)_124
+  - first:
+      213: 8468634983233001253
+    second: PlayStation - Mega Man X4 - Items (1)_125
+  - first:
+      213: 6539344148917143083
+    second: PlayStation - Mega Man X4 - Items (1)_126
+  - first:
+      213: 3699722683758760027
+    second: PlayStation - Mega Man X4 - Items (1)_127
+  - first:
+      213: -4804172093072855834
+    second: PlayStation - Mega Man X4 - Items (1)_128
+  - first:
+      213: -1031427091376036055
+    second: PlayStation - Mega Man X4 - Items (1)_129
+  - first:
+      213: 848497685059081308
+    second: PlayStation - Mega Man X4 - Items (1)_130
+  - first:
+      213: -8422773236796808494
+    second: PlayStation - Mega Man X4 - Items (1)_131
+  - first:
+      213: -1177861321002236778
+    second: PlayStation - Mega Man X4 - Items (1)_132
+  - first:
+      213: -5736998976491832032
+    second: PlayStation - Mega Man X4 - Items (1)_133
+  - first:
+      213: 6539004104489285846
+    second: PlayStation - Mega Man X4 - Items (1)_134
+  - first:
+      213: -2954806231799970195
+    second: PlayStation - Mega Man X4 - Items (1)_135
+  - first:
+      213: -3774275189187828739
+    second: PlayStation - Mega Man X4 - Items (1)_136
+  - first:
+      213: 6142132087747793331
+    second: PlayStation - Mega Man X4 - Items (1)_137
+  - first:
+      213: -6724266931157804151
+    second: PlayStation - Mega Man X4 - Items (1)_138
+  - first:
+      213: 6846628443199843861
+    second: PlayStation - Mega Man X4 - Items (1)_139
+  - first:
+      213: 7065728509640606182
+    second: PlayStation - Mega Man X4 - Items (1)_140
+  - first:
+      213: 2291357129062546184
+    second: PlayStation - Mega Man X4 - Items (1)_141
+  - first:
+      213: -8221446805915054063
+    second: PlayStation - Mega Man X4 - Items (1)_142
+  - first:
+      213: 6379529670639122659
+    second: PlayStation - Mega Man X4 - Items (1)_143
+  - first:
+      213: 1646013110657193714
+    second: PlayStation - Mega Man X4 - Items (1)_144
+  - first:
+      213: -6254015465924207359
+    second: PlayStation - Mega Man X4 - Items (1)_145
+  - first:
+      213: -3826919793556218188
+    second: PlayStation - Mega Man X4 - Items (1)_146
+  - first:
+      213: -5372478108555392764
+    second: PlayStation - Mega Man X4 - Items (1)_147
+  - first:
+      213: 2047244511294703431
+    second: PlayStation - Mega Man X4 - Items (1)_148
+  - first:
+      213: 3574036893072838357
+    second: PlayStation - Mega Man X4 - Items (1)_149
+  - first:
+      213: 340398427520946533
+    second: PlayStation - Mega Man X4 - Items (1)_150
+  - first:
+      213: -4846838046900997691
+    second: PlayStation - Mega Man X4 - Items (1)_151
+  - first:
+      213: 5759724739517638128
+    second: PlayStation - Mega Man X4 - Items (1)_152
+  - first:
+      213: 2419496678173215810
+    second: PlayStation - Mega Man X4 - Items (1)_153
+  - first:
+      213: -8691540495385948751
+    second: PlayStation - Mega Man X4 - Items (1)_154
+  - first:
+      213: -1383173897809552306
+    second: PlayStation - Mega Man X4 - Items (1)_155
+  - first:
+      213: 7432148567701670474
+    second: PlayStation - Mega Man X4 - Items (1)_156
+  - first:
+      213: 6456662660823502493
+    second: PlayStation - Mega Man X4 - Items (1)_157
+  - first:
+      213: 7871461159838905601
+    second: PlayStation - Mega Man X4 - Items (1)_158
+  - first:
+      213: -1775620970545186617
+    second: PlayStation - Mega Man X4 - Items (1)_159
+  - first:
+      213: -6539190311239490804
+    second: PlayStation - Mega Man X4 - Items (1)_160
+  - first:
+      213: -4311150472830308950
+    second: PlayStation - Mega Man X4 - Items (1)_161
+  - first:
+      213: 2007908978753536486
+    second: PlayStation - Mega Man X4 - Items (1)_162
+  - first:
+      213: -597663790928264527
+    second: PlayStation - Mega Man X4 - Items (1)_163
+  - first:
+      213: -3365554435458907550
+    second: PlayStation - Mega Man X4 - Items (1)_164
+  - first:
+      213: -451066015838019689
+    second: PlayStation - Mega Man X4 - Items (1)_165
+  - first:
+      213: -2124885882188856544
+    second: PlayStation - Mega Man X4 - Items (1)_166
+  - first:
+      213: 4731869102503699106
+    second: PlayStation - Mega Man X4 - Items (1)_167
+  - first:
+      213: 1969490178956053927
+    second: PlayStation - Mega Man X4 - Items (1)_168
+  - first:
+      213: 5859346490082450674
+    second: PlayStation - Mega Man X4 - Items (1)_169
+  - first:
+      213: 951025619190508082
+    second: PlayStation - Mega Man X4 - Items (1)_170
+  - first:
+      213: 5566173950863524990
+    second: PlayStation - Mega Man X4 - Items (1)_171
+  - first:
+      213: -1937609434130730862
+    second: PlayStation - Mega Man X4 - Items (1)_172
+  - first:
+      213: -6724197437459992361
+    second: PlayStation - Mega Man X4 - Items (1)_173
+  - first:
+      213: -5643811023652910096
+    second: PlayStation - Mega Man X4 - Items (1)_174
+  - first:
+      213: -7336187549663516059
+    second: PlayStation - Mega Man X4 - Items (1)_175
+  - first:
+      213: 1564232787659948504
+    second: PlayStation - Mega Man X4 - Items (1)_176
+  - first:
+      213: -4527332573504546251
+    second: PlayStation - Mega Man X4 - Items (1)_177
+  - first:
+      213: -3902940072376308198
+    second: PlayStation - Mega Man X4 - Items (1)_178
+  - first:
+      213: 7074520122172967886
+    second: PlayStation - Mega Man X4 - Items (1)_179
+  - first:
+      213: -2404097434325309857
+    second: PlayStation - Mega Man X4 - Items (1)_180
+  - first:
+      213: -2102413949105568178
+    second: PlayStation - Mega Man X4 - Items (1)_181
+  - first:
+      213: -5000554457745575391
+    second: PlayStation - Mega Man X4 - Items (1)_182
+  - first:
+      213: 6816729442269354391
+    second: PlayStation - Mega Man X4 - Items (1)_183
+  - first:
+      213: -8867418384214298646
+    second: PlayStation - Mega Man X4 - Items (1)_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845ce2224d8ed890800000000000000
+      internalID: -7431347019921468282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 205
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4fdd0dc639c140800000000000000
+      internalID: 4740380337113091453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 205
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fde5eaef5737a20800000000000000
+      internalID: 3058918308622294812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 205
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84983c4e64f8b850800000000000000
+      internalID: 6393128425614775436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 205
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab1936872b9d890800000000000000
+      internalID: -7432713479861978525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 205
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddd010048015db0800000000000000
+      internalID: -4805050256438993643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd08e09a54ba9290800000000000000
+      internalID: -7882789896687448625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e7005a22e89140800000000000000
+      internalID: 4726776480284533835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382082ae614237e60800000000000000
+      internalID: 7958744647330169475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dcab7ff09dadc60800000000000000
+      internalID: 7843820363623091573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e23c9e2ab155fb0800000000000000
+      internalID: -4659787852924375506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948dc141f2754d90800000000000000
+      internalID: -7114153655845157743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 203
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35329b3659eeaa750800000000000000
+      internalID: 6317123752731157331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 203
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a65f211c3624470800000000000000
+      internalID: 8377367937760455262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 203
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6f036a9d4db300800000000000000
+      internalID: 269456878194355902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69419640ce85eb0800000000000000
+      internalID: -4730771904865724740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 203
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c19db01ade3a8050800000000000000
+      internalID: 5803520176124957120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615de4696ce017b40800000000000000
+      internalID: 5436142471300961558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a76a64538c902f0800000000000000
+      internalID: -1006052910596457958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade2048986386580800000000000000
+      internalID: -8833750704834024032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ae1d370dadb5b0800000000000000
+      internalID: -5350930535644487153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b320c4551a02f3240800000000000000
+      internalID: 4773570007328883259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77d1863ff53ac50800000000000000
+      internalID: 6675284571721660403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed7d9d5fe189150800000000000000
+      internalID: 5879483354802806342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4fde213794c6ba0800000000000000
+      internalID: -6094415437151472456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9ded8efb2d1e1e0800000000000000
+      internalID: -2170221823728363096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b79ceebd2bffb0800000000000000
+      internalID: -4613043095274540381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8183497cb4614200800000000000000
+      internalID: 162521822213144971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 169
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03dce4303f80d140800000000000000
+      internalID: 4742447844830270221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b8d6b08a2ba4c0800000000000000
+      internalID: -4275276688946317054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c2ddaf62e58aa0800000000000000
+      internalID: -6159267946073766733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c54cdd08d36280800000000000000
+      internalID: -9051153272042829512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c9945ffad2e580800000000000000
+      internalID: -8799229931757647799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc40b44b5abdcc60800000000000000
+      internalID: 7840127427479096538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab09952350b1fc0800000000000000
+      internalID: -3523216569678120274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80507a5cc49189400800000000000000
+      internalID: 331042390135997704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cba54afa440d380800000000000000
+      internalID: -8948576938417800147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85772fbbf7ef88f0800000000000000
+      internalID: -535954762203957878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6309979a126980800000000000000
+      internalID: -8547239904386258012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee780114242c6cc30800000000000000
+      internalID: 4379401277479618542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0514ec85a837370800000000000000
+      internalID: 8319145050705580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39284e8fd27314ff0800000000000000
+      internalID: -53701049962954093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd7f93a9a0222e0800000000000000
+      internalID: -2152146014415889312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740b163b61b4fe70800000000000000
+      internalID: 9148131817123677297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6c5fc5d8f14910800000000000000
+      internalID: 1820009321625053953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 152
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e158c71b501fc0800000000000000
+      internalID: -3526218350527913831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22536b366088d2c40800000000000000
+      internalID: 5489193081858569506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca3182efbc07b10800000000000000
+      internalID: 1977304528870157387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8561de2850bb070800000000000000
+      internalID: 8123092412774373561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b2e0ad2c52e2e90800000000000000
+      internalID: -7048654847976002692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf765f17862d6600800000000000000
+      internalID: 463068698477232094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e66399e48040390800000000000000
+      internalID: -7853142716556349848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d573672a0eafa6e0800000000000000
+      internalID: -1824047965428025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 131
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b153044f873bf8810800000000000000
+      internalID: 1769830510655190299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3523fe6ac12b5d0800000000000000
+      internalID: -3048342494473202774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e68b26f8960320800000000000000
+      internalID: 2523872824247379212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2fd8f090d91ed00800000000000000
+      internalID: 1000253254494188243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f8435cbc3df310800000000000000
+      internalID: 1440374235377235636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262d144af0926360800000000000000
+      internalID: 7161445762031494697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224886c273e79ca0800000000000000
+      internalID: -6010085095606042074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d040db074c34e00800000000000000
+      internalID: 1027881128457145688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07caa242d11a8b20800000000000000
+      internalID: 3137339685176264460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_62
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784474d7be25e210800000000000000
+      internalID: 1361545829427726448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009def20b41987d0800000000000000
+      internalID: -2915776536794787826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_64
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ec7386f8d0ac890800000000000000
+      internalID: -7437116925068980654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d45b1119696390800000000000000
+      internalID: -7824607355385621841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 107
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172dc26c5ba767b20800000000000000
+      internalID: 3131825512015254129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f6d628037c6e90800000000000000
+      internalID: -7031118439383633681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 107
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797173c551c1f1050800000000000000
+      internalID: 5773364125379270551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 107
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9197b0e2e4009a0800000000000000
+      internalID: -6268924721631782436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072cc4d009c67620800000000000000
+      internalID: 2771623626100451073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 107
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec8b5f71f9b4430800000000000000
+      internalID: 3768280438481145502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 107
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff88f0afccb7eb30800000000000000
+      internalID: 4316626367802806256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da1994395f834250800000000000000
+      internalID: 5927739147847015124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 107
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25e3d38ed7c91e0800000000000000
+      internalID: -2189736882395524437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387359a444a56d60800000000000000
+      internalID: 7882887337587472442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_76
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 107
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edaeb0827522b620800000000000000
+      internalID: 2788332293012237792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 107
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfdb124c85a60ad0800000000000000
+      internalID: -2736317701757870136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f40e6a249c8a5870800000000000000
+      internalID: 8672398600450213110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 107
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6adbca411c648e0800000000000000
+      internalID: -1709466713998907699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1cd925d1815bc0800000000000000
+      internalID: -3796110258366309431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa55000bee4c5a0800000000000000
+      internalID: -6501809522328883316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c53d3d7c670700800000000000000
+      internalID: 506492768256116049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_83
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7d9cec14a5ecd0800000000000000
+      internalID: -2529435171562882047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a9d5b2e8911db70800000000000000
+      internalID: 8921940435201268268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 82
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8df477c11e692b0800000000000000
+      internalID: -5578023576074725129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 83
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3c40a022664dea0800000000000000
+      internalID: -5848937719664425985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff27a7811e99c770800000000000000
+      internalID: 8631603958959779828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 83
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e61345324f3ac60800000000000000
+      internalID: 7828369009873612382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c9a30ab09019b0800000000000000
+      internalID: -5111426448465738754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb96c32f07d4c2c0800000000000000
+      internalID: -4412165274891543627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_91
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 58
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9b8c224aecf63b0800000000000000
+      internalID: -5516963814152029770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481aacb939ee14860800000000000000
+      internalID: 7512547971172049284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 58
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b72ef285663d4f0800000000000000
+      internalID: -805187379422659771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_94
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 58
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba58f8359857190800000000000000
+      internalID: -7965309373951661116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 57
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a3bb3f7d3731450800000000000000
+      internalID: 6058313295087745655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 58
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259005dde5813840800000000000000
+      internalID: 5202086301116962093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 59
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e493a9d76b6a510800000000000000
+      internalID: 1560134971505069724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 58
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115a440fe295b7a0800000000000000
+      internalID: -6362017343324139240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c47c6551760830800000000000000
+      internalID: 4037038727689977921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f742671202b69d60800000000000000
+      internalID: 7896694718692739056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_101
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc676d43cd9426e40800000000000000
+      internalID: 5648158092804126413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b2543791eb4490800000000000000
+      internalID: -7760861493308772333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e1903f04787b80800000000000000
+      internalID: -8396833896644089998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_104
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5895c4664447a75d0800000000000000
+      internalID: -3064008759349323387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ed51065127a130800000000000000
+      internalID: 3577865082242982612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e951a88a488782560800000000000000
+      internalID: 7289208508057785758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3225b5ac72a5f30800000000000000
+      internalID: 4565004922362405853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd779ef982244d660800000000000000
+      internalID: 7409620029180311519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_109
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5feb96fea476660800000000000000
+      internalID: 7378948906601608661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 30
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2caf407e6d3550800000000000000
+      internalID: 6142186895455300111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_111
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a5cd40adff5610800000000000000
+      internalID: 1612286056563318911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_112
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 30
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b24781efe227f40800000000000000
+      internalID: 5724689745208158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b0ec68504840c0800000000000000
+      internalID: -4591349071576254162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_114
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9fbcc70e295b780800000000000000
+      internalID: -8667860414940579422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 29
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb076f0166a0c970800000000000000
+      internalID: 8773195009918176222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_116
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 29
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9dce45698903460800000000000000
+      internalID: 7219437974112229821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_117
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 29
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af26074f3ae1d9ff0800000000000000
+      internalID: -27832333164846342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b63a0fc28b49240800000000000000
+      internalID: 4797662006211734408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f466a7a359077360800000000000000
+      internalID: 7167207586883069170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f1820fa2ae52b0800000000000000
+      internalID: -5593854814602530621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22526a8b371cd8ca0800000000000000
+      internalID: -6012937224706448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_122
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469d9bf46a716a1a0800000000000000
+      internalID: -6798720584399595164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_123
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c59abf3372c6760800000000000000
+      internalID: 7452374587610324102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da0ce46f8a4a740800000000000000
+      internalID: 5162436848710102419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5279c0406a2a68570800000000000000
+      internalID: 8468634983233001253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264c344bda60ca50800000000000000
+      internalID: 6539344148917143083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_127
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5055eccd2e085330800000000000000
+      internalID: 3699722683758760027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec2c885fe6245db0800000000000000
+      internalID: -4804172093072855834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_129
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92721de6682afa1f0800000000000000
+      internalID: -1031427091376036055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5410b6262876cb00800000000000000
+      internalID: 848497685059081308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_131
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d22f0ded5c4c1b80800000000000000
+      internalID: -8422773236796808494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_132
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944dfe7e5567afe0800000000000000
+      internalID: -1177861321002236778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dbc69a3d51260b0800000000000000
+      internalID: -5736998976491832032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_134
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 18
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8b7e086953fba50800000000000000
+      internalID: 6539004104489285846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 18
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c37d236b6ef6d0800000000000000
+      internalID: -2954806231799970195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_136
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3a3ef56b41f9bc0800000000000000
+      internalID: -3774275189187828739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_137
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15cb5679c3d3550800000000000000
+      internalID: 6142132087747793331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_138
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bde615ada9ea2a0800000000000000
+      internalID: -6724266931157804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_139
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e230a4b4c140f50800000000000000
+      internalID: 6846628443199843861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_140
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18a78c4a28e0260800000000000000
+      internalID: 7065728509640606182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf4533b298ccf10800000000000000
+      internalID: 2291357129062546184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_142
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110d9a960bd87ed80800000000000000
+      internalID: -8221446805915054063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_143
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8728c6f64a88850800000000000000
+      internalID: 6379529670639122659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_144
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f69b540430d7d610800000000000000
+      internalID: 1646013110657193714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_145
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd9c5a1164539a0800000000000000
+      internalID: -6254015465924207359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_146
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9b2149bc04eac0800000000000000
+      internalID: -3826919793556218188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_147
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094ef7ff9f1175b0800000000000000
+      internalID: -5372478108555392764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_148
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747c6184906496c10800000000000000
+      internalID: 2047244511294703431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_149
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de4fb14e97899130800000000000000
+      internalID: 3574036893072838357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561dc7af09659b400800000000000000
+      internalID: 340398427520946533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13e9ad9729cbcb0800000000000000
+      internalID: -4846838046900997691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_152
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f56afe5227aeef40800000000000000
+      internalID: 5759724739517638128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_153
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c80c5e867c39120800000000000000
+      internalID: 2419496678173215810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_154
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd099d18f1716780800000000000000
+      internalID: -8691540495385948751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_155
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c18761baafdcce0800000000000000
+      internalID: -1383173897809552306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a49cfbebb442760800000000000000
+      internalID: 7432148567701670474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_157
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec9ec2b7caa9950800000000000000
+      internalID: 6456662660823502493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_158
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1057b77583c0d3d60800000000000000
+      internalID: 7871461159838905601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c87bea822abb57e0800000000000000
+      internalID: -1775620970545186617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_160
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e4ebde012045a0800000000000000
+      internalID: -6539190311239490804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_161
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad21b58c77bb24c0800000000000000
+      internalID: -4311150472830308950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_162
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10cebe3968ddb10800000000000000
+      internalID: 2007908978753536486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_163
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28b9ed2fba4b7f0800000000000000
+      internalID: -597663790928264527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_164
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624b3a82162b41d0800000000000000
+      internalID: -3365554435458907550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_165
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f59b339dd7db9f0800000000000000
+      internalID: -451066015838019689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_166
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02304eb5c83e282e0800000000000000
+      internalID: -2124885882188856544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_167
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22162d0e9faa140800000000000000
+      internalID: 4731869102503699106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_168
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcb4902e8055b10800000000000000
+      internalID: 1969490178956053927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_169
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcdb4da694905150800000000000000
+      internalID: 5859346490082450674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_170
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a652c03c8b23d00800000000000000
+      internalID: 951025619190508082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_171
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c04ba7b50f3d40800000000000000
+      internalID: 5566173950863524990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_172
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290313d4c7a3c15e0800000000000000
+      internalID: -1937609434130730862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_173
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fa949e0adea2a0800000000000000
+      internalID: -6724197437459992361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_174
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0cb3b6c72da1b0800000000000000
+      internalID: -5643811023652910096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_175
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa9a8da40a03a90800000000000000
+      internalID: -7336187549663516059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_176
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d18d76ce6545b510800000000000000
+      internalID: 1564232787659948504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_177
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ad430e20fab21c0800000000000000
+      internalID: -4527332573504546251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e6f5ecea8f5d9c0800000000000000
+      internalID: -3902940072376308198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_179
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0976919ebd2260800000000000000
+      internalID: 7074520122172967886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ac95fe1ee2aed0800000000000000
+      internalID: -2404097434325309857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_181
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e468cb007a9b2d2e0800000000000000
+      internalID: -2102413949105568178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_182
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122341af6367a9ab0800000000000000
+      internalID: -5000554457745575391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_183
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7995968af43e99e50800000000000000
+      internalID: 6816729442269354391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Mega Man X4 - Items (1)_184
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef632e06f990f480800000000000000
+      internalID: -8867418384214298646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

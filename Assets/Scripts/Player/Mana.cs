@@ -58,4 +58,14 @@ public class Mana : MonoBehaviour
             itemActions[itemName].Invoke();
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("minusBlood"))
+        {
+            RestoreMana(20);
+            Destroy(collision.gameObject);
+        }
+    }
 }
+
