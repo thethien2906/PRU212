@@ -16894,7 +16894,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8918779979125168482, guid: a769be11fad3b144ebfad1e18be7864d, type: 3}
       propertyPath: m_TagString
-      value: minusBlood
+      value: AddMana
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16938,11 +16938,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7665602714647474688, guid: bc6577f8daf42334aa3495ba4bb89ce4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.594
+      value: -9.46
       objectReference: {fileID: 0}
     - target: {fileID: 7665602714647474688, guid: bc6577f8daf42334aa3495ba4bb89ce4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.091
+      value: -3.43
       objectReference: {fileID: 0}
     - target: {fileID: 7665602714647474688, guid: bc6577f8daf42334aa3495ba4bb89ce4, type: 3}
       propertyPath: m_LocalPosition.z
