@@ -18,7 +18,7 @@ public class Mana : MonoBehaviour
     {
         currentMana = maxMana;
         UpdateManaUI();
-        // Initialize item actions like mana potion etc.
+        // Initialize item actions like mana potion, etc.
         itemActions = new Dictionary<string, Action>
         {
             { "addMana", () => RestoreMana(50) },
@@ -59,6 +59,12 @@ public class Mana : MonoBehaviour
         }
     }
 
+    public void GainManaOnHit(int amount)
+    {
+        Debug.Log("Mana gained: " + amount);
+        RestoreMana(amount);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("minusBlood"))
@@ -68,4 +74,3 @@ public class Mana : MonoBehaviour
         }
     }
 }
-
