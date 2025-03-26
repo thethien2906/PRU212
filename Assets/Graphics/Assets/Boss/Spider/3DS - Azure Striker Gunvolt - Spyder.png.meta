@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 9b6994841e2b83a4fb10c111292ea689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8805648409271873504
+    second: 3DS - Azure Striker Gunvolt - Spyder_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2397
+        width: 190
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dd541d6d0cc580800000000000000
+      internalID: -8805648409271873504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2397
+        width: 190
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda76e8063c506740b81a7b0dd98c065
+      internalID: 945862823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2398
+        width: 190
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed45fa91e9108741aa70f6a87b96f8f
+      internalID: 555772122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2398
+        width: 190
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed8ebe13dbd2a419837d498e0f4874
+      internalID: -1517232268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e385af936fe0d747bbe6f10b9c6fc02
+      internalID: 879637398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2255
+        width: 201
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65afdd426748f94d9d84e47d1f72b2d
+      internalID: -666359593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1b4e2c26fb8c743945946269674cb1
+      internalID: -2053974555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2256
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99928e46caaaa4ba0e9ff3c4f13800
+      internalID: 1012169791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da1db1ac2338a46a092c998cfa65c4
+      internalID: -945322862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_6
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27838a6c7dbe6e14e947a2f82dd77ca1
+      internalID: -750893207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a0f548bdf5a44b96150a85f993e91
+      internalID: -131392112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_8
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95f9c058ef5c341b11060cea29affe
+      internalID: -112604755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_1_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2255
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae61f16b6cd5dc848ba5f0e49361e948
+      internalID: 1200244549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1990
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b9e63e1141374785400dbc9fa38fa
+      internalID: -1070590643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1990
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f5c666564a654eb5891ef6346c2c3
+      internalID: 1104882658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_1_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1990
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a4e31ea69c2b45b95eaf3454163c7
+      internalID: -303411227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_1_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1990
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca028dcee5c5cc24db8475327aed280a
+      internalID: 1999070780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1207
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9740e5291c93bc41a33e9bccfe855c7
+      internalID: 1829656123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1208
+        width: 204
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc1024fb32b2d43bb7bde0ab7e9ab7
+      internalID: -702224679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1207
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaca98f1c34f5a64fafac82969516d1f
+      internalID: 10626815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1207
+        width: 194
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b642a1f8e9c0d4688a63f7b2351556
+      internalID: 79681122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1207
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fafae41b8f5a745a89587f30599fa0
+      internalID: 1192638203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1207
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed493c7f6e6e9804e9e990927b8f357f
+      internalID: 1250161169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d7
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1205
+        width: 185
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c208ffcf58af9e488c9846efbaa7de0
+      internalID: -1983199931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d8
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1203
+        width: 200
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a857fcaaff674046b581e1ccc128e3c
+      internalID: 5398060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1204
+        width: 200
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c809df79577605478c15fd977e4fc98
+      internalID: -1185800105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1203
+        width: 200
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff265771c2fa54da3aeba700cde198
+      internalID: 1231355547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d11
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1204
+        width: 200
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1485b5496ea464ca6d0e94b0f47a91
+      internalID: 1615993016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d12
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1201
+        width: 206
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e797be112e731e4ea2e51ea8fb6417d
+      internalID: -862790610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d13
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1204
+        width: 200
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cb6019361be245887c8ff64f18c15
+      internalID: 848682068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d14
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1205
+        width: 200
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6fd53314354c448fdb58668e1c75e
+      internalID: -555786122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d15
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1206
+        width: 200
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db0611e7687c146940a2dd1457c283
+      internalID: 134200249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d16
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1206
+        width: 200
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268d962118323242800f8172928910e
+      internalID: 1417326045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d17
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1205
+        width: 200
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94cae603e6247447871c68199894207
+      internalID: -717707529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ac4d3c4df6c94fac7069cd3edf2dd
+      internalID: 1168010605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1853
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ee44844e8bec4db9c848506abda7e
+      internalID: 872438365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1853
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf12d0519ff2714a8e4bcd6c0363be6
+      internalID: 191300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2_4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1853
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39de185ec5271a4080335092f97628a
+      internalID: 236730027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a2d8a8cc9bdc4a9276a6c0b160bed
+      internalID: 1414636878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7f9d496b60bf4a9222765885806b4
+      internalID: 2005990474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3a88c01637ba84eb423dbeab66cfba
+      internalID: -969323980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_3
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 42
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e9b8c8f051714d9c384a5d5b7e051
+      internalID: 708950952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_4
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 42
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775f55aa63a8454d936af006eb583dc
+      internalID: 2026762568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_5
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 42
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884efd4cbabf47439400c38d7037032
+      internalID: -500183242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_6
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c12a55d437324dad3ae17f2b88451
+      internalID: 1054400435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_7
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce635e68cefb68a4dace049de2347613
+      internalID: 1008218871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_8
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4884be37d5b9294d9e9919e4a78283a
+      internalID: 499108920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_9
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 41
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f17497a2e1520c438e9b4a4f70d381d
+      internalID: -1233862544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_10
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 40
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664b86449d414c4ca598cf2d66ff4d0
+      internalID: -865706732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_11
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 39
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e52408d7dc39c49a878c636d44ca75
+      internalID: -1540452931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_12
+      rect:
+        serializedVersion: 2
+        x: 4396
+        y: 39
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2534aa5500c740be7f86d02486a2d
+      internalID: -1406660894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Spyder_13
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 39
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7ea17f6d05de4ebf573bba095bfe5
+      internalID: -1008197635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9067f8d3151d1f45aaa4c4802b14e3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Azure Striker Gunvolt - Spyder_0: 1414636878
+      3DS - Azure Striker Gunvolt - Spyder_1: 2005990474
+      3DS - Azure Striker Gunvolt - Spyder_10: -865706732
+      3DS - Azure Striker Gunvolt - Spyder_100: -2034004351
+      3DS - Azure Striker Gunvolt - Spyder_101: -1911866226
+      3DS - Azure Striker Gunvolt - Spyder_102: 778365246
+      3DS - Azure Striker Gunvolt - Spyder_103: 1635717477
+      3DS - Azure Striker Gunvolt - Spyder_104: -1484694154
+      3DS - Azure Striker Gunvolt - Spyder_105: -768052930
+      3DS - Azure Striker Gunvolt - Spyder_106: -1352469037
+      3DS - Azure Striker Gunvolt - Spyder_107: -1911310179
+      3DS - Azure Striker Gunvolt - Spyder_108: -1975289595
+      3DS - Azure Striker Gunvolt - Spyder_109: -1469069592
+      3DS - Azure Striker Gunvolt - Spyder_11: -1540452931
+      3DS - Azure Striker Gunvolt - Spyder_110: 670735404
+      3DS - Azure Striker Gunvolt - Spyder_111: 790862620
+      3DS - Azure Striker Gunvolt - Spyder_112: 1974235846
+      3DS - Azure Striker Gunvolt - Spyder_113: -440477519
+      3DS - Azure Striker Gunvolt - Spyder_114: 1985305656
+      3DS - Azure Striker Gunvolt - Spyder_115: -1533767770
+      3DS - Azure Striker Gunvolt - Spyder_116: 1227402676
+      3DS - Azure Striker Gunvolt - Spyder_117: -996195003
+      3DS - Azure Striker Gunvolt - Spyder_118: -1666224427
+      3DS - Azure Striker Gunvolt - Spyder_119: 751811010
+      3DS - Azure Striker Gunvolt - Spyder_12: -1406660894
+      3DS - Azure Striker Gunvolt - Spyder_120: -497071875
+      3DS - Azure Striker Gunvolt - Spyder_121: 1587355990
+      3DS - Azure Striker Gunvolt - Spyder_122: 2120173774
+      3DS - Azure Striker Gunvolt - Spyder_123: 1572414546
+      3DS - Azure Striker Gunvolt - Spyder_124: -1785748151
+      3DS - Azure Striker Gunvolt - Spyder_125: 347187365
+      3DS - Azure Striker Gunvolt - Spyder_126: -1711432244
+      3DS - Azure Striker Gunvolt - Spyder_127: -2022570157
+      3DS - Azure Striker Gunvolt - Spyder_128: -1751337189
+      3DS - Azure Striker Gunvolt - Spyder_129: -1208368515
+      3DS - Azure Striker Gunvolt - Spyder_13: -1008197635
+      3DS - Azure Striker Gunvolt - Spyder_130: 1849582814
+      3DS - Azure Striker Gunvolt - Spyder_131: -1064321413
+      3DS - Azure Striker Gunvolt - Spyder_132: -1770167109
+      3DS - Azure Striker Gunvolt - Spyder_133: 517145402
+      3DS - Azure Striker Gunvolt - Spyder_134: -1654182263
+      3DS - Azure Striker Gunvolt - Spyder_135: -766593012
+      3DS - Azure Striker Gunvolt - Spyder_136: 1210944647
+      3DS - Azure Striker Gunvolt - Spyder_137: 1017063455
+      3DS - Azure Striker Gunvolt - Spyder_138: -795568599
+      3DS - Azure Striker Gunvolt - Spyder_139: -36690691
+      3DS - Azure Striker Gunvolt - Spyder_14: 1318362861
+      3DS - Azure Striker Gunvolt - Spyder_140: -534111997
+      3DS - Azure Striker Gunvolt - Spyder_141: 823969588
+      3DS - Azure Striker Gunvolt - Spyder_142: 590699745
+      3DS - Azure Striker Gunvolt - Spyder_143: 757587158
+      3DS - Azure Striker Gunvolt - Spyder_144: 1681319512
+      3DS - Azure Striker Gunvolt - Spyder_145: 1957532304
+      3DS - Azure Striker Gunvolt - Spyder_146: 274835890
+      3DS - Azure Striker Gunvolt - Spyder_147: 952442470
+      3DS - Azure Striker Gunvolt - Spyder_148: 415191756
+      3DS - Azure Striker Gunvolt - Spyder_149: 1277327764
+      3DS - Azure Striker Gunvolt - Spyder_16: 1955412630
+      3DS - Azure Striker Gunvolt - Spyder_17: -693690607
+      3DS - Azure Striker Gunvolt - Spyder_18: 213625243
+      3DS - Azure Striker Gunvolt - Spyder_19: -913851578
+      3DS - Azure Striker Gunvolt - Spyder_2: -969323980
+      3DS - Azure Striker Gunvolt - Spyder_20: 400314222
+      3DS - Azure Striker Gunvolt - Spyder_21: -1478844321
+      3DS - Azure Striker Gunvolt - Spyder_22: 1587715550
+      3DS - Azure Striker Gunvolt - Spyder_23: 363862314
+      3DS - Azure Striker Gunvolt - Spyder_24: -1798088244
+      3DS - Azure Striker Gunvolt - Spyder_25: -1133205613
+      3DS - Azure Striker Gunvolt - Spyder_26: -1956645227
+      3DS - Azure Striker Gunvolt - Spyder_27: -1612861151
+      3DS - Azure Striker Gunvolt - Spyder_28: 293974454
+      3DS - Azure Striker Gunvolt - Spyder_29: -1028188606
+      3DS - Azure Striker Gunvolt - Spyder_3: 708950952
+      3DS - Azure Striker Gunvolt - Spyder_30: 2049660866
+      3DS - Azure Striker Gunvolt - Spyder_31: -1181432894
+      3DS - Azure Striker Gunvolt - Spyder_32: 67330772
+      3DS - Azure Striker Gunvolt - Spyder_33: -1812114749
+      3DS - Azure Striker Gunvolt - Spyder_38: 719741555
+      3DS - Azure Striker Gunvolt - Spyder_39: -1996107496
+      3DS - Azure Striker Gunvolt - Spyder_4: 2026762568
+      3DS - Azure Striker Gunvolt - Spyder_40: 1701202830
+      3DS - Azure Striker Gunvolt - Spyder_41: 1423499118
+      3DS - Azure Striker Gunvolt - Spyder_42: -1683495175
+      3DS - Azure Striker Gunvolt - Spyder_43: 245104900
+      3DS - Azure Striker Gunvolt - Spyder_44: 1358959971
+      3DS - Azure Striker Gunvolt - Spyder_45: -1379857776
+      3DS - Azure Striker Gunvolt - Spyder_46: -2036384148
+      3DS - Azure Striker Gunvolt - Spyder_47: 365486483
+      3DS - Azure Striker Gunvolt - Spyder_5: -500183242
+      3DS - Azure Striker Gunvolt - Spyder_52: 975988958
+      3DS - Azure Striker Gunvolt - Spyder_53: 1391375421
+      3DS - Azure Striker Gunvolt - Spyder_54: 366051522
+      3DS - Azure Striker Gunvolt - Spyder_55: 277876098
+      3DS - Azure Striker Gunvolt - Spyder_56: -747445581
+      3DS - Azure Striker Gunvolt - Spyder_57: -132464507
+      3DS - Azure Striker Gunvolt - Spyder_58: 1590825512
+      3DS - Azure Striker Gunvolt - Spyder_59: 1151949880
+      3DS - Azure Striker Gunvolt - Spyder_6: 1054400435
+      3DS - Azure Striker Gunvolt - Spyder_60: 489549041
+      3DS - Azure Striker Gunvolt - Spyder_61: 346204897
+      3DS - Azure Striker Gunvolt - Spyder_62: -722854857
+      3DS - Azure Striker Gunvolt - Spyder_63: 1523526695
+      3DS - Azure Striker Gunvolt - Spyder_64: -993910975
+      3DS - Azure Striker Gunvolt - Spyder_65: 1176322773
+      3DS - Azure Striker Gunvolt - Spyder_66: -50827567
+      3DS - Azure Striker Gunvolt - Spyder_67: -1240275489
+      3DS - Azure Striker Gunvolt - Spyder_7: 1008218871
+      3DS - Azure Striker Gunvolt - Spyder_8: 499108920
+      3DS - Azure Striker Gunvolt - Spyder_85: -1851397307
+      3DS - Azure Striker Gunvolt - Spyder_86: 1176462667
+      3DS - Azure Striker Gunvolt - Spyder_87: 886399434
+      3DS - Azure Striker Gunvolt - Spyder_88: -587684831
+      3DS - Azure Striker Gunvolt - Spyder_89: -1061842490
+      3DS - Azure Striker Gunvolt - Spyder_9: -1233862544
+      3DS - Azure Striker Gunvolt - Spyder_90: -999744850
+      3DS - Azure Striker Gunvolt - Spyder_91: -169396524
+      3DS - Azure Striker Gunvolt - Spyder_92: -833007076
+      3DS - Azure Striker Gunvolt - Spyder_93: 549254739
+      3DS - Azure Striker Gunvolt - Spyder_94: 1917290896
+      3DS - Azure Striker Gunvolt - Spyder_95: 920645255
+      3DS - Azure Striker Gunvolt - Spyder_96: 1517423792
+      3DS - Azure Striker Gunvolt - Spyder_97: -1241793064
+      3DS - Azure Striker Gunvolt - Spyder_98: 1550235923
+      3DS - Azure Striker Gunvolt - Spyder_99: 1506392568
+      5: -945322862
+      a_1_1: 879637398
+      a_1_2: -666359593
+      a_1_3: -2053974555
+      a_1_4: 1012169791
+      a_1_5: -945322862
+      a_1_6: -750893207
+      a_1_7: -131392112
+      a_1_8: -112604755
+      a_1_9: 1200244549
+      a_2_1: 1168010605
+      a_2_2: 872438365
+      a_2_3: 191300096
+      a_2_4: 236730027
+      d1: 1829656123
+      d10: 1231355547
+      d11: 1615993016
+      d12: -862790610
+      d13: 848682068
+      d14: -555786122
+      d15: 134200249
+      d16: 1417326045
+      d17: -717707529
+      d2: -702224679
+      d3: 10626815
+      d4: 79681122
+      d5: 1192638203
+      d6: 1250161169
+      d7: -1983199931
+      d8: 5398060
+      d9: -1185800105
+      idle1: -8805648409271873504
+      idle2: 945862823
+      idle3: 555772122
+      idle4: -1517232268
+      s_1_1: -1070590643
+      s_1_2: 1104882658
+      s_1_3: -303411227
+      s_1_4: 1999070780
+      t1: 480612986
+      t2: -2137142867
+      t3: -103049397
+      t4: -1542663041
+      wakeup_1: 1595766140
+      wakeup_2: -124607198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

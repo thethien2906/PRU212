@@ -1,0 +1,3383 @@
+fileFormatVersion: 2
+guid: aa479e9ebcff9ab499b6509aa9e21051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1318841713521398635
+    second: Nova_Body_0
+  - first:
+      213: 6994130859964715264
+    second: Nova_Body_1
+  - first:
+      213: 7326875988545177644
+    second: Nova_Body_2
+  - first:
+      213: -3155376772611785681
+    second: Nova_Body_3
+  - first:
+      213: -2733811520693371541
+    second: Nova_Body_4
+  - first:
+      213: -58718085618017432
+    second: Nova_Body_5
+  - first:
+      213: -5443218704272015432
+    second: Nova_Body_6
+  - first:
+      213: -8219511018119845856
+    second: Nova_Body_7
+  - first:
+      213: 5148308374020042740
+    second: Nova_Body_8
+  - first:
+      213: -6345792949630555138
+    second: Nova_Body_9
+  - first:
+      213: 3848719705084037415
+    second: Nova_Body_10
+  - first:
+      213: -4371350855847397128
+    second: Nova_Body_11
+  - first:
+      213: -5830169899120539415
+    second: Nova_Body_12
+  - first:
+      213: -6243130221209406529
+    second: Nova_Body_13
+  - first:
+      213: 1597689104917385143
+    second: Nova_Body_14
+  - first:
+      213: -8875729074877951500
+    second: Nova_Body_15
+  - first:
+      213: -1384091389712372504
+    second: Nova_Body_16
+  - first:
+      213: -1986670405839254114
+    second: Nova_Body_17
+  - first:
+      213: -6274285930828051885
+    second: Nova_Body_18
+  - first:
+      213: 2789451130507001191
+    second: Nova_Body_19
+  - first:
+      213: 5122884614276880281
+    second: Nova_Body_20
+  - first:
+      213: 5087446293102033650
+    second: Nova_Body_21
+  - first:
+      213: 914759531029444715
+    second: Nova_Body_22
+  - first:
+      213: -3989228247278295932
+    second: Nova_Body_23
+  - first:
+      213: 3124614319909752605
+    second: Nova_Body_24
+  - first:
+      213: 9021610918210765852
+    second: Nova_Body_25
+  - first:
+      213: 1041933532134572570
+    second: Nova_Body_26
+  - first:
+      213: -6201106611580627599
+    second: Nova_Body_27
+  - first:
+      213: 9221827190826218075
+    second: Nova_Body_28
+  - first:
+      213: -515170118971984133
+    second: Nova_Body_29
+  - first:
+      213: 3116064047199641488
+    second: Nova_Body_30
+  - first:
+      213: -2302496159405790286
+    second: Nova_Body_31
+  - first:
+      213: -1339975057701988212
+    second: Nova_Body_32
+  - first:
+      213: 5790298082741364782
+    second: Nova_Body_33
+  - first:
+      213: 1967309159809365111
+    second: Nova_Body_34
+  - first:
+      213: -8227124946971622035
+    second: Nova_Body_35
+  - first:
+      213: -4598821684422368775
+    second: Nova_Body_36
+  - first:
+      213: -4811136376385202316
+    second: Nova_Body_37
+  - first:
+      213: -4350880122538947159
+    second: Nova_Body_38
+  - first:
+      213: -2458901321016597002
+    second: Nova_Body_39
+  - first:
+      213: -9018704047177244706
+    second: Nova_Body_40
+  - first:
+      213: 1934420575630222081
+    second: Nova_Body_41
+  - first:
+      213: -8957695917344929014
+    second: Nova_Body_42
+  - first:
+      213: -2258408610404964240
+    second: Nova_Body_43
+  - first:
+      213: 6419093417446691159
+    second: Nova_Body_44
+  - first:
+      213: -3586816965228795869
+    second: Nova_Body_45
+  - first:
+      213: 7024413598752700244
+    second: Nova_Body_46
+  - first:
+      213: -7547380660095682878
+    second: Nova_Body_47
+  - first:
+      213: -4791809580737876664
+    second: Nova_Body_48
+  - first:
+      213: 1030879816080623711
+    second: Nova_Body_49
+  - first:
+      213: 3444138400287019365
+    second: Nova_Body_50
+  - first:
+      213: -2563782724746890377
+    second: Nova_Body_51
+  - first:
+      213: -3970060686230349559
+    second: Nova_Body_52
+  - first:
+      213: -5496067820508026594
+    second: Nova_Body_53
+  - first:
+      213: 7837091932352382006
+    second: Nova_Body_54
+  - first:
+      213: -4542459497599629433
+    second: Nova_Body_55
+  - first:
+      213: 4114380924883614501
+    second: Nova_Body_56
+  - first:
+      213: -4051393453578911347
+    second: Nova_Body_57
+  - first:
+      213: 44553983528141960
+    second: Nova_Body_58
+  - first:
+      213: 7319992004407399217
+    second: Nova_Body_59
+  - first:
+      213: 8901476427582730722
+    second: Nova_Body_60
+  - first:
+      213: -8590385240174902743
+    second: Nova_Body_61
+  - first:
+      213: 6908615904335277952
+    second: Nova_Body_62
+  - first:
+      213: 8033152235738314390
+    second: Nova_Body_63
+  - first:
+      213: 5389576184559774098
+    second: Nova_Body_64
+  - first:
+      213: 396580994789872900
+    second: Nova_Body_65
+  - first:
+      213: 6739636335921059282
+    second: Nova_Body_66
+  - first:
+      213: -8588269621876036260
+    second: Nova_Body_67
+  - first:
+      213: 8461864426481395558
+    second: Nova_Body_68
+  - first:
+      213: 2802977530800145089
+    second: Nova_Body_69
+  - first:
+      213: -6994496002106215411
+    second: Nova_Body_70
+  - first:
+      213: 1531544402559113012
+    second: Nova_Body_71
+  - first:
+      213: 3668468640976364835
+    second: Nova_Body_72
+  - first:
+      213: -4719647867677767262
+    second: Nova_Body_73
+  - first:
+      213: 2251067897964794156
+    second: Nova_Body_74
+  - first:
+      213: -4510001080437574945
+    second: Nova_Body_75
+  - first:
+      213: -5545419320591086913
+    second: Nova_Body_76
+  - first:
+      213: 7146023369307613474
+    second: Nova_Body_77
+  - first:
+      213: 7514143159831442607
+    second: Nova_Body_78
+  - first:
+      213: 725359576453820742
+    second: Nova_Body_79
+  - first:
+      213: -2823831358753584310
+    second: Nova_Body_80
+  - first:
+      213: -7713001470938311693
+    second: Nova_Body_81
+  - first:
+      213: 664919110205217394
+    second: Nova_Body_82
+  - first:
+      213: 6621481345405839741
+    second: Nova_Body_83
+  - first:
+      213: -3404987626571109908
+    second: Nova_Body_84
+  - first:
+      213: -2290571836349039788
+    second: Nova_Body_85
+  - first:
+      213: 8213714069560003361
+    second: Nova_Body_86
+  - first:
+      213: -1399007314255094685
+    second: Nova_Body_87
+  - first:
+      213: 4830268463809088890
+    second: Nova_Body_88
+  - first:
+      213: 3312034100230495551
+    second: Nova_Body_89
+  - first:
+      213: -5760788528971938446
+    second: Nova_Body_90
+  - first:
+      213: -3491539217316955045
+    second: Nova_Body_91
+  - first:
+      213: 3999747046743243604
+    second: Nova_Body_92
+  - first:
+      213: 7491367143485562118
+    second: Nova_Body_93
+  - first:
+      213: 5575006230687337080
+    second: Nova_Body_94
+  - first:
+      213: -759199768439191032
+    second: Nova_Body_95
+  - first:
+      213: -6973617863548848319
+    second: Nova_Body_96
+  - first:
+      213: 5204999516726537206
+    second: Nova_Body_97
+  - first:
+      213: 8631759807947824074
+    second: Nova_Body_98
+  - first:
+      213: 4907151657776630130
+    second: Nova_Body_99
+  - first:
+      213: -158263143678578997
+    second: Nova_Body_100
+  - first:
+      213: -9016390500340682439
+    second: Nova_Body_101
+  - first:
+      213: 1616287044350990908
+    second: Nova_Body_102
+  - first:
+      213: 3226924320744885749
+    second: Nova_Body_103
+  - first:
+      213: -4830909287612078229
+    second: Nova_Body_104
+  - first:
+      213: 7051084163614770383
+    second: Nova_Body_105
+  - first:
+      213: 4007792033375600342
+    second: Nova_Body_106
+  - first:
+      213: -7471585375026957587
+    second: Nova_Body_107
+  - first:
+      213: -1198060085673379329
+    second: Nova_Body_108
+  - first:
+      213: -4149298674744158533
+    second: Nova_Body_109
+  - first:
+      213: -5257211682379090389
+    second: Nova_Body_110
+  - first:
+      213: 8629919622511563802
+    second: Nova_Body_111
+  - first:
+      213: 2336717788133818747
+    second: Nova_Body_112
+  - first:
+      213: -6241936220428723702
+    second: Nova_Body_113
+  - first:
+      213: 112089594140186023
+    second: Nova_Body_114
+  - first:
+      213: -213828861646285276
+    second: Nova_Body_115
+  - first:
+      213: 437604187714566285
+    second: Nova_Body_116
+  - first:
+      213: -1444929811367394850
+    second: Nova_Body_117
+  - first:
+      213: 7260894913598690936
+    second: Nova_Body_118
+  - first:
+      213: -5341149870995713115
+    second: Nova_Body_119
+  - first:
+      213: 4647311182477087814
+    second: Nova_Body_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nova_Body_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12154
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ce696f27882bde0800000000000000
+      internalID: -1318841713521398635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 11602
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015bcce5f4201160800000000000000
+      internalID: 6994130859964715264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 11481
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28039264ea4ea560800000000000000
+      internalID: 7326875988545177644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11127
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cb4ff0b89d534d0800000000000000
+      internalID: -3155376772611785681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10724
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d733208ec8f0ad0800000000000000
+      internalID: -2733811520693371541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 10724
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd8d456346f2ff0800000000000000
+      internalID: -58718085618017432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10321
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfba198d6dc574b0800000000000000
+      internalID: -5443218704272015432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 10321
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ae81274e6eed80800000000000000
+      internalID: -8219511018119845856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 10321
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff22a37037727740800000000000000
+      internalID: 5148308374020042740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_slam_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 9940
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba71b0fe63fe7a0800000000000000
+      internalID: -6345792949630555138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_slam_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 9940
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729849d2e26696530800000000000000
+      internalID: 3848719705084037415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_slam_3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 9940
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8bd989e87d553c0800000000000000
+      internalID: -4371350855847397128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_slam_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 9537
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ceb6cd53171fa0800000000000000
+      internalID: -5830169899120539415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8736
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3be4e2422fb59a0800000000000000
+      internalID: -6243130221209406529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9140
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfcc18a6c12c2610800000000000000
+      internalID: 1597689104917385143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 8736
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f11b499e6313d480800000000000000
+      internalID: -8875729074877951500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 9140
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec648bd638bacce0800000000000000
+      internalID: -1384091389712372504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_9
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 8736
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d8b2eaacded64e0800000000000000
+      internalID: -1986670405839254114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 9140
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a43c140324de8a0800000000000000
+      internalID: -6274285930828051885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_6
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 9139
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7e28260f16b620800000000000000
+      internalID: 2789451130507001191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 9140
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997994b1a64281740800000000000000
+      internalID: 5122884614276880281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 8735
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa793af27d3a9640800000000000000
+      internalID: 5087446293102033650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_5
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 9140
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68b9e562f0e1bc00800000000000000
+      internalID: 914759531029444715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_11
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 8736
+        width: 250
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e5018b0a63a8c0800000000000000
+      internalID: -3989228247278295932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7124
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751962446e31f9a0800000000000000
+      internalID: -6201106611580627599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 7123
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b523c3188f28aff70800000000000000
+      internalID: 9221827190826218075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 7123
+        width: 150
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf677cb918fb9d8f0800000000000000
+      internalID: -515170118971984133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 7123
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f53b6cdbb7e3b20800000000000000
+      internalID: 3116064047199641488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 7123
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbaae131f3eb00e0800000000000000
+      internalID: -2302496159405790286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 7123
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881ac5d8c3776de0800000000000000
+      internalID: -1339975057701988212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6720
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ac6d8d654b5050800000000000000
+      internalID: 5790298082741364782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6720
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743fc1f1494d4b10800000000000000
+      internalID: 1967309159809365111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 6720
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65800d237163dd80800000000000000
+      internalID: -8227124946971622035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 6720
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f124aa2b04bd20c0800000000000000
+      internalID: -4598821684422368775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 6720
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4779997c4f86b3db0800000000000000
+      internalID: -4811136376385202316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_9.1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6317
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad02cb94919e93c0800000000000000
+      internalID: -4350880122538947159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_9.2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6317
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5211fb64a30edd0800000000000000
+      internalID: -2458901321016597002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_9.3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6318
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf5f95c37027d280800000000000000
+      internalID: -9018704047177244706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_9.4
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 6317
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10365a8b34178da10800000000000000
+      internalID: 1934420575630222081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_42
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 6317
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b40b8e50fdfa380800000000000000
+      internalID: -8957695917344929014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5914
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e02b955588a0e0800000000000000
+      internalID: -2258408610404964240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5914
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75155fe0473351950800000000000000
+      internalID: 6419093417446691159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_45
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 5914
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328613159f0193ec0800000000000000
+      internalID: -3586816965228795869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_46
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 5914
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f31d73fabb7160800000000000000
+      internalID: 7024413598752700244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_47
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 5914
+        width: 432
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6f7520741524790800000000000000
+      internalID: -7547380660095682878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5511
+        width: 437
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2ecc0392108db0800000000000000
+      internalID: -4791809580737876664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_49
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5511
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580b9b1bbb6e4e00800000000000000
+      internalID: 1030879816080623711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_50
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 5511
+        width: 432
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d36290a90ccf20800000000000000
+      internalID: 3444138400287019365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_51
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5511
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773bd22023d9b6cd0800000000000000
+      internalID: -2563782724746890377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_52
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 5511
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091f7417d287e8c0800000000000000
+      internalID: -3970060686230349559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5108
+        width: 432
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19e929cf6b0ab3b0800000000000000
+      internalID: -5496067820508026594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5108
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63481fbf691f2cc60800000000000000
+      internalID: 7837091932352382006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_55
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5108
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78789f66721f5f0c0800000000000000
+      internalID: -4542459497599629433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_56
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5108
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb45af6a7391930800000000000000
+      internalID: 4114380924883614501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_57
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 5108
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8106128e1f86c7c0800000000000000
+      internalID: -4051393453578911347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4705
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840689ac994e9000800000000000000
+      internalID: 44553983528141960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4705
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133176de1f5d59560800000000000000
+      internalID: 7319992004407399217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_60
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 4705
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f49a16a5688b70800000000000000
+      internalID: 8901476427582730722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_61
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 4705
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922cd9b4322d8c880800000000000000
+      internalID: -8590385240174902743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_62
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 4705
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fa483cf8550ef50800000000000000
+      internalID: 6908615904335277952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4302
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69631dd956d7b7f60800000000000000
+      internalID: 8033152235738314390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4302
+        width: 436
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29927921cfe9bca40800000000000000
+      internalID: 5389576184559774098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_65
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 4302
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051f174050f08500800000000000000
+      internalID: 396580994789872900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_66
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 4302
+        width: 438
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d3e51a8ff78d50800000000000000
+      internalID: 6739636335921059282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_67
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 4302
+        width: 148
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5decc0184650d880800000000000000
+      internalID: -8588269621876036260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_68
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3899
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66720fdecd49e6570800000000000000
+      internalID: 8461864426481395558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_69
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3901
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28eb4a63d26e620800000000000000
+      internalID: 2802977530800145089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_70
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3900
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b19bc1fe8eee90800000000000000
+      internalID: -6994496002106215411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3256e07eac409e230800000000000000
+      internalID: 3668468640976364835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a903262541708eb0800000000000000
+      internalID: -4719647867677767262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_74
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c211a7793566d3f10800000000000000
+      internalID: 2251067897964794156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_75
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f3ef89e14961c0800000000000000
+      internalID: -4510001080437574945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_77
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2296834a466cb2360800000000000000
+      internalID: 7146023369307613474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43f296469974860800000000000000
+      internalID: 7514143159831442607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64135f011bef01a00800000000000000
+      internalID: 725359576453820742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_80
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b42eb275cbfc8d0800000000000000
+      internalID: -2823831358753584310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_81
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f318a4070ae5f490800000000000000
+      internalID: -7713001470938311693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_82
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a962868644a3900800000000000000
+      internalID: 664919110205217394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_83
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3094
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d796ac7933a34eb50800000000000000
+      internalID: 6621481345405839741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9e0a54bcd0fb0d0800000000000000
+      internalID: -3404987626571109908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_85
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb6e10d014630e0800000000000000
+      internalID: -2290571836349039788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_86
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b80ca9d69fcf170800000000000000
+      internalID: 8213714069560003361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_87
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd6ab824ab59ce0800000000000000
+      internalID: -1399007314255094685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_88
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dcc13739f880340800000000000000
+      internalID: 4830268463809088890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_89
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 2691
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d183c5775b6fd20800000000000000
+      internalID: 3312034100230495551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758b78da519d00b0800000000000000
+      internalID: -5760788528971938446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c3a70b49f8b8fc0800000000000000
+      internalID: -3491539217316955045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_92
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b7c885fb4f18730800000000000000
+      internalID: 3999747046743243604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_93
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5d7dd9bea6f760800000000000000
+      internalID: 7491367143485562118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_94
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a45b011a66e5d40800000000000000
+      internalID: 5575006230687337080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_95
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 2288
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a8f9045d7c675f0800000000000000
+      internalID: -759199768439191032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473adb308bb83f90800000000000000
+      internalID: -6973617863548848319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fba092bb7fdb3840800000000000000
+      internalID: 5204999516726537206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_98
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5933ffcb2ac770800000000000000
+      internalID: 8631759807947824074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_99
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279cebcfe64b91440800000000000000
+      internalID: 4907151657776630130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_100
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce6004628cbdcdf0800000000000000
+      internalID: -158263143678578997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_101
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1885
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931bcfe5c985fd280800000000000000
+      internalID: -9016390500340682439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1482
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a5b9dd0843e6610800000000000000
+      internalID: 1616287044350990908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1482
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd411f929658cc20800000000000000
+      internalID: 3226924320744885749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_104
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1482
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b672fb1299925fcb0800000000000000
+      internalID: -4830909287612078229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_105
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1482
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc404a540bb7ad160800000000000000
+      internalID: 7051084163614770383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_106
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1482
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3ef2ce998e9730800000000000000
+      internalID: 4007792033375600342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1079
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b38400b89f4890800000000000000
+      internalID: -7471585375026957587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1079
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93ddd13b2af5fe0800000000000000
+      internalID: -1198060085673379329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_109
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1079
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb610e8d6daba66c0800000000000000
+      internalID: -4149298674744158533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_110
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1079
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26b2ca24d1aa07b0800000000000000
+      internalID: -5257211682379090389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_111
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1079
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1499f36c22a3c770800000000000000
+      internalID: 8629919622511563802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_112
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 832
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b718d06a270bd6020800000000000000
+      internalID: 2336717788133818747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 832
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a93b624103069a0800000000000000
+      internalID: -6241936220428723702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 756
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55eb954e83e8100800000000000000
+      internalID: 112089594140186023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 756
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426d8d288c3580df0800000000000000
+      internalID: -213828861646285276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 273
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8833f0b0bea21600800000000000000
+      internalID: 437604187714566285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 273
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1031cfdf392fbe0800000000000000
+      internalID: -1444929811367394850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 273
+        width: 148
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8769d7c3471e3c460800000000000000
+      internalID: 7260894913598690936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_4
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 273
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a35d2fad7c60e5b0800000000000000
+      internalID: -5341149870995713115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_5
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 273
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6445f30e5e09e7040800000000000000
+      internalID: 4647311182477087814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_74.1
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 3497
+        width: 252
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c341d831a2794da5c1fa737869f40
+      internalID: 1339588464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_9
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 6721
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307284f35ef550948b52eb1c64cffe65
+      internalID: -200582852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_42.1
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 6321
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34b0ee9bb302b4791c988788680680
+      internalID: -1053814320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_47.1
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 5912
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c1cde7cee89f4c877a4d4f722e24f
+      internalID: -1351710346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_52.1
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 5512
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300eb75a01a04b7408ad3f058a6beecd
+      internalID: 1906234855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_57.1
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 5111
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d9342bbce4864d998f72c38d1a3ba
+      internalID: 800244703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_62.1
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 4699
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45f7d591df4734e8e3ae72a2c194e2
+      internalID: -1526480748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_67.1
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 4305
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524288589609cc4f822cd293d7eb0eb
+      internalID: -1651225183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_10
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 6721
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58b1dddeb81e6a4caacccb034c7f8a0
+      internalID: -891664435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nova_Body_11
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 6721
+        width: 435
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc97afddd5d3ea46b26cd6c1f19aeba
+      internalID: 1472100934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62b84188e44031249b5f8814d3edc61c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle_1: -6201106611580627599
+      Idle_10: -4598821684422368775
+      Idle_11: -4811136376385202316
+      Idle_2: 9221827190826218075
+      Idle_3: -515170118971984133
+      Idle_4: 3116064047199641488
+      Idle_5: -2302496159405790286
+      Idle_6: -1339975057701988212
+      Idle_7: 5790298082741364782
+      Idle_8: 1967309159809365111
+      Idle_9: -8227124946971622035
+      Intro_1: 437604187714566285
+      Intro_2: -1444929811367394850
+      Intro_3: 7260894913598690936
+      Intro_4: -5341149870995713115
+      Intro_5: 4647311182477087814
+      Nova_Body_0: -1318841713521398635
+      Nova_Body_1: 6994130859964715264
+      Nova_Body_10: -891664435
+      Nova_Body_100: -158263143678578997
+      Nova_Body_101: -9016390500340682439
+      Nova_Body_102: 1616287044350990908
+      Nova_Body_103: 3226924320744885749
+      Nova_Body_104: -4830909287612078229
+      Nova_Body_105: 7051084163614770383
+      Nova_Body_106: 4007792033375600342
+      Nova_Body_107: -7471585375026957587
+      Nova_Body_108: -1198060085673379329
+      Nova_Body_109: -4149298674744158533
+      Nova_Body_11: 1472100934
+      Nova_Body_110: -5257211682379090389
+      Nova_Body_111: 8629919622511563802
+      Nova_Body_112: 2336717788133818747
+      Nova_Body_113: -6241936220428723702
+      Nova_Body_114: 112089594140186023
+      Nova_Body_115: -213828861646285276
+      Nova_Body_2: 7326875988545177644
+      Nova_Body_24: 3124614319909752605
+      Nova_Body_25: 9021610918210765852
+      Nova_Body_26: 1041933532134572570
+      Nova_Body_3: -3155376772611785681
+      Nova_Body_4: -2733811520693371541
+      Nova_Body_42: -8957695917344929014
+      Nova_Body_42.1: -1053814320
+      Nova_Body_43: -2258408610404964240
+      Nova_Body_44: 6419093417446691159
+      Nova_Body_45: -3586816965228795869
+      Nova_Body_46: 7024413598752700244
+      Nova_Body_47: -7547380660095682878
+      Nova_Body_47.1: -1351710346
+      Nova_Body_48: -4791809580737876664
+      Nova_Body_49: 1030879816080623711
+      Nova_Body_5: -58718085618017432
+      Nova_Body_50: 3444138400287019365
+      Nova_Body_51: -2563782724746890377
+      Nova_Body_52: -3970060686230349559
+      Nova_Body_52.1: 1906234855
+      Nova_Body_53: -5496067820508026594
+      Nova_Body_54: 7837091932352382006
+      Nova_Body_55: -4542459497599629433
+      Nova_Body_56: 4114380924883614501
+      Nova_Body_57: -4051393453578911347
+      Nova_Body_57.1: 800244703
+      Nova_Body_58: 44553983528141960
+      Nova_Body_59: 7319992004407399217
+      Nova_Body_6: -5443218704272015432
+      Nova_Body_60: 8901476427582730722
+      Nova_Body_61: -8590385240174902743
+      Nova_Body_62: 6908615904335277952
+      Nova_Body_62.1: -1526480748
+      Nova_Body_63: 8033152235738314390
+      Nova_Body_64: 5389576184559774098
+      Nova_Body_65: 396580994789872900
+      Nova_Body_66: 6739636335921059282
+      Nova_Body_67: -8588269621876036260
+      Nova_Body_67.1: -1651225183
+      Nova_Body_68: 8461864426481395558
+      Nova_Body_69: 2802977530800145089
+      Nova_Body_7: -8219511018119845856
+      Nova_Body_70: -6994496002106215411
+      Nova_Body_71: 1531544402559113012
+      Nova_Body_72: 3668468640976364835
+      Nova_Body_73: -4719647867677767262
+      Nova_Body_74: 2251067897964794156
+      Nova_Body_74.1: 1339588464
+      Nova_Body_75: -4510001080437574945
+      Nova_Body_76: -5545419320591086913
+      Nova_Body_77: 7146023369307613474
+      Nova_Body_78: 7514143159831442607
+      Nova_Body_79: 725359576453820742
+      Nova_Body_8: 5148308374020042740
+      Nova_Body_80: -2823831358753584310
+      Nova_Body_81: -7713001470938311693
+      Nova_Body_82: 664919110205217394
+      Nova_Body_83: 6621481345405839741
+      Nova_Body_84: -3404987626571109908
+      Nova_Body_85: -2290571836349039788
+      Nova_Body_86: 8213714069560003361
+      Nova_Body_87: -1399007314255094685
+      Nova_Body_88: 4830268463809088890
+      Nova_Body_89: 3312034100230495551
+      Nova_Body_9: -200582852
+      Nova_Body_9.1: -4350880122538947159
+      Nova_Body_9.2: -2458901321016597002
+      Nova_Body_9.3: -9018704047177244706
+      Nova_Body_9.4: 1934420575630222081
+      Nova_Body_90: -5760788528971938446
+      Nova_Body_91: -3491539217316955045
+      Nova_Body_92: 3999747046743243604
+      Nova_Body_93: 7491367143485562118
+      Nova_Body_94: 5575006230687337080
+      Nova_Body_95: -759199768439191032
+      Nova_Body_96: -6973617863548848319
+      Nova_Body_97: 5204999516726537206
+      Nova_Body_98: 8631759807947824074
+      Nova_Body_99: 4907151657776630130
+      attack_1: 1597689104917385143
+      attack_10: 5087446293102033650
+      attack_11: -3989228247278295932
+      attack_2: -1384091389712372504
+      attack_3: -6274285930828051885
+      attack_4: 5122884614276880281
+      attack_5: 914759531029444715
+      attack_6: 2789451130507001191
+      attack_7: -6243130221209406529
+      attack_8: -8875729074877951500
+      attack_9: -1986670405839254114
+      hand_slam_1: -6345792949630555138
+      hand_slam_2: 3848719705084037415
+      hand_slam_3: -4371350855847397128
+      hand_slam_4: -5830169899120539415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
