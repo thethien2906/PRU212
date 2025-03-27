@@ -13450,6 +13450,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1131521288201597258, guid: b7fb0ffec596eab4fb7d997b20ea8b9a, type: 3}
+      propertyPath: maxHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1131521288201597258, guid: b7fb0ffec596eab4fb7d997b20ea8b9a, type: 3}
       propertyPath: healthSlider
       value: 
       objectReference: {fileID: 1026879130}
@@ -16894,7 +16898,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8918779979125168482, guid: a769be11fad3b144ebfad1e18be7864d, type: 3}
       propertyPath: m_TagString
-      value: minusBlood
+      value: AddMana
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

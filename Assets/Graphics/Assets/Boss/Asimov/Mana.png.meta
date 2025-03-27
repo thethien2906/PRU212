@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mana_0: 4975741955291382485
+      Mana_1: -4750089258648431207
+      Mana_10: 5405220234018357420
+      Mana_11: 2290277876639143123
+      Mana_12: 2759081324212503623
+      Mana_13: -9220314867370984732
+      Mana_14: -5318080329573572661
+      Mana_15: -8686219783483867974
+      Mana_16: -7402756438973702875
+      Mana_2: -6352028483471693936
+      Mana_3: -1260930041108201654
+      Mana_4: -2647494861899782620
+      Mana_5: 5329619914587183969
+      Mana_6: 8656592743763823387
+      Mana_7: 4786681609006135157
+      Mana_8: 2239175087525886933
+      Mana_9: -2098988611194885194
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

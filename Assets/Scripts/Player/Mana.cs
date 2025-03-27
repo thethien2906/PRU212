@@ -21,7 +21,7 @@ public class Mana : MonoBehaviour
         // Initialize item actions like mana potion, etc.
         itemActions = new Dictionary<string, Action>
         {
-            { "addMana", () => RestoreMana(50) },
+            { "AddMana", () => RestoreMana(50) },
             { "consumeMana", () => ConsumeMana(100) }
             // Add more if needed
         };
@@ -67,10 +67,11 @@ public class Mana : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("minusBlood"))
+        if (collision.CompareTag("AddMana"))
         {
             RestoreMana(20);
-            Destroy(collision.gameObject);
+            collision.gameObject.SetActive(false);
+
         }
     }
 }
