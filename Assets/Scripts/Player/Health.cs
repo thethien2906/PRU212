@@ -89,7 +89,7 @@ public class Health : MonoBehaviour
         if (itemActions.TryGetValue(collision.tag, out Action action))
         {
             action.Invoke();
-            Destroy(collision.gameObject);
+            collision.gameObject.SetActive(false);
             Debug.Log($"{collision.tag} action executed");
         }
     }
