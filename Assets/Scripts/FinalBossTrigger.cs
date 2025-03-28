@@ -33,6 +33,7 @@ public class FinalBossTrigger : MonoBehaviour
             {
                 Debug.Log("Boss entered");
                 triggered = true; // Prevent re-triggering
+                AudioManager.instance.PlayBGM(6);
                 bossController.InitializeBoss();
                 Debug.Log("Boss initialized");
 

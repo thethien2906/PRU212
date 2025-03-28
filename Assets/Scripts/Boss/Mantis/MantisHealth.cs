@@ -76,7 +76,7 @@ public class MantisHealth : MonoBehaviour
             healthSlider.gameObject.SetActive(true); // Call this via animation event
     }
     private void Die()
-    {
+    {   
         if (flashEffect != null)
         {
             flashEffect.FlashSprite();
@@ -92,6 +92,7 @@ public class MantisHealth : MonoBehaviour
                 boss.isAttacking = false; // Access the variable from Boss
             }
             animator.ResetTrigger("AttackTrigger");
+            AudioManager.instance.PlaySFX(51);
             animator.SetTrigger("isDead");
             StartCoroutine(DestroyAfterAnimation(2f)); // Adjust time based on death animation length
             GameManager.instance.LevelFinished();

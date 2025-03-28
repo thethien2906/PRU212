@@ -153,6 +153,7 @@ public class Head1Controller : MonoBehaviour
     {
         // Wait for pre-attack animation
         yield return new WaitForSeconds(GetAnimationLength("head_1_pre_attack2"));
+        AudioManager.instance.PlaySFX(57);
 
         // Activate laser
         animator.SetBool(isLaseringHash, true);
@@ -190,6 +191,7 @@ public class Head1Controller : MonoBehaviour
         animator.SetBool(isVulnerableHash, false);
 
         // Disappear
+        AudioManager.instance.PlaySFX(64);
         Disappear();
     }
 
@@ -228,7 +230,7 @@ public class Head1Controller : MonoBehaviour
 
         health -= damage;
         health = Mathf.Clamp(health, 0f, maxHealth);
-
+        
         // Update health slider
         UpdateHealthUI();
 
@@ -259,6 +261,7 @@ public class Head1Controller : MonoBehaviour
 
     private void Die()
     {
+
         // Set dead state
         isDead = true;
         animator.SetBool(isDeadHash, true);
@@ -282,6 +285,7 @@ public class Head1Controller : MonoBehaviour
 
     private void FireProjectile()
     {
+        AudioManager.instance.PlaySFX(58);
         if (projectilePrefab != null && projectileSpawnPoint != null)
         {
             GameObject projectile = Instantiate(projectilePrefab, projectileSpawnPoint.position, Quaternion.identity);

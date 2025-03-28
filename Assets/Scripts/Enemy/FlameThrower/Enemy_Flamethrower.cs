@@ -25,6 +25,7 @@ public class Enemy_Flamethrower : Enemy
 
         if (isPlayerDetected && !isAttacking && cooldownTimer <= 0)
         {
+            AudioManager.instance.PlaySFX(15);
             StartAttack();
         }
 
@@ -37,6 +38,8 @@ public class Enemy_Flamethrower : Enemy
 
     private void StartAttack()
     {
+
+
         isAttacking = true;
         cooldownTimer = attackCooldown; // Reset cooldown timer
         anim.SetTrigger("Attack"); // Trigger enemy attack animation
@@ -74,6 +77,7 @@ public class Enemy_Flamethrower : Enemy
     private void HandleMovement()
     {
         if (idleTimer > 0 || isAttacking) return;
+
         rb.linearVelocity = new Vector2(moveSpeed * facingDir, rb.linearVelocity.y);
     }
 

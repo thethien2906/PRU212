@@ -93,6 +93,7 @@ public class BossShockwave : MonoBehaviour
         // Check if collided with player
         if (other.CompareTag("Player"))
         {
+            AudioManager.instance.PlaySFX(62);
             // Deal damage to player
             Health playerHealth = other.GetComponent<Health>();
             if (playerHealth != null)

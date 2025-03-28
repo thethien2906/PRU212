@@ -42,7 +42,7 @@ public class EnemyGrenade : MonoBehaviour
     {
         if (hasExploded) return;
         hasExploded = true;
-
+        AudioManager.instance.PlaySFXwithRandomPitch(21);
         anim.SetTrigger("Explode");
         Collider2D[] hitObjects = Physics2D.OverlapCircleAll(transform.position, explosionRadius, damageableLayers);
         foreach (Collider2D obj in hitObjects)

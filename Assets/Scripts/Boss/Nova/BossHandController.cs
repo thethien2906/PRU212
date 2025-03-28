@@ -58,6 +58,8 @@ public class BossHandController : MonoBehaviour
         }
         if (player != null)
         {
+            AudioManager.instance.PlaySFX(66);
+
             // Position above player
             targetPosition = player.position;
             targetPosition.y += appearHeight;
@@ -132,6 +134,8 @@ public class BossHandController : MonoBehaviour
 
 
         // Impact effect
+        AudioManager.instance.PlaySFX(67);
+
         isFalling = false;
         // Enable collider for collision with player attacks
         if (damageCollider != null)
@@ -182,7 +186,8 @@ public class BossHandController : MonoBehaviour
         spriteRenderer.color = originalColor;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    // Handle player attacks
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         // If hand hits player while falling, damage them
         if (isFalling && collision.gameObject.CompareTag("Player"))
@@ -193,17 +198,20 @@ public class BossHandController : MonoBehaviour
                 playerHealth.TakeDamage(20);
             }
         }
-    }
-
-    // Handle player attacks
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
         // Check if the collision is with a player attack
         if (isVulnerable && collision.CompareTag("PlayerAttack"))
         {
+            AudioManager.instance.PlaySFX(42);
+
+            Mana playerMana = collision.transform.root.GetComponent<Mana>();
+            if (playerMana != null)
+            {
+                playerMana.GainManaOnHit(10);
+            }
             // Get damage amount from the attack if available
             int damageAmount = 50; // Default damage
             TakeDamage(damageAmount);
+            
         }else if (isVulnerable && collision.CompareTag("SpecialAttack"))
         {
             int damageAmount = 100; // Default damage

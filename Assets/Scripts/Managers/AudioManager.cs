@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement; // Add this namespace
 
@@ -54,8 +55,13 @@ public class AudioManager : MonoBehaviour
         }
         else
         {
-            // For non-main menu scenes, continue with random music
-            InvokeRepeating(nameof(PlayMusicIfNeeded), 0, 2);
+            // For non-main menu scenes, stop music
+            CancelInvoke(nameof(PlayMusicIfNeeded));
+            for (int i = 0; i < bgm.Length; i++)
+            {
+                bgm[i].Stop();
+            }
+            
         }
     }
 
@@ -89,16 +95,75 @@ public class AudioManager : MonoBehaviour
         bgm[bgmToPlay].Play();
     }
 
-    public void PlaySFX(int sfxToPlay, bool randomPitch = true)
+    public void PlaySFX(int sfxToPlay)
+    {
+        if (sfxToPlay >= sfx.Length)
+            return;
+
+        //if (randomPitch)
+        //    sfx[sfxToPlay].pitch = Random.Range(.9f, 1.1f);
+
+        sfx[sfxToPlay].Play();
+    }
+    public void PlaySFXwithRandomPitch(int sfxToPlay, bool randomPitch = true)
     {
         if (sfxToPlay >= sfx.Length)
             return;
 
         if (randomPitch)
-            sfx[sfxToPlay].pitch = Random.Range(.9f, 1.1f);
+            sfx[sfxToPlay].pitch = Random.Range(.85f, 1.15f);
 
         sfx[sfxToPlay].Play();
     }
+    public void PlaySFXByDuration(int sfxToPlay, float duration)
+    {
+        if (sfxToPlay >= sfx.Length)
+            return;
+        sfx[sfxToPlay].Play();
 
+        StartCoroutine(StopSFXAfterDuration(sfxToPlay, duration));
+    }
+    private IEnumerator StopSFXAfterDuration(int sfxIndex, float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        sfx[sfxIndex].Stop();
+    }
+    // Add these methods to your AudioManager class
+    public void PlaySFXLooped(int sfxToPlay)
+    {
+        if (sfxToPlay >= sfx.Length)
+            return;
+
+        // Enable looping
+        sfx[sfxToPlay].loop = true;
+        sfx[sfxToPlay].Play();
+    }
+
+    public void PlaySFXLoopedByDuration(int sfxToPlay, float duration)
+    {
+        if (sfxToPlay >= sfx.Length)
+            return;
+
+        sfx[sfxToPlay].loop = true;
+        sfx[sfxToPlay].Play();
+
+        StartCoroutine(StopSFXLoopAfterDuration(sfxToPlay, duration));
+    }
+
+    private IEnumerator StopSFXLoopAfterDuration(int sfxIndex, float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        sfx[sfxIndex].loop = false;
+        sfx[sfxIndex].Stop();
+    }
+
+    public void LowerBGMVolumeSlowly()
+    {
+        for (int i = 0; i < bgm.Length; i++)
+        {
+            bgm[i].volume = bgm[i].volume - 0.1f;
+        }
+        
+    }
     public void StopSFX(int sfxToStop) => sfx[sfxToStop].Stop();
 }

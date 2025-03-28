@@ -57,6 +57,7 @@ public class SpiderBoss : MonoBehaviour
         if (player == null)
             player = GameObject.FindGameObjectWithTag("Player")?.transform;
 
+        AudioManager.instance.PlaySFX(53);
         // Start with intro animation
         StartCoroutine(PlayIntro());
     }
@@ -116,6 +117,7 @@ public class SpiderBoss : MonoBehaviour
 
         if (attackType == 0) // Rush attack
         {
+            AudioManager.instance.PlaySFX(54);
             // Get animation length
             float rushAnimLength = stateInfo.length * 0.8f; // Use 80% of animation for actual rush
 
@@ -124,6 +126,7 @@ public class SpiderBoss : MonoBehaviour
         }
         else // Grenade attack
         {
+
             yield return StartCoroutine(PerformGrenadeAttack());
         }
 
@@ -179,6 +182,7 @@ public class SpiderBoss : MonoBehaviour
 
             if (hit.collider != null)
             {
+                AudioManager.instance.PlaySFX(33);
                 // Hit a wall or obstacle, stop rushing
                 Debug.Log("Hit obstacle: " + hit.collider.name);
                 break;
@@ -193,6 +197,7 @@ public class SpiderBoss : MonoBehaviour
             {
                 if (collider.CompareTag("Player"))
                 {
+                    AudioManager.instance.PlaySFX(33);
                     // Deal damage to player
                     Health playerHealth = collider.GetComponent<Health>();
                     if (playerHealth != null)
@@ -231,6 +236,7 @@ public class SpiderBoss : MonoBehaviour
         // Throw multiple grenades
         for (int i = 0; i < grenadeCount; i++)
         {
+            AudioManager.instance.PlaySFX(52);
             ThrowGrenade();
             yield return new WaitForSeconds(grenadeDelay);
         }
@@ -311,6 +317,7 @@ public class SpiderBoss : MonoBehaviour
         }
         else if (other.CompareTag("PlayerAttack"))
         {
+            AudioManager.instance.PlaySFX(50);
             spiderHealth.TakeDamage(10);
             
         }

@@ -24,7 +24,6 @@ public class Enemy_Gun : Enemy
 
         if (isPlayerDetected && !isAttacking)
         {
-            // attack every 1 second
            StartAttack();
         }
         if (!isAttacking)
@@ -58,6 +57,7 @@ public class Enemy_Gun : Enemy
 
     private void StartAttack()
     {
+        AudioManager.instance.PlaySFX(16);
         isAttacking = true;
         anim.SetTrigger("Attack"); // Trigger enemy attack animation
         rb.linearVelocity = Vector2.zero; // Stop movement

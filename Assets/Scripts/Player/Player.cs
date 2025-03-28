@@ -173,7 +173,6 @@ public class Player : MonoBehaviour
         HandleAnimations();
         if (isDashing)
         {
-            AudioManager.instance.PlaySFX(4);
             Shadows.me.Sombras_skill();
         }
         if (!isGrounded && !isSliding)
@@ -188,7 +187,8 @@ public class Player : MonoBehaviour
         {
             if (mana.HasEnoughMana(100))
             {
-                mana.ConsumeMana(100); 
+                mana.ConsumeMana(100);
+                AudioManager.instance.PlaySFX(28);
                 TriggerSpecialAttack();
             }
             else
@@ -222,6 +222,7 @@ public class Player : MonoBehaviour
 
     private void HandleLanding()
     {
+        AudioManager.instance.PlaySFX(11);
         isAirborne = false;
         canDoubleJump = true;
         CreateDust(); // Dust when landing
@@ -328,14 +329,17 @@ public class Player : MonoBehaviour
         bool coyoteJumpAvailable = Time.time < coyoteJumpPressed + coyoteJumpWindow;
         if (isGrounded || coyoteJumpAvailable)
         {
+            AudioManager.instance.PlaySFX(10);
             jump();
         } 
         else if (isWallDetected && !isGrounded)
         {
+            AudioManager.instance.PlaySFX(10);
             WallJump();
         }
         else if (canDoubleJump )
         {
+            AudioManager.instance.PlaySFX(10);
             DoubleJump();
         }
         CancelCoyoteJump();
@@ -448,6 +452,7 @@ public class Player : MonoBehaviour
         anim.ResetTrigger("endingAttack");
         anim.ResetTrigger("special");
 
+        AudioManager.instance.PlaySFX(UnityEngine.Random.Range(7, 9));
         CameraManager.instance.ScreenShake(facingDir);
         StartCoroutine(KnockbackRoutine());
         anim.SetTrigger("knockback");
@@ -457,6 +462,7 @@ public class Player : MonoBehaviour
 
     public void Die()
     {
+        
         GameObject newDeathVfx = Instantiate(deathVfx, transform.position, Quaternion.identity);
 
         // Get the current scene name
@@ -465,6 +471,7 @@ public class Player : MonoBehaviour
         // Check if we're in Level_4
         if (currentSceneName == "Level_4")
         {
+            AudioManager.instance.PlaySFX(UnityEngine.Random.Range(5,7));
             // Destroy the player object
             Destroy(gameObject);
 
@@ -474,6 +481,7 @@ public class Player : MonoBehaviour
         else
         {
             // Original behavior - destroy and respawn
+            AudioManager.instance.PlaySFX(UnityEngine.Random.Range(39, 42));
             Destroy(gameObject);
             GameManager.instance.RespawnPlayer();
         }
@@ -851,6 +859,7 @@ public class Player : MonoBehaviour
 
     private void TryDash(int direction)
     {
+        AudioManager.instance.PlaySFX(9);
         if (Time.time - lastDashTime > dashCooldown)
         {
             StartCoroutine(DashRoutine(direction));

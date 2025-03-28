@@ -79,6 +79,7 @@ public class Enemy_Hoover : Enemy
 
             if (target == null && detectedPlayer != null)
             {
+                AudioManager.instance.PlaySFX(45);
                 Debug.Log("Player detected! Starting charge attack.");
                 target = detectedPlayer;
                 chaseTimer = chaseDuration;
@@ -115,6 +116,7 @@ public class Enemy_Hoover : Enemy
 
         Debug.Log("Firing projectile!");
         GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
+        AudioManager.instance.PlaySFX(46);
 
         Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
         if (rb != null)
@@ -136,6 +138,7 @@ public class Enemy_Hoover : Enemy
 
         if (!canMove)
             return;
+
 
         Vector3 currentPos = transform.position;
 

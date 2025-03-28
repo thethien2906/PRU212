@@ -56,4 +56,8 @@ public class UI_MainMenu : MonoBehaviour
         //DifficultyManager.instance.LoadDifficulty(difficultyIndex);
         SceneManager.LoadScene("Level_" + levelToLoad);
     }
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
 }

@@ -51,6 +51,7 @@ public class HeadDamageHandler : MonoBehaviour
         // Check if hit by player's regular attack
         else if (other.CompareTag("PlayerAttack"))
         {
+            AudioManager.instance.PlaySFX(42);
             Mana playerMana = other.transform.root.GetComponent<Mana>();
             // Apply damage to the appropriate head
             if (headType == 1 && head1Controller != null)

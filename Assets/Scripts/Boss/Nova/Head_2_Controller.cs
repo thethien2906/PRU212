@@ -121,6 +121,7 @@ public class Head2Controller : MonoBehaviour
 
     public void PerformAttack2()
     {
+        AudioManager.instance.PlaySFX(60);
         // Set attack type to 2 (laser attack)
         animator.SetInteger(attackTypeHash, 2);
 
@@ -132,7 +133,6 @@ public class Head2Controller : MonoBehaviour
     {
         // Wait for pre-attack animation
         yield return new WaitForSeconds(GetAnimationLength("head_2_pre_attack2"));
-
         // Activate laser
         animator.SetBool(isLaseringHash, true);
         FireLaser();
@@ -169,6 +169,7 @@ public class Head2Controller : MonoBehaviour
         animator.SetBool(isVulnerableHash, false);
 
         // Disappear
+        AudioManager.instance.PlaySFX(64);
         Disappear();
     }
 
@@ -267,6 +268,7 @@ public class Head2Controller : MonoBehaviour
 
     private void FireShockwave()
     {
+        AudioManager.instance.PlaySFX(61);
         if (shockwavePrefab != null && shockwaveSpawnPoint != null)
         {
             GameObject shockwave = Instantiate(shockwavePrefab, shockwaveSpawnPoint.position, Quaternion.identity);

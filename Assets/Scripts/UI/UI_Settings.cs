@@ -10,24 +10,20 @@ public class UI_Settings : MonoBehaviour
 
     [Header("SFX Settings")]
     [SerializeField] private Slider sfxSlider;
-    [SerializeField] private TextMeshProUGUI sfxSliderText;
     [SerializeField] private string sfxParametr;
 
     [Header("BGM Settings")]
     [SerializeField] private Slider bgmSlider;
-    [SerializeField] private TextMeshProUGUI bgmSliderText;
     [SerializeField] private string bgmParametr;
 
     public void SFXSliderValue(float value)
     {
-        sfxSliderText.text = Mathf.RoundToInt(value * 100) + "%";
         float newValue = Mathf.Log10(value) * mixerMultiplier;
         audioMixer.SetFloat(sfxParametr, newValue);
     }
 
     public void BGMSliderValue(float value)
     {
-        bgmSliderText.text = Mathf.RoundToInt(value * 100) + "%";
         float newValue = Mathf.Log10(value) * mixerMultiplier;
         audioMixer.SetFloat(bgmParametr, newValue);
     }

@@ -74,6 +74,8 @@ public class SpiderHealth : MonoBehaviour
     }
     private void Die()
     {
+        AudioManager.instance.PlaySFX(51);
+
         if (flashEffect != null)
         {
             flashEffect.FlashSprite();

@@ -63,6 +63,7 @@ public class Enemy_Missile : Enemy
     // Called by animation event from EnemyReadyForAttack when it completes
     public void OnReadyAnimationComplete()
     {
+        AudioManager.instance.PlaySFX(22);
         // Set Attacking to true to transition to EnemyLaunch
         animator.SetBool("isAttacking", true);
     }

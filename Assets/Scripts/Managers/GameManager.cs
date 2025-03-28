@@ -66,6 +66,8 @@ public class GameManager : MonoBehaviour
         GameObject newPlayer = Instantiate(playerPrefab, respawnPoint.position, Quaternion.identity);
         CameraManager.instance.OnPlayerRespawn(newPlayer);
         player = newPlayer.GetComponent<Player>();
+        AudioManager.instance.PlaySFX(UnityEngine.Random.Range(34, 39));
+
         Debug.Log("Respawned");
     }
 

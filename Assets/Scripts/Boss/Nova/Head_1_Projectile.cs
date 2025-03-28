@@ -31,6 +31,7 @@ public class Head_1_Projectile : MonoBehaviour
         // Check if collided with player
         if (other.CompareTag("Player"))
         {
+            AudioManager.instance.PlaySFX(59);
             // Deal damage to player
             Health playerHealth = other.GetComponent<Health>();
             if (playerHealth != null)

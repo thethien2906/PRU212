@@ -87,6 +87,7 @@ public class MantisBoss : MonoBehaviour
             // Player detection logic
             if (distanceToPlayer < detectionRange && !isAwake && !playerDetected)
             {
+                AudioManager.instance.PlaySFX(47);
                 playerDetected = true;
                 StartCoroutine(WakeUp());
             }
@@ -124,6 +125,8 @@ public class MantisBoss : MonoBehaviour
 
         // Set attack parameters
         animator.SetInteger(AttackType, attackType);
+        AudioManager.instance.PlaySFX(49);
+
         animator.SetTrigger(AttackTrigger);
         animator.SetBool(IsAttacking, true);
 
@@ -166,7 +169,7 @@ public class MantisBoss : MonoBehaviour
     public void FireMissile()
     {
         if (player == null) return;
-
+        AudioManager.instance.PlaySFX(22);
         StartCoroutine(FireMissileSequence());
     }
 
@@ -246,6 +249,7 @@ public class MantisBoss : MonoBehaviour
             }
             else
             {
+                AudioManager.instance.PlaySFXLoopedByDuration(48, 2);
                 currentLeftGunEffect.SetActive(true); // Reactivate
             }
 
@@ -255,6 +259,7 @@ public class MantisBoss : MonoBehaviour
             }
             else
             {
+                AudioManager.instance.PlaySFXLoopedByDuration(48, 2);
                 currentRightGunEffect.SetActive(true); // Reactivate
             }
         }
@@ -366,6 +371,7 @@ public class MantisBoss : MonoBehaviour
         }
         else if (other.CompareTag("PlayerAttack"))
         {
+            AudioManager.instance.PlaySFX(50);
             Mana playerMana = other.transform.root.GetComponent<Mana>();
             if (playerMana != null)
             {

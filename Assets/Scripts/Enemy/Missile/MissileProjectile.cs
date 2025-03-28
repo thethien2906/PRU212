@@ -14,6 +14,7 @@ public class MissileProjectile : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            AudioManager.instance.PlaySFXwithRandomPitch(21);
             Health playerHealth = collision.GetComponent<Health>();
 
             if (playerHealth != null)

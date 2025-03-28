@@ -64,6 +64,7 @@ public class BossController : MonoBehaviour
         // Trigger intro animation
         if (bossBodyAnimator != null)
         {
+            AudioManager.instance.PlaySFX(65);
             bossBodyAnimator.SetTrigger("Intro");
 
             // Wait for intro animation to complete
@@ -127,10 +128,12 @@ public class BossController : MonoBehaviour
         switch (currentSequenceStep)
         {
             case 0: // Head 1 attack
+                AudioManager.instance.PlaySFX(63);
                 if (head1 != null) head1.Activate();
                 break;
 
             case 1: // Head 2 attack
+                AudioManager.instance.PlaySFX(63);
                 if (head2 != null) head2.Activate();
                 break;
 
@@ -221,6 +224,8 @@ public class BossController : MonoBehaviour
         if (head1Dead && head2Dead)
         {
             StopAllCoroutines();
+
+            AudioManager.instance.PlayBGM(7);
             StartCoroutine(TransitionToPhase2());
             return;
         }
@@ -244,7 +249,7 @@ public class BossController : MonoBehaviour
         {
             bossBodyAnimator.SetBool("isAttacking", true);
             // Wait for attack animation to transition
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(2f);
         }
 
         // Start phase 2 attacks
@@ -286,6 +291,8 @@ public class BossController : MonoBehaviour
 
     private IEnumerator LaserRainAttack()
     {
+        AudioManager.instance.PlaySFX(69);
+
         Debug.Log("[BossController] Starting Laser Rain Attack");
 
         // Spawn the laser rain prefab
@@ -399,7 +406,7 @@ public class BossController : MonoBehaviour
         {
             directionToPlayer = (playerTransform.position - plasmaSpawnPoint.position).normalized;
         }
-
+        AudioManager.instance.PlaySFX(70);
         // Create initial projectile aimed at player
         GameObject projectile = Instantiate(
             plasmaProjectilePrefab,
@@ -412,6 +419,7 @@ public class BossController : MonoBehaviour
         {
             // Initialize with default values from the projectile itself
             plasmaScript.Initialize(directionToPlayer);
+            AudioManager.instance.PlaySFX(71);
         }
         else
         {
@@ -430,7 +438,7 @@ public class BossController : MonoBehaviour
         new Vector2(1f, -0.5f).normalized,  // Diagonal down-right
         new Vector2(-1f, -0.5f).normalized  // Diagonal down-left
         };
-
+        AudioManager.instance.PlaySFX(71);
         foreach (Vector2 direction in additionalDirections)
         {
             GameObject additionalProjectile = Instantiate(
@@ -496,10 +504,12 @@ public class BossController : MonoBehaviour
             bossBodyAnimator.SetBool("isAttacking", false);
 
             // Play death animation
+            AudioManager.instance.PlaySFX(56);
+            AudioManager.instance.LowerBGMVolumeSlowly();
             bossBodyAnimator.SetBool("isDead",true);
             HideHealthBar();
             // Wait for animation to play
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(5f);
         }
 
         // Disable boss components

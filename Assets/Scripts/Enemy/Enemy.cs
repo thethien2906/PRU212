@@ -82,6 +82,7 @@ public class Enemy : MonoBehaviour
 
         if (health <= 0)
         {
+            AudioManager.instance.PlaySFXwithRandomPitch(UnityEngine.Random.Range(43, 45));
             Die();
         }
     }
@@ -172,6 +173,7 @@ public class Enemy : MonoBehaviour
         }
         else if (other.CompareTag("PlayerAttack"))
         {
+            AudioManager.instance.PlaySFX(42);
             Mana playerMana = other.transform.root.GetComponent<Mana>();
             if (playerMana != null)
             {
