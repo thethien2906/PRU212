@@ -50,6 +50,7 @@ public class Enemy_Shield : Enemy
 
     private void ThrowGrenade()
     {
+        if (isDead) return;
         GameObject grenade = Instantiate(grenadePrefab, firePoint.position, Quaternion.identity);
         EnemyGrenade grenadeScript = grenade.GetComponent<EnemyGrenade>();
         grenadeScript.Throw(facingDir, throwForce, throwAngle);
@@ -57,6 +58,7 @@ public class Enemy_Shield : Enemy
 
     private void StopThrowGrenade()
     {
+        if (isDead) return;
         isAttacking = false;
         anim.SetTrigger("StopAttack");
     }

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class SpiderHealth : MonoBehaviour
 {
     [SerializeField] private int maxHealth = 100;
-    [SerializeField] private int currentHealth;
+    [SerializeField] public int currentHealth;
     [SerializeField] private Slider healthSlider;
     public delegate void OnHealthChanged();
     public event OnHealthChanged HealthUpdated;
@@ -86,6 +86,7 @@ public class SpiderHealth : MonoBehaviour
         if (animator != null)
         {
             animator.SetTrigger("isDead");
+            Debug.Log("Spider is dead");
             StartCoroutine(DestroyAfterAnimation(1.5f)); // Adjust time based on death animation length
             GameManager.instance.LevelFinished();
         }

@@ -22,8 +22,8 @@ public class GameManager : MonoBehaviour
     [Header("Checkpoints")]
     public bool canReactivate;
 
-
-
+    // Loading Scene
+    private const string LOADING_SCENE = "LoadingScene";
 
     private void Awake()
     {
@@ -88,7 +88,7 @@ public class GameManager : MonoBehaviour
         SaveLevelProgression();
         SaveBestTime();
 
-        LoadNextScene();
+        LoadNextSceneWithLoading();
     }
 
     private void SaveBestTime()
@@ -108,27 +108,39 @@ public class GameManager : MonoBehaviour
 
     public void RestartLevel()
     {
-        UI_InGame.instance.fadeEffect.ScreenFade(1, .75f, LoadCurrentScene);
+        UI_InGame.instance.fadeEffect.ScreenFade(1, .75f, () => LoadSceneWithLoading(currentLevelIndex));
     }
 
-    private void LoadCurrentScene() => SceneManager.LoadScene("Level_" + currentLevelIndex);
-    private void LoadTheEndScene() => SceneManager.LoadScene("TheEnd");
-    private void LoadNextLevel()
+    private void LoadSceneWithLoading(int sceneIndex)
     {
-        SceneManager.LoadScene("Level_" + nextLevelIndex);
+        // Store the scene to load in PlayerPrefs
+        PlayerPrefs.SetInt("SceneToLoad", sceneIndex);
+        PlayerPrefs.Save();
+
+        // Load the loading scene
+        SceneManager.LoadScene(LOADING_SCENE);
     }
-    private void LoadNextScene()
+
+    private void LoadNextSceneWithLoading()
     {
         UI_FadeEffect fadeEffect = UI_InGame.instance.fadeEffect;
 
         if (NoMoreLevels())
-            fadeEffect.ScreenFade(1, 10f, LoadTheEndScene);
+        {
+            // For TheEnd scene
+            int theEndIndex = SceneManager.sceneCountInBuildSettings - 1;
+            fadeEffect.ScreenFade(1, 3f, () => LoadSceneWithLoading(theEndIndex));
+        }
         else
-            fadeEffect.ScreenFade(1, 3f, LoadNextLevel);
+        {
+            // For the next level
+            fadeEffect.ScreenFade(1, 1f, () => LoadSceneWithLoading(nextLevelIndex));
+        }
     }
+
     private bool NoMoreLevels()
     {
-        int lastLevelIndex = SceneManager.sceneCountInBuildSettings - 2; // We have main menu and The End scene, that's why we use number 2
+        int lastLevelIndex = SceneManager.sceneCountInBuildSettings - 4; // We have main menu, loading scene and The End scene, that's why we use number 3
         bool noMoreLevels = currentLevelIndex == lastLevelIndex;
 
         return noMoreLevels;

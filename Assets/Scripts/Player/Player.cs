@@ -559,13 +559,12 @@ public class Player : MonoBehaviour
         switch (gameDifficulty)
         {
             case DifficultyType.Easy:
-                modifiedDamage = damage * 0.5f; // Reduce damage by half
+                modifiedDamage = damage * 0.1f; // Reduce damage by half
                 break;
             case DifficultyType.Normal:
-                // Keep damage as is
+                modifiedDamage = damage * 0.5f;
                 break;
             case DifficultyType.Hard:
-                modifiedDamage = damage * 1.5f; // Increase damage by 50%
                 break;
         }
 

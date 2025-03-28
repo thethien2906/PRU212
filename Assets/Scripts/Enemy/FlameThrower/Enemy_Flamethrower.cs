@@ -48,12 +48,14 @@ public class Enemy_Flamethrower : Enemy
 
     public void TriggerFlame()
     {
+        if (isDead) return;
         fireObject.SetActive(true);
         flameAnimator.SetTrigger("FlameOn"); // Play flame animation
     }
 
     public void StopFlame()
     {
+        if (isDead) return;
         flameAnimator.SetTrigger("FlameOff"); // Stop flame animation
         Invoke(nameof(DeactivateFlame), 0.1f); // Small delay to smoothly fade out
     }

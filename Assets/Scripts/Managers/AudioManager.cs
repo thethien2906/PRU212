@@ -53,6 +53,24 @@ public class AudioManager : MonoBehaviour
             // Play main menu music
             PlayBGM(mainMenuMusicIndex);
         }
+        // Check if current scene is level 1
+        else if (SceneManager.GetActiveScene().name == "Level_1")
+        {
+            // Play level 1 music
+            PlayBGM(0);
+        }
+        // check if current scene is level 2
+        else if (SceneManager.GetActiveScene().name == "Level_2")
+        {
+            // Play level 2 music
+            PlayBGM(1);
+        }
+        // check if current scene is level 3
+        else if (SceneManager.GetActiveScene().name == "Level_3")
+        {
+            // Play level 3 music
+            PlayBGM(2);
+        }
         else
         {
             // For non-main menu scenes, stop music

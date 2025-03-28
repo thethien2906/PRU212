@@ -9,7 +9,7 @@ public class SpiderBoss : MonoBehaviour
     private SpiderHealth spiderHealth;
     [Header("Attack Parameters")]
     [SerializeField] private int attackType = 0; // 0 = Rush, 1 = Shoot (Grenade)
-    [SerializeField] private float cooldownTime = 3f;
+    [SerializeField] private float cooldownTime = 2f;
     [SerializeField] private float rushSpeed = 15f;
     [SerializeField] private float rushDuration = 1.5f;
 
@@ -64,11 +64,23 @@ public class SpiderBoss : MonoBehaviour
 
     void Update()
     {
+        AliveCheck();
+        if (player == null)
+            player = GameObject.FindGameObjectWithTag("Player")?.transform;
         if (!isIntroComplete || isAttacking || isCoolingDown)
             return;
 
         // Choose attack based on distance to player or other logic
         DecideNextAttack();
+    }
+
+    private void AliveCheck()
+    {
+        if (spiderHealth.currentHealth <= 0)
+        {
+            Debug.Log("Spider died, dont do anythng");
+            return;
+        }
     }
 
     private IEnumerator PlayIntro()
@@ -83,6 +95,7 @@ public class SpiderBoss : MonoBehaviour
 
     private void DecideNextAttack()
     {
+        AliveCheck();
         // Choose attack type based on distance or random
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
 
@@ -103,6 +116,7 @@ public class SpiderBoss : MonoBehaviour
 
     private IEnumerator PerformAttack()
     {
+        AliveCheck();
         isAttacking = true;
 
         // Set attack type and trigger
@@ -139,6 +153,7 @@ public class SpiderBoss : MonoBehaviour
 
     private IEnumerator PerformRushAttack(float duration)
     {
+        AliveCheck();
         // Calculate direction to player but only use horizontal component
         Vector2 playerDirection = (player.position - transform.position).normalized;
         Vector2 direction = new Vector2(playerDirection.x, 0).normalized; // Only move horizontally
@@ -222,10 +237,12 @@ public class SpiderBoss : MonoBehaviour
 
         // Make sure velocity is zero
         rb.linearVelocity = Vector2.zero;
+        FacePlayer();
     }
 
     private IEnumerator PerformGrenadeAttack()
     {
+        AliveCheck();
         // Face the player
         FacePlayer();
 
@@ -247,10 +264,11 @@ public class SpiderBoss : MonoBehaviour
 
     private void FacePlayer()
     {
+
         // Determine which direction to face based on player position
         if (player.position.x > transform.position.x)
         {
-            transform.localScale = new Vector3(-1, 1, 1); // Face right
+            transform.localScale = new Vector3(-1, 1, 1); // Face right (adjust if your sprite faces the opposite direction)
             facingDir = 1;
         }
         else
@@ -262,6 +280,7 @@ public class SpiderBoss : MonoBehaviour
 
     private void ThrowGrenade()
     {
+        AliveCheck();
         GameObject grenade = Instantiate(grenadePrefab, shootingPoint.position, Quaternion.identity);
         EnemyGrenade grenadeScript = grenade.GetComponent<EnemyGrenade>();
 
@@ -282,8 +301,10 @@ public class SpiderBoss : MonoBehaviour
 
     private IEnumerator StartCooldown()
     {
+        AliveCheck();
         isAttacking = false;
         isCoolingDown = true;
+        FacePlayer();
 
         animator.SetBool(IsCoolingDown, true);
 

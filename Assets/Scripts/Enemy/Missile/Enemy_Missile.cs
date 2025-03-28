@@ -63,6 +63,7 @@ public class Enemy_Missile : Enemy
     // Called by animation event from EnemyReadyForAttack when it completes
     public void OnReadyAnimationComplete()
     {
+        if (isDead) return;
         AudioManager.instance.PlaySFX(22);
         // Set Attacking to true to transition to EnemyLaunch
         animator.SetBool("isAttacking", true);
@@ -71,6 +72,7 @@ public class Enemy_Missile : Enemy
     // Called by animation event from EnemyStopAttack when it completes
     public void OnStopAttackAnimationComplete()
     {
+        if (isDead) return;
         // Reset the Attacking parameter
         animator.SetBool("isAttacking", false);
         animator.SetTrigger("Normal");
@@ -80,6 +82,7 @@ public class Enemy_Missile : Enemy
     // Animation Event: Call this at the START of "EnemyLaunch" 
     public void FireMissile()
     {
+        if (isDead) return;
         if (player == null || missileTimer > 0) return; // Skip if on cooldown
         missileTimer = missileCooldown; // Start cooldown
 

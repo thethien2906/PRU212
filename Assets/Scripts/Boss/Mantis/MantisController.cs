@@ -10,7 +10,7 @@ public class MantisBoss : MonoBehaviour
     private SpriteRenderer sr;
 
     [Header("Attack Parameters")]
-    [SerializeField] private int attackType = 0; // 1 = Missile Attack, 2 = Gun Attack
+    [SerializeField] public int attackType = 0; // 1 = Missile Attack, 2 = Gun Attack
     [SerializeField] private float cooldownTime = 3f;
     [SerializeField] private float attack1Duration = 4f; // Duration for Attack 1 (missile)
     [SerializeField] private float attack2Duration = 2f; // Duration for Attack 2 (guns)
@@ -53,7 +53,6 @@ public class MantisBoss : MonoBehaviour
     private bool isCoolingDown = false;
     private int facingDir = -1; // 1 = right, -1 = left
     private Vector2 originalPosition; // Store original position for reset if needed
-
     // Player detection
     [SerializeField] private float detectionRange = 8f;
     private bool playerDetected = false;
@@ -79,6 +78,7 @@ public class MantisBoss : MonoBehaviour
 
     void Update()
     {
+        if (mantisHealth.currentHealth <= 0) return;
         // Check if player is in detection range
         if (player != null)
         {

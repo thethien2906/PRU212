@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class MantisHealth : MonoBehaviour
 {
     [SerializeField] private int maxHealth = 100;
-    [SerializeField] private int currentHealth;
+    [SerializeField] public int currentHealth;
     [SerializeField] private Slider healthSlider;
     public delegate void OnHealthChanged();
     public event OnHealthChanged HealthUpdated;

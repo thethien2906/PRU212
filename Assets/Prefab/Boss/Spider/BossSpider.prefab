@@ -32,7 +32,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566651216761503758}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.36, y: -0.16, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -41,7 +41,7 @@ Transform:
   - {fileID: 828161017617171549}
   - {fileID: 63633940879829462}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &8359012045481935636
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -213,7 +213,7 @@ MonoBehaviour:
   grenadePrefab: {fileID: 3480337507568515588, guid: 2b49a1fc33b91114e8f4ba0bb300d850, type: 3}
   throwForce: 10
   throwAngle: 45
-  player: {fileID: 9135264214450906904, guid: b7fb0ffec596eab4fb7d997b20ea8b9a, type: 3}
+  player: {fileID: 0}
   shootingPoint: {fileID: 828161017617171549}
   rushingPoint: {fileID: 63633940879829462}
   obstacleLayer:
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1a245672ff497446a783b0ae9258b59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 200
   currentHealth: 0
   healthSlider: {fileID: 0}
   onDamaged:

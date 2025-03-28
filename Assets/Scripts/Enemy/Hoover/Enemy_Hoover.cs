@@ -101,6 +101,7 @@ public class Enemy_Hoover : Enemy
 
     public void FireProjectile()
     {
+        if (isDead) return;
         // Only fire if cooldown has elapsed
         if (attackTimer > 0)
         {
@@ -214,6 +215,7 @@ public class Enemy_Hoover : Enemy
 
     public void OnReadyAnimationComplete()
     {
+        if (isDead) return;
         isAttacking = true;
         animator.SetBool("isAttacking", true);
         Debug.Log("Ready animation complete, starting attack");
@@ -223,6 +225,7 @@ public class Enemy_Hoover : Enemy
 
     public void OnStopAttackAnimationComplete()
     {
+        if (isDead) return;
         isAttacking = false;
         animator.SetBool("isAttacking", false);
         animator.SetTrigger("Normal");

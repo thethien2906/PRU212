@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField] private int maxHealth = 10000;
+    [SerializeField] private int maxHealth = 100;
     private int currentHealth;
     [SerializeField] private Slider healthSlider;
 
@@ -13,9 +13,11 @@ public class Health : MonoBehaviour
     public event OnHealthChanged HealthUpdated;
 
     private Dictionary<string, Action> itemActions;
+    private DifficultyType gameDifficulty;
 
     private void Start()
     {
+        UpdateGameDifficulty();
         currentHealth = maxHealth;
         UpdateHealthUI();
         // Initialize the dictionary with item actions
@@ -33,11 +35,40 @@ public class Health : MonoBehaviour
             healthSlider.value = (float)currentHealth / maxHealth;
         HealthUpdated?.Invoke();
     }
+    private void UpdateGameDifficulty()
+    {
+        DifficultyManager difficultyManager = DifficultyManager.instance;
+
+        if (difficultyManager != null)
+            gameDifficulty = difficultyManager.difficulty;
+    }
 
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage;
+        float modifiedDamage = damage;
+
+        switch (gameDifficulty)
+        {
+            case DifficultyType.Easy:
+                modifiedDamage = damage * 0.1f; // Reduce damage by half
+                break;
+            case DifficultyType.Normal:
+                modifiedDamage = damage * 0.5f;
+                break;
+            case DifficultyType.Hard:
+                break;
+        }
+
+        // Convert back to integer (round down)
+        int finalDamage = Mathf.FloorToInt(modifiedDamage);
+
+        // Ensure minimum damage of 1 (optional)
+        finalDamage = Mathf.Max(1, finalDamage);
+
+        // Apply the modified damage
+        currentHealth -= finalDamage;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
         UpdateHealthUI();
 
         if (currentHealth <= 0)

@@ -20,10 +20,15 @@ public class Enemy_Gun : Enemy
     protected override void Update()
     {
         base.Update();
-        if (isDead) return;
+        if (isDead)
+        {
+            Debug.Log("Gun is dead, dont do anything");
+        }
+
 
         if (isPlayerDetected && !isAttacking)
         {
+
            StartAttack();
         }
         if (!isAttacking)
@@ -32,29 +37,6 @@ public class Enemy_Gun : Enemy
             if (isGrounded) HandleTurnAround();
         }
     }
-    public override void Die()
-    {
-        if (isDead) return; // Prevent multiple calls
-        isDead = true;
-
-        // Stop any ongoing attack animations
-        isAttacking = false;
-        anim.ResetTrigger("Attack"); // Ensure attack animation stops
-        anim.SetTrigger("isDead");
-
-        // Disable movement
-        rb.linearVelocity = Vector2.zero;
-        rb.isKinematic = true;
-
-        // Hide projectile effects if active
-        if (gunOpenFireAnimation != null)
-        {
-            gunOpenFireAnimation.SetActive(false);
-        }
-
-        Destroy(gameObject, 1f);
-    }
-
     private void StartAttack()
     {
         AudioManager.instance.PlaySFX(16);
@@ -65,7 +47,11 @@ public class Enemy_Gun : Enemy
     }
     public void TriggerProjectile()
     {
-        if (isDead) return;
+        if (isDead)
+        {
+            Debug.Log("Gun is dead, dont do fire");
+            return;
+        }
         if (projectileAnimator != null) {
             gunOpenFireAnimation.SetActive(true);
             ShootProjectile();
@@ -79,11 +65,17 @@ public class Enemy_Gun : Enemy
 
     public void StopProjectile()
     {
+        if (isDead)
+        {
+            Debug.Log("Gun is dead, dont do stop projectile");
+            return;
+        }
         Invoke(nameof(StopAttack), 0.3f);
     }
 
     private void ShootProjectile()
     {
+        if (isDead) return;
         GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
         EnemyProjectile projScript = projectile.GetComponent<EnemyProjectile>();
         projScript.SetDirection(facingDir); // Ensure projectile moves in the right direction
