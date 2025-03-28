@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using static UnityEngine.Rendering.DebugUI;
@@ -115,6 +116,21 @@ public class Player : MonoBehaviour
     [SerializeField]
     private LayerMask specialAttackCollisionMask;
 
+    //ch?t nh? item
+    [Header("Inventory")]
+    private List<GameObject> collectedItems = new List<GameObject>();
+    [SerializeField] private float itemDropForce = 5f;
+    [SerializeField] private Transform itemDropParent; // Tham chi?u ??n m?t transform ?? ch?a các item
+
+    public void CollectItem(GameObject item)
+    {
+        if (item != null)
+        {
+            collectedItems.Add(item);
+        }
+    }
+
+    //
 
     private void Awake()
     {
@@ -472,6 +488,10 @@ public class Player : MonoBehaviour
         if (currentSceneName == "Level_4")
         {
             AudioManager.instance.PlaySFX(UnityEngine.Random.Range(5,7));
+
+            // Drop all collected items
+            DropCollectedItems();
+
             // Destroy the player object
             Destroy(gameObject);
 
@@ -482,6 +502,10 @@ public class Player : MonoBehaviour
         {
             // Original behavior - destroy and respawn
             AudioManager.instance.PlaySFX(UnityEngine.Random.Range(39, 42));
+
+            // Drop all collected items
+            DropCollectedItems();
+
             Destroy(gameObject);
             GameManager.instance.RespawnPlayer();
         }
@@ -917,4 +941,77 @@ public class Player : MonoBehaviour
     {
         isInCancelableState = false;
     }
+
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Check for health items
+        if (collision.CompareTag("addBlood"))
+        {
+            CollectItem(collision.gameObject);
+            collision.gameObject.SetActive(false);
+            Debug.Log("Collected item with tag: " + collision.tag);
+        }
+
+        // Check for mana items
+        if (collision.CompareTag("AddMana"))
+        {
+            CollectItem(collision.gameObject);
+            collision.gameObject.SetActive(false);
+            Debug.Log("Collected item with tag: " + collision.tag);
+        }
+    }
+
+    private void DropCollectedItems()
+    {
+        float dropSpacing = 0.5f; // Kho?ng cách gi?a các v?t ph?m
+        Vector2 dropCenter = transform.position; // V? trí trung tâm ?? nh? các v?t ph?m
+
+        for (int i = 0; i < collectedItems.Count; i++)
+        {
+            GameObject item = collectedItems[i];
+            if (item != null)
+            {
+                // Tính toán v? trí nh? ra cho t?ng v?t ph?m theo hàng ngang
+                Vector2 dropPosition = dropCenter + new Vector2((i - collectedItems.Count / 2) * dropSpacing, 0);
+
+                // T?m th?i kích ho?t v?t ph?m
+                item.SetActive(true);
+
+                // ??t v? trí c?a v?t ph?m
+                item.transform.position = dropPosition;
+
+                // L?y component Rigidbody2D c?a v?t ph?m
+                Rigidbody2D itemRb = item.GetComponent<Rigidbody2D>();
+
+                if (itemRb != null)
+                {
+                    // Tính toán h??ng nh? ra ng?u nhiên
+                    Vector2 dropDirection = new Vector2(
+                        UnityEngine.Random.Range(-1f, 1f),
+                        UnityEngine.Random.Range(0.5f, 1f)
+                    ).normalized;
+
+                    // Áp d?ng l?c nh? ra
+                    itemRb.isKinematic = false;
+                    itemRb.AddForce(dropDirection * itemDropForce, ForceMode2D.Impulse);
+                }
+
+                // N?u v?t ph?m có parent ???c ch? ??nh, di chuy?n nó ??n ?ó
+                if (itemDropParent != null)
+                {
+                    item.transform.SetParent(itemDropParent);
+                }
+
+                // In ra tag c?a v?t ph?m
+                Debug.Log("Dropped item with tag: " + item.tag);
+            }
+        }
+
+        // Xóa danh sách các v?t ph?m ?ã nh?t
+        collectedItems.Clear();
+    }
+
+
 }
